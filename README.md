@@ -1,6 +1,6 @@
 # aggerbaek.dk
 
-Homepage for the singsong writer Benjamin Aggerbaek
+Homepage for the singsong writer Benjamin Aggerbæk
 
    http://aggerbaek.dk
 
