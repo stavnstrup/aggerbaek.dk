@@ -1,3 +1,4 @@
+/* Override Foundation 3.2.5 default settings */
 /* Requires: normalize.css */
 /* Global Reset & Standards ---------------------- */
 *, *:before, *:after {
@@ -15,9 +16,9 @@ body {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
-  font-size: 14px;
+  font-size: 11px;
   line-height: 1;
-  color: red;
+  color: white;
   position: relative;
   -webkit-font-smoothing: antialiased;
 }
@@ -103,25 +104,25 @@ figure {
 body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td {
   margin: 0;
   padding: 0;
-  font-size: 14px;
+  font-size: 11px;
   direction: ltr;
 }
 
 p {
   font-family: inherit;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 11px;
   line-height: 1.6;
   margin-bottom: 17px;
 }
 p.lead {
-  font-size: 17.5px;
+  font-size: 13.75px;
   line-height: 1.6;
   margin-bottom: 17px;
 }
 
 aside p {
-  font-size: 13px;
+  font-size: 10px;
   line-height: 1.35;
   font-style: italic;
 }
@@ -133,8 +134,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #222222;
   text-rendering: optimizeLegibility;
   line-height: 1.1;
-  margin-bottom: 14px;
-  margin-top: 14px;
+  margin-bottom: 11px;
+  margin-top: 11px;
 }
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
   font-size: 60%;
@@ -147,7 +148,7 @@ h1 {
 }
 
 h2 {
-  font-size: 37px;
+  font-size: 29px;
 }
 
 h3 {
@@ -155,7 +156,7 @@ h3 {
 }
 
 h4 {
-  font-size: 23px;
+  font-size: 18px;
 }
 
 h5 {
@@ -163,7 +164,7 @@ h5 {
 }
 
 h6 {
-  font-size: 14px;
+  font-size: 11px;
 }
 
 hr {
@@ -203,7 +204,7 @@ code {
 
 /* Lists ---------------------- */
 ul, ol, dl {
-  font-size: 14px;
+  font-size: 11px;
   line-height: 1.6;
   margin-bottom: 17px;
   list-style-position: outside;
@@ -262,7 +263,7 @@ blockquote {
 }
 blockquote cite {
   display: block;
-  font-size: 13px;
+  font-size: 10px;
   color: #555555;
 }
 blockquote cite:before {
@@ -390,7 +391,7 @@ form {
 }
 
 label {
-  font-size: 14px;
+  font-size: 11px;
   color: #4d4d4d;
   cursor: pointer;
   display: block;
@@ -402,7 +403,7 @@ label.right {
   text-align: right;
 }
 label.inline {
-  line-height: 32px;
+  line-height: 29px;
   margin: 0 0 12px 0;
 }
 
@@ -414,8 +415,8 @@ label.inline {
   width: 100%;
   padding-top: 0;
   padding-bottom: 0;
-  height: 32px;
-  line-height: 31px;
+  height: 29px;
+  line-height: 28px;
 }
 
 a.button.prefix, a.button.postfix {
@@ -467,7 +468,7 @@ input[type="text"], input[type="password"], input[type="date"], input[type="date
   font-size: 14px;
   margin: 0 0 12px 0;
   padding: 6px;
-  height: 32px;
+  height: 29px;
   width: 100%;
   -webkit-transition: all 0.15s linear;
   -moz-transition: all 0.15s linear;
@@ -534,7 +535,7 @@ fieldset legend {
   margin-bottom: 12px;
   background: #c60f13;
   color: #fff;
-  font-size: 12px;
+  font-size: 9px;
   font-weight: bold;
   -moz-border-radius-bottomleft: 2px;
   -webkit-border-bottom-left-radius: 2px;
@@ -696,7 +697,7 @@ form.custom div.custom.dropdown ul {
 }
 form.custom div.custom.dropdown ul li {
   color: #555555;
-  font-size: 13px;
+  font-size: 10px;
   cursor: pointer;
   padding: 3px;
   padding-left: 6px;
@@ -754,7 +755,7 @@ form.custom .custom.disabled {
 
 /* The Grid ---------------------- */
 .row {
-  width: 1000px;
+  width: 1030px;
   max-width: 100%;
   min-width: 768px;
   margin: 0 auto;
@@ -1136,7 +1137,7 @@ that IE7/8 do not support :nth-child.
   cursor: pointer;
   display: inline-block;
   font-family: inherit;
-  font-size: 14px;
+  font-size: 11px;
   font-weight: bold;
   line-height: 1;
   margin: 0;
@@ -1169,14 +1170,14 @@ that IE7/8 do not support :nth-child.
   padding: 15px 30px 16px;
 }
 .button.medium {
-  font-size: 14px;
+  font-size: 11px;
 }
 .button.small {
-  font-size: 11px;
+  font-size: 8px;
   padding: 7px 14px 8px;
 }
 .button.tiny {
-  font-size: 10px;
+  font-size: 7px;
   padding: 5px 10px 6px;
 }
 .button.expand {
@@ -1388,7 +1389,7 @@ input[type=submit].button, button.button {
 .button.dropdown > ul li a, .button.dropdown > ul li button {
   display: block;
   color: #555;
-  font-size: 13px;
+  font-size: 10px;
   font-weight: normal;
   padding: 6px 14px;
   text-align: left;
@@ -1672,10 +1673,10 @@ div.button-bar ul.button-group:last-child {
 }
 
 .nav-bar {
-  height: 30px;
+  height: 40px;
   background: #4d4d4d;
   margin-left: 0;
-  margin-top: 15px;
+  margin-top: 20px;
   padding: 0;
 }
 .nav-bar > li {
@@ -1686,7 +1687,7 @@ div.button-bar ul.button-group:last-child {
   margin: 0;
   border: 1px solid #333333;
   border-right: none;
-  line-height: 28px;
+  line-height: 38px;
   -webkit-box-shadow: 1px 0 0 rgba(255, 255, 255, 0.2) inset;
   -moz-box-shadow: 1px 0 0 rgba(255, 255, 255, 0.2) inset;
   box-shadow: 1px 0 0 rgba(255, 255, 255, 0.2) inset;
@@ -1727,7 +1728,7 @@ div.button-bar ul.button-group:last-child {
   display: none;
 }
 .nav-bar > li.has-flyout > a:first-child {
-  padding-right: 30px;
+  padding-right: 40px;
   position: relative;
 }
 .nav-bar > li.has-flyout > a:first-child:after {
@@ -1738,15 +1739,15 @@ div.button-bar ul.button-group:last-child {
   border: solid 4px;
   border-color: #e6e6e6 transparent transparent transparent;
   position: absolute;
-  right: 15px;
-  top: 12px;
+  right: 20px;
+  top: 17px;
 }
 .nav-bar > li.has-flyout > a.flyout-toggle {
   border-left: 0 !important;
   position: absolute;
   right: 0;
   top: 0;
-  padding: 15px;
+  padding: 20px;
   z-index: 2;
   display: block;
 }
@@ -1758,10 +1759,10 @@ div.button-bar ul.button-group:last-child {
 }
 .nav-bar > li > a:first-child {
   position: relative;
-  padding: 0 15px;
+  padding: 0 20px;
   display: block;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 11px;
 }
 .nav-bar > li > input {
   margin: 0 10px;
@@ -1803,11 +1804,11 @@ div.button-bar ul.button-group:last-child {
 
 .flyout {
   background: #f2f2f2;
-  padding: 15px;
+  padding: 20px;
   margin: 0;
   border: 1px solid #d9d9d9;
   position: absolute;
-  top: 29px;
+  top: 39px;
   left: -1px;
   width: 250px;
   z-index: 40;
@@ -1819,7 +1820,7 @@ div.button-bar ul.button-group:last-child {
 }
 .flyout p {
   line-height: 1.2;
-  font-size: 13px;
+  font-size: 10px;
 }
 .flyout *:first-child {
   margin-top: 0;
@@ -1843,7 +1844,7 @@ div.button-bar ul.button-group:last-child {
 }
 .flyout.up {
   top: auto;
-  bottom: 29px;
+  bottom: 39px;
 }
 
 ul.flyout, .nav-bar li ul {
@@ -1859,10 +1860,10 @@ ul.flyout li a, .nav-bar li ul li a {
   border-width: 1px 1px 0 0;
   color: #555;
   display: block;
-  font-size: 14px;
+  font-size: 11px;
   height: auto;
   line-height: 1;
-  padding: 10px 15px;
+  padding: 15px 20px;
   -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
   -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
   box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
@@ -1935,8 +1936,8 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 /* <nav> */
 .top-bar {
   background: #222222;
-  min-height: 32px;
-  line-height: 32px;
+  min-height: 22px;
+  line-height: 22px;
   margin: 0 0 30px 0;
   padding: 0;
   width: 100%;
@@ -1946,16 +1947,16 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
   /* topbar global <ul> styles */
 }
 .contain-to-grid .top-bar {
-  max-width: 1000px;
+  max-width: 1030px;
   margin: 0 auto;
 }
 .top-bar > ul .name h1 {
-  line-height: 32px;
+  line-height: 22px;
   margin: 0;
 }
 .top-bar > ul .name h1 a {
-  font-weight: bold;
-  padding: 0 16px;
+  font-weight: normal;
+  padding: 0 11px;
   font-size: 17px !important;
 }
 .top-bar > ul .name img {
@@ -1968,8 +1969,8 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 .top-bar ul {
   margin-left: 0;
   display: inline;
-  height: 32px;
-  line-height: 32px;
+  height: 22px;
+  line-height: 22px;
   list-style: none;
   /* Main Navigation links style */
   /* Left Side <ul> */
@@ -1989,9 +1990,9 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
   display: block;
   font-size: 13px;
   font-weight: bold;
-  height: 32px;
-  line-height: 32px;
-  padding: 0 10.66667px;
+  height: 22px;
+  line-height: 22px;
+  padding: 0 7.33333px;
 }
 .top-bar ul > li:not(.name):hover, .top-bar ul > li:not(.name).active, .top-bar ul > li:not(.name):focus {
   background: black;
@@ -2009,7 +2010,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
   width: 1px;
 }
 .top-bar ul > li.has-button a.button {
-  margin: 0 8px;
+  margin: 0 5.5px;
 }
 .top-bar ul > li.has-button:hover, .top-bar ul > li.has-button:focus {
   background: #222222;
@@ -2018,7 +2019,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
   color: #fff;
 }
 .top-bar ul > li.search {
-  padding: 0 10.66667px;
+  padding: 0 7.33333px;
 }
 .top-bar ul > li.search form {
   display: inline-block;
@@ -2034,9 +2035,9 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
   -webkit-border-bottom-right-radius: 0;
   border-bottom-right-radius: 0;
   float: left;
-  font-size: 13px;
+  font-size: 10px;
   margin-top: -1px;
-  height: 16px;
+  height: 11px;
   margin-bottom: 0;
   width: 130px;
 }
@@ -2049,7 +2050,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
   -webkit-border-bottom-left-radius: 0;
   border-bottom-left-radius: 0;
   float: left;
-  font-size: 12px;
+  font-size: 9px;
   margin-top: -1px;
   padding: 5px 12px 4px;
 }
@@ -2061,7 +2062,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
   background: #222222;
 }
 .top-bar ul > li.login {
-  padding: 0 10.66667px;
+  padding: 0 7.33333px;
 }
 .top-bar ul > li.login form {
   display: inline-block;
@@ -2072,9 +2073,9 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 .top-bar ul > li.login form input {
   float: left;
   width: auto;
-  font-size: 13px;
+  font-size: 10px;
   margin-top: -1px;
-  height: 16px;
+  height: 11px;
   margin-bottom: 0;
 }
 .top-bar ul > li.login form input[type=text] {
@@ -2111,7 +2112,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
   -webkit-border-bottom-right-radius: 2px;
   border-bottom-right-radius: 2px;
   float: left;
-  font-size: 12px;
+  font-size: 9px;
   margin-top: -1px;
   padding: 5px 12px 4px;
   width: 60px;
@@ -2131,7 +2132,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
   visibility: visible;
 }
 .top-bar ul > li.has-dropdown a {
-  padding-right: 24px;
+  padding-right: 16.5px;
 }
 .top-bar ul > li.has-dropdown a:after {
   content: "";
@@ -2140,7 +2141,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
   height: 0;
   border: solid 5px;
   border-color: white transparent transparent transparent;
-  margin-right: 10.66667px;
+  margin-right: 7.33333px;
   margin-top: -2.5px;
   position: absolute;
   right: 0;
@@ -2150,7 +2151,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
   background: #222222;
   left: 0;
   margin: 0;
-  padding: 6.4px 0 0 0;
+  padding: 4.4px 0 0 0;
   position: absolute;
   visibility: hidden;
   z-index: 99;
@@ -2166,7 +2167,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
   font-weight: normal;
   height: 100%;
   line-height: 1;
-  padding: 5px 12.66667px 5px 10.66667px;
+  padding: 5px 9.33333px 5px 7.33333px;
   white-space: nowrap;
 }
 .top-bar ul > li.has-dropdown .dropdown li a:after {
@@ -2177,10 +2178,10 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 }
 .top-bar ul > li.has-dropdown .dropdown li label {
   color: #6f6f6f;
-  font-size: 10px;
+  font-size: 7px;
   font-weight: bold;
   margin: 0;
-  padding-left: 10.66667px;
+  padding-left: 7.33333px;
   text-transform: uppercase;
 }
 .top-bar ul > li.has-dropdown .dropdown li.divider {
@@ -2199,7 +2200,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
   background: black;
 }
 .top-bar ul > li.has-dropdown .dropdown li.has-dropdown > a {
-  padding-right: 22.5px;
+  padding-right: 30px;
 }
 .top-bar ul > li.has-dropdown .dropdown li.has-dropdown > a:after {
   border: none;
@@ -2258,9 +2259,9 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
   display: block;
   font-weight: bold;
   font-size: 13px;
-  height: 32px;
-  line-height: 32px;
-  padding: 0 10.66667px;
+  height: 22px;
+  line-height: 22px;
+  padding: 0 7.33333px;
 }
 .lt-ie9 .top-bar ul li a.button {
   height: auto;
@@ -2287,7 +2288,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 }
 
 .lt-ie9 .top-bar ul li.has-dropdown {
-  padding-right: 24px;
+  padding-right: 16.5px;
 }
 .lt-ie9 .top-bar ul li.has-dropdown > ul li {
   padding-right: 0;
@@ -2405,7 +2406,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
   color: white;
   text-align: center;
   padding: 7px 0;
-  font-size: 13px;
+  font-size: 10px;
   position: absolute;
   right: 0;
   bottom: 0;
@@ -2986,9 +2987,9 @@ ul.block-grid[data-clearing] {
   margin: 0;
 }
 .tabs dd a, .tabs li a {
-  color: #ff9999;
+  color: #6f6f6f;
   display: block;
-  font-size: 14px;
+  font-size: 11px;
   height: 40px;
   line-height: 40px;
   padding: 0px 23.8px;
@@ -3003,7 +3004,7 @@ ul.block-grid[data-clearing] {
 }
 .tabs dd.active a, .tabs li.active a {
   cursor: default;
-  color: #ff3333;
+  color: #3c3c3c;
   background: #fff;
   border-left: 1px solid #e6e6e6;
   border-right: 1px solid #e6e6e6;
@@ -3030,7 +3031,7 @@ ul.block-grid[data-clearing] {
   border-width: 1px 1px 0 0;
   color: #555;
   display: block;
-  font-size: 14px;
+  font-size: 11px;
   height: auto;
   line-height: 1;
   padding: 15px 20px;
@@ -3168,7 +3169,7 @@ div.alert-box {
   display: block;
   padding: 6px 7px 7px;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 11px;
   color: white;
   background-color: #2ba6cb;
   border: 1px solid rgba(0, 0, 0, 0.1);
@@ -3212,7 +3213,7 @@ div.alert-box a.close:hover, div.alert-box a.close:focus {
 /* Labels ---------------------- */
 .label {
   padding: 1px 4px 2px;
-  font-size: 12px;
+  font-size: 9px;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
@@ -3454,7 +3455,7 @@ ul.side-nav {
 ul.side-nav li {
   display: block;
   list-style: none;
-  margin: 0 0 7px 0;
+  margin: 0 0 5.5px 0;
 }
 ul.side-nav li a {
   display: block;
@@ -3516,7 +3517,7 @@ ul.pagination li {
   display: block;
   height: 24px;
   color: #999;
-  font-size: 14px;
+  font-size: 11px;
   margin-left: 5px;
 }
 ul.pagination li a {
@@ -3627,7 +3628,7 @@ ul.inline-list > li > *, ul.link-list > li > * {
 /* Keytroke Characters ---------------------- */
 .keystroke, kbd {
   font-family: "Consolas", "Menlo", "Courier", monospace;
-  font-size: 13px;
+  font-size: 10px;
   padding: 2px 4px 0px;
   margin: 0;
   background: #ededed;
@@ -3714,7 +3715,7 @@ table tbody tr td,
 table tr td,
 table tfoot tr td {
   display: table-cell;
-  font-size: 14px;
+  font-size: 11px;
   line-height: 18px;
   text-align: left;
 }
@@ -3722,7 +3723,7 @@ table tfoot tr td {
 table thead tr th,
 table tfoot tr td {
   padding: 8px 10px 9px;
-  font-size: 14px;
+  font-size: 11px;
   font-weight: bold;
   color: #222;
 }
@@ -3764,7 +3765,7 @@ ul.vcard li {
 }
 ul.vcard li.fn {
   font-weight: bold;
-  font-size: 15px;
+  font-size: 12px;
 }
 
 p.vevent span.summary {
@@ -4058,13 +4059,13 @@ table.hide-for-medium {
   /* NavBar --- */
   /*            */
   .touch .nav-bar li a {
-    font-size: 13px;
+    font-size: 10px;
   }
   .touch .nav-bar li.has-flyout > a.flyout-toggle {
-    padding: 15px !important;
+    padding: 20px !important;
   }
   .touch .nav-bar li.has-flyout > a {
-    padding-right: 26px !important;
+    padding-right: 36px !important;
   }
 
   /* Clearing --- */
@@ -4688,7 +4689,7 @@ table.hide-for-medium {
     position: absolute;
     right: 0;
     top: 0;
-    padding: 17px;
+    padding: 22px;
     z-index: 2;
     display: block;
   }
@@ -4751,7 +4752,7 @@ table.hide-for-medium {
 
   .clearing-close {
     z-index: 99;
-    font-size: 37px;
+    font-size: 29px;
     top: 0px;
     right: 5px;
   }
@@ -4805,7 +4806,7 @@ table.hide-for-medium {
     height: auto;
   }
   .tabs.mobile dd a, .tabs.mobile li a {
-    font-size: 15px;
+    font-size: 12px;
     display: block;
     width: auto;
     height: auto;
@@ -4878,7 +4879,7 @@ table.hide-for-medium {
   .top-bar {
     margin-bottom: 0;
     overflow: hidden;
-    height: 45px;
+    height: 20px;
     background: #222222;
     /* Override contain to grid stuff for breakpoint */
     /* Setting up the sliding area */
@@ -4918,7 +4919,7 @@ table.hide-for-medium {
     background: #151515;
   }
   .top-bar ul > li.name {
-    height: 45px;
+    height: 20px;
   }
   .top-bar ul > li.name h1 {
     line-height: 1;
@@ -4926,9 +4927,9 @@ table.hide-for-medium {
   .top-bar ul > li.name h1 a {
     color: white;
     display: block;
-    line-height: 45px !important;
-    padding-left: 15px;
-    height: 45px;
+    line-height: 20px !important;
+    padding-left: 6.66667px;
+    height: 20px;
   }
   .top-bar ul > li:hover a, .top-bar ul > li.active a {
     color: white;
@@ -4939,7 +4940,7 @@ table.hide-for-medium {
   .top-bar ul > li.toggle-topbar {
     cursor: pointer;
     display: block;
-    height: 45px;
+    height: 20px;
     position: absolute;
     right: 0;
     top: 0;
@@ -4955,7 +4956,7 @@ table.hide-for-medium {
     padding: 0;
     position: absolute;
     top: 50%;
-    right: 22.5px;
+    right: 10px;
     margin-top: -4px;
   }
   .top-bar ul > li.toggle-topbar:hover {
@@ -4973,7 +4974,7 @@ table.hide-for-medium {
     width: 100%;
   }
   .top-bar ul > li.search {
-    padding: 0 16px;
+    padding: 0 11px;
   }
   .top-bar ul > li.search form {
     width: 100%;
@@ -4986,7 +4987,7 @@ table.hide-for-medium {
     width: 25%;
   }
   .top-bar ul > li.has-dropdown a {
-    padding-right: 24px;
+    padding-right: 16.5px;
   }
   .top-bar ul > li.has-dropdown a:after {
     content: "";
@@ -4995,7 +4996,7 @@ table.hide-for-medium {
     height: 0;
     border: solid 5px;
     border-color: transparent transparent transparent rgba(255, 255, 255, 0.5);
-    margin-right: 10.66667px;
+    margin-right: 7.33333px;
     margin-top: -4.5px;
     position: absolute;
     top: 50%;
@@ -5018,17 +5019,17 @@ table.hide-for-medium {
   .top-bar ul > li.has-dropdown.moved > .dropdown li label {
     margin-bottom: 6px;
     padding-top: 6px !important;
-    font-size: 11px;
+    font-size: 8px;
   }
   .top-bar ul > li.has-dropdown.moved > .dropdown li:not(.title) {
     padding-bottom: 0;
   }
   .top-bar ul > li.has-dropdown.moved > .dropdown li:not(.title) a {
-    padding: 8px 22.5px;
-    font-size: 14px;
+    padding: 8px 10px;
+    font-size: 11px;
   }
   .top-bar ul > li.has-dropdown.moved > .dropdown li a, .top-bar ul > li.has-dropdown.moved > .dropdown li label {
-    padding: 0 16px;
+    padding: 0 11px;
   }
   .top-bar ul > li.has-dropdown.moved > .dropdown li a:hover {
     background: #3c3c3c;
@@ -5045,7 +5046,7 @@ table.hide-for-medium {
   .top-bar ul > li.has-dropdown.moved .back.title a:before {
     position: absolute;
     top: 50%;
-    left: 11px;
+    left: 6px;
     margin-top: -5px;
     width: 0;
     height: 0;
@@ -5065,8 +5066,8 @@ table.hide-for-medium {
     background: transparent;
     padding-top: 8px;
     padding-bottom: 8px;
-    font-size: 23px;
-    font-weight: bold;
+    font-size: 18px;
+    font-weight: normal;
   }
   .top-bar ul > li.has-dropdown .dropdown li {
     background: transparent;
@@ -5077,11 +5078,11 @@ table.hide-for-medium {
     right: auto !important;
   }
   .top-bar ul > li.has-dropdown .dropdown li.has-dropdown > a {
-    padding-right: 24px;
+    padding-right: 16.5px;
   }
   .top-bar ul > li.has-dropdown .dropdown li.has-dropdown > a:after {
     content: "";
-    margin-right: 15px;
+    margin-right: 6.66667px;
     content: "";
     display: block;
     width: 0;
@@ -5120,7 +5121,7 @@ table.hide-for-medium {
     right: auto !important;
   }
   .top-bar section > ul li a:not(.button) {
-    padding-left: 22.5px !important;
+    padding-left: 10px !important;
   }
   .top-bar.expanded {
     height: 100%;
@@ -5138,7 +5139,7 @@ table.hide-for-medium {
   }
 
   .top-bar ul li.has-button {
-    padding: 5px 15px;
+    padding: 5px 6.66667px;
   }
 
   .top-bar ul li .button.small {
@@ -5151,5 +5152,19 @@ table.hide-for-medium {
     margin: 0;
   }
 }
+body {
+  background-color: #000500;
+}
+
+.main {
+  margin-top: 50px;
+}
+
+#logo {
+  background-color: #000500;
+  padding-top: 40px;
+  padding-bottom: 16px;
+}
+
 /* Lyrics */
 /* Discography */
