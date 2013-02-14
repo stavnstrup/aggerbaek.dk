@@ -1,15 +1,39 @@
 @import "foundation-override";
 @import "foundation";
 
+
+a {
+    color: white;
+}
+
 body {
     background-color: #000500;
 }
-
 
 #logo {
     background-color: #000500;
     padding-top: 40px;
     padding-bottom: 16px;
+}
+
+
+/* Set focus, hover and active menu color */
+.top-bar ul > li:not(.name):hover a, 
+.top-bar ul > li:not(.name).active a,
+.top-bar ul > li:not(.name):focus a {
+    color: #7290B4;
+}
+
+
+/* No left padding on first li */
+.top-bar ul > li:first-child a:not(.button) {
+    padding: 0 $topBarHeight / 2 0 0;
+}
+
+
+/* Larger padding */
+.top-bar ul > li a:not(.button) {
+    padding: 0 $topBarHeight / 2;
 }
 
 
@@ -19,25 +43,102 @@ body {
 
 
 
+h5 {
+    margin-top: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+}
+
+h6.subheader {
+    color: #dddddd;
+}
+
+
+h6 {
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
 /* Lyrics */
 
-.albumheader {
-   .author {
-   }
-   .title {
+.albumhead {
+   margin-top: 40px;
+   padding-bottom: 20px;
+   border-bottom: 2px solid white;
+   margin-bottom: 20px;
+   .artist, .title {
+       font-weight: bold;
    }
 }
+
 
 .album {
 
 }
 
-
 .song {
-
+    margin-bottom: 40px;
 }
 
 
 /* Discography */
 
+.discography {
+    padding-top: 10px;
+    padding-bottom: 40px;
+    li {
+        list-style-type: none;
+    }
+    span.head {
+        font-style: italic;
+    }
+}
+
+.discinfo {
+    .artist, .title {
+        font-weight: bold;
+    }
+}
+
+
+
+/* Calendar */
+
+.month {
+    margin-top: 20px;
+    h6 {
+        padding-bottom: 4px;
+        border-bottom: 1px solid white;
+        margin-bottom: 2px;
+    }
+    table {
+        border: 0;
+        background-color: #000500;
+        width: 100%;
+    }
+    td {
+        color: white;
+        border: 0;
+        padding: 3px 10px;
+    }
+    td.hr {
+        padding: 0;
+        border-bottom: 1px solid white;        
+    }
+}
+
+table tbody tr:nth-child(even) {
+    background: #000500;
+}
+
+
+/* Additional links
+
+http://www.kasperbai.dk/
+Rasmus Glen
+*/
 

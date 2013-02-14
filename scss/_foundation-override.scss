@@ -1,17 +1,21 @@
 /* Override Foundation 3.2.5 default settings */
 $rowWidth: 1030px;
 $baseFontSize: 11px;
-
+$bodyFontFamily: Verdana, sans-serif;
+$headerFontFamily: Verdana, sans-serif;
 
 $topBarHeight: 22px;
-$topBarHeightMobile: 20px;
-$topBarBtmMargin: 30px !default;
-$topBarTitleSize: 17px !default;
+$topBarHeightMobile: 22px;
 
-$topBarTitleWeight: normal;
+$topBarLinkSize: 14px;
+$topBarLinkWeight: 600;
+
+
 
 $bodyFontColor: white;
 
-
+$topBarBgColor: #000500;
+$topBarDropBgColor: #000500;
+/* $topBarLinkColor: #2ba6cb; */
 
 
