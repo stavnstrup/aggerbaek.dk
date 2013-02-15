@@ -114,19 +114,20 @@ body {
         border-bottom: 1px solid white;
         margin-bottom: 2px;
     }
-    table {
-        border: 0;
-        background-color: #000500;
-        width: 100%;
-    }
-    td {
-        color: white;
-        border: 0;
-        padding: 3px 10px;
-    }
-    td.hr {
-        padding: 0;
+
+    li {
+        padding: 5px 10px;
         border-bottom: 1px solid white;        
+        list-style-type: none;
+    }
+    span.day {
+        display: inline-block;
+        width: 4%;
+    }
+
+    span.time {
+        display: inline-block;
+        width: 6%;
     }
 }
 
