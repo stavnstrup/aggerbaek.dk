@@ -69,10 +69,29 @@
       <h5>Gallery</h5>
 
       <div class="row">
-        <div class="seven columns">
+      <div class="six columns offset-by-three end">
+
+      <div id="featured">
+        <img src="images/gallery/n5546874241_535543_5214.jpg" />
+        <img src="images/gallery/n570772078_1096633_4976.jpg" />
+        <img src="images/gallery/n570772078_1096634_5191.jpg" />
+        <img src="images/gallery/n570772078_1096635_5442.jpg" />
+        <img src="images/gallery/n570772078_1096636_5679.jpg" />
+        <img src="images/gallery/n570772078_1096637_5927.jpg" />
+        <img src="images/gallery/n570772078_1096638_6201.jpg" />
+        <img src="images/gallery/n570772078_1096639_6439.jpg" />
+        <img src="images/gallery/n570772078_1096640_6700.jpg" />
+        <img src="images/gallery/n570772078_1096641_6918.jpg" />
+        <img src="images/gallery/n570772078_1096647_8560.jpg" />
+        <img src="images/gallery/n570772078_1096648_8841.jpg" />
+        <img src="images/gallery/n570772078_1096652_9911.jpg" />
+      </div>
+
+      </div>
+      </div>
 <!--
-          <iframe src="gallery/n5546874241_535543_5214.html" width="470" height="603" scrolling="auto" frameborder="0" name="gallery"> </iframe>
--->
+      <div class="row">
+        <div class="seven columns">
           <iframe src="gallery/n5546874241_535543_5214.html" width="100%" height="630px" scrolling="none" frameborder="0" name="gallery"> </iframe>
         </div>
         <div class="five columns">
@@ -109,6 +128,7 @@
           <p class="text-right"><a href="http://www.ishotyou.dk/benjarelease/">Release party 30/11/09 </a></p>
         </div>
       </div>
+-->
     </div>
   </div>
                 
@@ -127,25 +147,34 @@
   <script src="javascripts/foundation/jquery.foundation.buttons.js"></script>	
   <script src="javascripts/foundation/jquery.cookie.js"></script>
   <script src="javascripts/foundation/jquery.foundation.topbar.js"></script>
-<!--
+
   <script src="javascripts/foundation/jquery.foundation.joyride.js"></script>
+
   <script src="javascripts/foundation/jquery.foundation.orbit.js"></script>
   <script src="javascripts/foundation/jquery.foundation.tabs.js"></script>
   <script src="javascripts/foundation/jquery.foundation.alerts.js"></script>
--->
   <script src="javascripts/foundation/jquery.foundation.navigation.js"></script>
   <script src="javascripts/foundation/jquery.foundation.mediaQueryToggle.js"></script>
   <script src="javascripts/foundation/jquery.event.swipe.js"></script>
-<!--
+
   <script src="javascripts/foundation/jquery.foundation.magellan.js"></script>
   <script src="javascripts/foundation/jquery.foundation.reveal.js"></script>
   <script src="javascripts/foundation/jquery.foundation.clearing.js"></script>
--->
+
   <script src="javascripts/foundation/jquery.foundation.accordion.js"></script>
   <script src="javascripts/foundation/jquery.foundation.forms.js"></script>
   <script src="javascripts/foundation/jquery.foundation.tooltips.js"></script>
 
   <!-- Application Javascript, safe to override -->
   <script src="javascripts/foundation/app.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $("#featured").orbit({
+            directionalNav: true,
+            bullets: true
+         });
+     });
+  </script>
 </body>
 </html>
