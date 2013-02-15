@@ -13,4 +13,4 @@ javascripts_dir = "javascripts"
 
 # The output style for the compiled css.
 # One of: :nested, :expanded, :compact, or :compressed. 
-output_style = :expanded
+output_style = :compressed
