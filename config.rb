@@ -10,4 +10,4 @@ preferred_syntax = :scss
 
 # The output style for the compiled css.
 # One of: :nested, :expanded, :compact, or :compressed. 
-output_style = :compressed
+output_style = :expanded
