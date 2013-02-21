@@ -2,12 +2,30 @@
 
 IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
 
-<Limit GET POST>
-order deny,allow
-deny from all
-allow from all
-</Limit>
-<Limit PUT DELETE>
-order deny,allow
-deny from all
-</Limit>
+
+
+Options  +Includes
+AddCharset UTF-8 .html
+AddCharset UTF-8 .php
+XBitHack on
+AddType application/x-httpd-php .php .html
+
+
+# 1 YEAR
+<FilesMatch "\.(ico|pdf|flv)$">
+Header set Cache-Control "max-age=29030400, public"
+</FilesMatch>
+# 1 WEEK
+<FilesMatch "\.(jpg|jpeg|png|gif|swf)$">
+Header set Cache-Control "max-age=604800, public"
+</FilesMatch>
+# 2 DAYS
+<FilesMatch "\.(xml|txt|css|js)$">
+Header set Cache-Control "max-age=172800, proxy-revalidate"
+</FilesMatch>
+# 1 MIN
+<FilesMatch "\.(html|htm|php)$">
+Header set Cache-Control "max-age=60, private, proxy-revalidate"
+</FilesMatch>
+
+
