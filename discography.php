@@ -41,7 +41,7 @@
              <a href="http://www.calibrated.org/">Calibrated Music</a></p>
           <p class="trackinfo"><span class="head">Tracklist:</span><br />
             Begin Again // A Fool // Heartbeat // Stranger // You're Not Lost // Waterfall // Daydream // Ghost // I Will Forget //
-            New Orleans // Beatiful Goodbye</p>
+            New Orleans // A Beatiful Goodbye</p>
 
           <p class="members"><span class="head">Aggerb&aelig;k Kvintet:</span><br> 
 
