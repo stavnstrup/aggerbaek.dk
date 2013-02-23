@@ -46,7 +46,7 @@
           <p class="members"><span class="head">Aggerb&aelig;k Kvintet:</span><br> 
 
              Benjamin Aggerb&aelig;k (vokal, accoustic guitars, electric guitar (5), grand piano (1), harmonium (4), handclaps) //
-             Kasper Bai (accoustic guitars (2, 6), electric guitars, electric baritone guitar, Wurlitzer (1), handclaps // 
+             Kasper Bai (accoustic guitars (2, 6), electric guitars, electric baritone guitar, Wurlitzer (1), handclaps) // 
              Martin Krogh (double bass, electric bass) // 
              Rasmus Glendorf (drums, percussion drum machine, vibraphone, handclaps) // 
              Alexander Kraglund (violin and viola chromatic harmonica)
