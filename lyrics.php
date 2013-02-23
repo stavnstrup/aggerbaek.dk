@@ -20,9 +20,6 @@
               <li><a href="calendar.php" title="">calendar</a></li>
               <li><a href="contact.php" title="">contact</a></li>
             </ul>
-            <ul class="right">
-              <li><a href="index-uk.php" title="">english version</a></li>
-            </ul>
           </section>
         </nav>
       </div>

@@ -21,7 +21,7 @@
               <li><a href="contact.php" title="">contact</a></li>
             </ul>
             <ul class="right">
-              <li><a href="press-uk.html" title="">english version</a></li>
+              <li><a href="press-uk.php" title="">english version</a></li>
             </ul>
           </section>
         </nav>
