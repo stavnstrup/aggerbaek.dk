@@ -1,35 +1,5 @@
-<!DOCTYPE html>
-
-<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
-<head>
-  <meta charset="utf-8" />
-
-  <!-- Set the viewport width to device width for mobile -->
-  <meta name="viewport" content="width=device-width" />
-
-  <title>Aggerb&aelig;k</title>
-  <meta name="description" content="Aggerbæk 'My Oh My' - New Album out now.">
-  <meta name="keywordsS" content="aggerbæk, jazz, my oh my, when true love says goodbye, you don't know, a spark, we'll die alone, in the dark, be together apart, st. peter's blues, orange moon, lost in love">
-  <meta name="author" content="Christina Olsson, Webdesigner, E Foqus Danmark A/S">
-
-  <!-- Included CSS Files -->
-  <link rel="stylesheet" href="css/aggerbaek.css">
-
-  <script src="javascripts/foundation/modernizr.foundation.js"></script>
-</head>
-<body>
-  <div class="row">
-    <div class="twelve columns">
-      <img id="logo" src="images/aggerbaek-logo.jpg" alt=""/>
-    </div>
-  </div>
-  <div class="row">
-    <div class="twelve columns">
-      <img id="banner" src="images/aggerbaek.jpg" alt="Aggerb&aelig;k" width="1000" height="251" border="0" href="index.html" />
-    </div>
-  </div>
+<? $page_title = "Discography" ?>
+<?php include("includes/_header.php"); ?>
 
   <div class="row">
     <div class="twelve columns">
@@ -40,15 +10,15 @@
           </ul>
           <section>
             <ul class="left">
-              <li><a href="index.html" title="News">news</a></li>
-              <li><a href="press.html" title="Press">press</a></li>
-              <li class="active"><a href="biography.html" title="">biography</a></li>
-              <li><a href="discography.html" title="">discography</a></li>
-              <li><a href="gallery.html" title="">gallery</a></li>
-              <li><a href="lyrics.html" title="">lyrics</a></li>
-              <li><a href="audiovideo.html" title="">audio/video</a></li>
-              <li><a href="calendar.html" title="">calendar</a></li>
-              <li><a href="contact.html" title="">contact</a></li>
+              <li><a href="index.php" title="News">news</a></li>
+              <li><a href="press.php" title="Press">press</a></li>
+              <li><a href="biography.php" title="">biography</a></li>
+              <li class="active"><a href="discography.php" title="">discography</a></li>
+              <li><a href="gallery.php" title="">gallery</a></li>
+              <li><a href="lyrics.php" title="">lyrics</a></li>
+              <li><a href="audiovideo.php" title="">audio/video</a></li>
+              <li><a href="calendar.php" title="">calendar</a></li>
+              <li><a href="contact.php" title="">contact</a></li>
             </ul>
           </section>
         </nav>
@@ -61,7 +31,7 @@
       <h5>Discography</h5>
 
       <div class="row discography">
-        <div class="three columns"><img src="images/heartbeat-cover.jpg"/></div>
+        <div class="three columns"><img src="/images/covers/heartbeat-cover-small.jpg"/></div>
         <div class="nine columns">
           <p class="discinfo"><span class="artist">Benjamin Aggerb&aelig;k</span> // <span class="title">Heartbeat</span> (2011)<br>
              Aggerb&aelig;k // aggerbaek 01<br>
@@ -76,7 +46,7 @@
 
 
       <div class="row discography">
-        <div class="three columns"><img src="images/my-oh-my-cover.jpg"/></div>
+        <div class="three columns"><img src="/images/covers/my-oh-my-cover-small.jpg"/></div>
         <div class="nine columns">
           <p class="discinfo"><span class="artist">Aggerb&aelig;k Kvintet</span> // <span class="title">My Oh My</span> (2009)<br>
              Your   Favourite Jazz // yfjcd 011<br>
@@ -104,7 +74,7 @@
 
 
       <div class="row discography">
-        <div class="three columns"><img src="images/back-in-town-cover.jpg"/></div>
+        <div class="three columns"><img src="/images/covers/back-in-town-cover-small.jpg"/></div>
         <div class="nine columns">
           <p class="discinfo"><span class="artist">Aggerb&aelig;k Kvintet</span> //<span class="title">Back In Town</span> (2007)<br>
              Your Favourite Records // favouritecd 004<br>
@@ -132,32 +102,7 @@
     </div>
   </footer>
 
-  <!-- Included JS Files (Uncompressed) -->
-  <script src="javascripts/foundation/jquery.js"></script>
-  <script src="javascripts/foundation/jquery.placeholder.js"></script>
-  <script src="javascripts/foundation/jquery.event.move.js"></script>
-  <script src="javascripts/foundation/jquery.foundation.buttons.js"></script>	
-  <script src="javascripts/foundation/jquery.cookie.js"></script>
-  <script src="javascripts/foundation/jquery.foundation.topbar.js"></script>
-<!--
-  <script src="javascripts/foundation/jquery.foundation.joyride.js"></script>
-  <script src="javascripts/foundation/jquery.foundation.orbit.js"></script>
-  <script src="javascripts/foundation/jquery.foundation.tabs.js"></script>
-  <script src="javascripts/foundation/jquery.foundation.alerts.js"></script>
--->
-  <script src="javascripts/foundation/jquery.foundation.navigation.js"></script>
-  <script src="javascripts/foundation/jquery.foundation.mediaQueryToggle.js"></script>
-  <script src="javascripts/foundation/jquery.event.swipe.js"></script>
-<!--
-  <script src="javascripts/foundation/jquery.foundation.magellan.js"></script>
-  <script src="javascripts/foundation/jquery.foundation.reveal.js"></script>
-  <script src="javascripts/foundation/jquery.foundation.clearing.js"></script>
--->
-  <script src="javascripts/foundation/jquery.foundation.accordion.js"></script>
-  <script src="javascripts/foundation/jquery.foundation.forms.js"></script>
-  <script src="javascripts/foundation/jquery.foundation.tooltips.js"></script>
+<?php include("includes/_footer.php"); ?>
 
-  <!-- Application Javascript, safe to override -->
-  <script src="javascripts/foundation/app.js"></script>
 </body>
 </html>
