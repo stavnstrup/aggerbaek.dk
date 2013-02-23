@@ -30,6 +30,40 @@
     <div class="twelve columns">
       <h5>Discography</h5>
 
+
+      <div class="row discography">
+        <div class="three columns"><img src="http://placehold.it/200x200"/></div>
+        <div class="nine columns">
+          <p class="discinfo"><span class="artist">Aggerb&aelig;k Kvintet</span> // <span class="title">Heartbeat</span> (2013)<br>
+             C&amp;P Calibrated Music // CALILP002<br>
+             <a href="http://www.calibrated.org/">Calibrated Music</a></p>
+          <p class="trackinfo"><span class="head">Tracklist:</span><br />
+            Begin Again // A Fool // Heartbeat // Stranger // You're Not Lost // Waterfall // Daydream // Ghost // I Will Forget //
+            New Orleans // Beatiful Goodbye</p>
+
+          <p class="members"><span class="head">Aggerb&aelig;k Kvintet:</span><br> 
+
+             Benjamin Aggerb&aelig;k (vokal, accoustic guitars, electric guitar (5), grand piano (1), harmonium (4), handclaps) //
+             Kasper Bai (accoustic guitars (2, 6), electric guitars, electric baritone guitar, Wurlitzer (1), handclaps // 
+             Martin Krogh (double bass, electric bass) // 
+             Rasmus Glendorf (drums, percussion drum machine, vibraphone, handclaps) // 
+             Alexander Kraglund (violin and viola chromatic harmonica)
+             <strong><em>with</em></strong><br>
+             Cecillie Hyldgaard (cello) //
+             Ole Visby (clarinet, bass clarinet, baritone sax) //
+             Anders Bast (tenor sax, flute) //
+             Peter Marott (trumpet, flugelhorn) //
+             Gustav Rasmussen (trombone (1, 9), flugabone (1, 11)) //
+             Jakob Johansen (trombone (1, 6, 7, 10)) //
+             Anders Fillipsen (grand piano (3), Hammond organ (1), Wurlitzer (5)) //
+             Lars Emil Riis (upright piano (3, 9, 10), rhodes (3, 6)) //
+             Sofie Christiansen (vocals (6, 7)) //
+             Tim Soensen (electric guitar (5))</p>
+        </div>
+      </div>
+
+
+
       <div class="row discography">
         <div class="three columns"><img src="/images/covers/heartbeat-cover-small.jpg"/></div>
         <div class="nine columns">
