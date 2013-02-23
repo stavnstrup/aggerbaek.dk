@@ -10,15 +10,15 @@
           </ul>
           <section>
             <ul class="left">
-              <li><a href="index.html" title="News">news</a></li>
-              <li><a href="press.html" title="Press">press</a></li>
-              <li class="active"><a href="biography.html" title="">biography</a></li>
-              <li><a href="discography.html" title="">discography</a></li>
-              <li><a href="gallery.html" title="">gallery</a></li>
-              <li><a href="lyrics.html" title="">lyrics</a></li>
-              <li><a href="audiovideo.html" title="">audio/video</a></li>
-              <li><a href="calendar.html" title="">calendar</a></li>
-              <li><a href="contact.html" title="">contact</a></li>
+              <li><a href="index.php" title="News">news</a></li>
+              <li><a href="press.php" title="Press">press</a></li>
+              <li class="active"><a href="biography.php" title="">biography</a></li>
+              <li><a href="discography.php" title="">discography</a></li>
+              <li><a href="gallery.php" title="">gallery</a></li>
+              <li><a href="lyrics.php" title="">lyrics</a></li>
+              <li><a href="audiovideo.php" title="">audio/video</a></li>
+              <li><a href="calendar.php" title="">calendar</a></li>
+              <li><a href="contact.php" title="">contact</a></li>
             </ul>
           </section>
         </nav>
@@ -31,7 +31,7 @@
       <h5>Discography</h5>
 
       <div class="row discography">
-        <div class="three columns"><img src="images/heartbeat-cover.jpg"/></div>
+        <div class="three columns"><img src="/images/heartbeat-cover.jpg"/></div>
         <div class="nine columns">
           <p class="discinfo"><span class="artist">Benjamin Aggerb&aelig;k</span> // <span class="title">Heartbeat</span> (2011)<br>
              Aggerb&aelig;k // aggerbaek 01<br>
@@ -46,7 +46,7 @@
 
 
       <div class="row discography">
-        <div class="three columns"><img src="images/my-oh-my-cover.jpg"/></div>
+        <div class="three columns"><img src="/images/my-oh-my-cover.jpg"/></div>
         <div class="nine columns">
           <p class="discinfo"><span class="artist">Aggerb&aelig;k Kvintet</span> // <span class="title">My Oh My</span> (2009)<br>
              Your   Favourite Jazz // yfjcd 011<br>
@@ -74,7 +74,7 @@
 
 
       <div class="row discography">
-        <div class="three columns"><img src="images/back-in-town-cover.jpg"/></div>
+        <div class="three columns"><img src="/images/back-in-town-cover.jpg"/></div>
         <div class="nine columns">
           <p class="discinfo"><span class="artist">Aggerb&aelig;k Kvintet</span> //<span class="title">Back In Town</span> (2007)<br>
              Your Favourite Records // favouritecd 004<br>
