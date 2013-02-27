@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # Compass configuration for the aggerbaek.dk stylesheets
 
+load "foundation-lockdown.rb"
 require "zurb-foundation"
 http_path = "/"
 sass_dir = "scss"
