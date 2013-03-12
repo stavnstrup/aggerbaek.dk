@@ -41,33 +41,33 @@
 
           <p><strong>Jazz Special - Nr. 112 (Dec. 2009)<br>Henrik
           Wolsgaard-Iversen:</strong><br> &ldquo;Konceptet
-          sp&aelig;nder over mange vinkler, farver, fra det enkle<br>
-          folk/blue til det mere svulmende med fuld bemanding og<br>
+          sp&aelig;nder over mange vinkler, farver, fra det enkle 
+          folk/blue til det mere svulmende med fuld bemanding og 
           ekstra strygere. Men det er sangeren og hans melodier
-          &ndash; <br> det er Aggerb&aelig;ks alle sammen &ndash; som
-          fascinerer s&aring; dybt... <br> L&aelig;g m&aelig;rke til
-          Aggerb&aelig;k, Kraglund og ogs&aring; Kasper Bai, <br> der
+          &ndash;  det er Aggerb&aelig;ks alle sammen &ndash; som
+          fascinerer s&aring; dybt...  L&aelig;g m&aelig;rke til
+          Aggerb&aelig;k, Kraglund og ogs&aring; Kasper Bai,  der
           har arrangeret s&aring; flot&rdquo;</p>
 
           <p><strong>Information. - 22-12-2009<br> Peter
           H. Larsen:</strong><br> &quot;Man kan ikke pr&aelig;sentere
-          sp&oslash;jst pastichefyldte sange <br> med s&aring; megen
+          sp&oslash;jst pastichefyldte sange  med s&aring; megen
           tr&aelig;t indolens, som Benjamin Aggerb&aelig;k
-          g&oslash;r <br> det p&aring; My Oh My, uden at han selv og
-          lytterne ogs&aring; har det sjovt. <br> Eller uden at
+          g&oslash;r  det p&aring; My Oh My, uden at han selv og
+          lytterne ogs&aring; har det sjovt.  Eller uden at
           afsl&oslash;re et meget stort vokalt talent&quot;.</p>
 
           <p><strong>Politiken. - 03-12-2009<br> Anmeldt af Henrik
           Palle:</strong><br> &quot;Egne sange, som [Aggerb&aelig;k]
-          fremf&oslash;rer med stor <br> f&oslash;ling og i meget
-          afvekslende og flotte arrangementer <br> af Kasper Bai, der
-          spiller guitar i Aggerb&aelig;ks orkester og viser <br> sig
+          fremf&oslash;rer med stor  f&oslash;ling og i meget
+          afvekslende og flotte arrangementer  af Kasper Bai, der
+          spiller guitar i Aggerb&aelig;ks orkester og viser  sig
           at sp&aelig;nde musikalsk vidt med b&aring;de
-          gypsyinspiration og renlivet<br> rockende
+          gypsyinspiration og renlivet rockende
           indsatser. Aggerb&aelig;ks vokal besidder en stor
-          inderlighed, <br> og stemmen spiller fint op til den meget
-          billeddannende musikalske <br> baggrund, der giver sangene
-          et stort og helst&oslash;bt udtryk ... <br> Charmerende og
+          inderlighed,  og stemmen spiller fint op til den meget
+          billeddannende musikalske  baggrund, der giver sangene
+          et stort og helst&oslash;bt udtryk ...  Charmerende og
           absolut indtagende&quot;. <br> Aggerb&aelig;k: My oh my
           (Your Favourite jazz)</p>
 
