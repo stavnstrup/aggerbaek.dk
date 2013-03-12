@@ -74,7 +74,7 @@
         </div>
       </div>
 
-      <h6>Aggerbæk in Brunch @ TV2/lorry</h6>
+      <h6>Aggerb&aelig;k in Brunch @ TV2/lorry</h6>
       <div class="row">
         <div class="six columns">
           <div class="flex-video">
