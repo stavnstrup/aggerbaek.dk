@@ -35,7 +35,7 @@
 <body>
   <div class="row">
     <div class="twelve columns">
-      <img id="logo" src="/images/aggerbaek-logo.jpg" alt=""/>
+      <img id="logo" src="/images/aggerbaek-logo.png" alt=""/>
     </div>
   </div>
   <div class="row">
