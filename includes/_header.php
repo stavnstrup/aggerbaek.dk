@@ -18,28 +18,30 @@
   <link rel="stylesheet" href="/css/aggerbaek.css">
 
   <script src="/javascripts/foundation/modernizr.foundation.js"></script>
-<script type="text/javascript">
+  <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-39202916-1']);
-  _gaq.push(['_trackPageview']);
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39202916-1']);
+    _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
 </head>
 <body>
-  <div class="row">
-    <div class="twelve columns">
-      <img id="logo" src="/images/aggerbaek-logo.png" alt=""/>
+  <header>
+    <div class="row">
+      <div class="twelve columns">
+        <img id="logo" src="/images/aggerbaek-logo.png" alt=""/>
+      </div>
     </div>
-  </div>
-  <div class="row">
-    <div class="twelve columns">
-      <img id="banner" src="/images/aggerbaek.jpg" alt="Aggerb&aelig;k" width="1000" height="251" border="0" href="index.html" />
+    <div class="row">
+      <div class="twelve columns">
+        <img id="banner" src="/images/aggerbaek.jpg" alt="Aggerb&aelig;k" width="1000" height="251" border="0" href="index.html" />
+      </div>
     </div>
-  </div>
+  </header>
+
