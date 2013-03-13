@@ -53,6 +53,23 @@
 
       <h5>Video</h5>
 
+
+      <h6>Heartbeat 2013</h6>
+      <div class="row">
+        <div class="eight columns centered">
+
+          <div class="flex-video">
+
+            <iframe width="560" height="315" src="http://www.youtube.com/embed/MBFsawcZjkM" frameborder="0" allowfullscreen></iframe>
+
+          </div>
+          <div class="videolabel">From the soon to be released album Heartbeat. Video: Chr. Woll / Mount Something Cph. with Mogens Rieneck</div>
+        </div>
+
+      </div>
+
+
+
       <h6>The Austin sessions</h6>
       <div class="row">
         <div class="six columns">
