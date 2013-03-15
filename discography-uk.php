@@ -32,11 +32,12 @@
 
 
       <div class="row discography">
-        <div class="three columns"><img src="http://placehold.it/200x200"/></div>
+        <div class="three columns"><img src="/images/covers/heartbeat2-cover-small.jpg"/></div>
         <div class="nine columns">
           <p class="discinfo"><span class="artist">Aggerb&aelig;k Kvintet</span> // <span class="title">Heartbeat</span> (2013)<br>
              C&amp;P Calibrated Music // CALILP002<br>
-             <a href="http://www.calibrated.org/">Calibrated Music</a></p>
+             <a href="http://www.calibrated.org/">Calibrated Music</a><br />
+             N.B. Release day is April 8, 2013</p>
           <p class="trackinfo"><span class="head">Tracklist:</span><br />
             Begin Again // A Fool // Heartbeat // Stranger // You're Not Lost // Waterfall // Daydream // Ghost // I Will Forget //
             New Orleans // A Beatiful Goodbye</p>
