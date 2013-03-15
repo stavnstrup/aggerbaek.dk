@@ -48,8 +48,8 @@ Planeten, Tuesday April 16th at 19.00! AND it will be with my 16
 people orchestra – HUGE! I truly hope you will make it that day and
 also find your time to enjoy the double album.</p>
 
-<p>Also great is that I'm signed a contract with Callibrated Music and
-i'm looking forward to be an artist on that label.</p>
+<p>Also great that I have signed a contract with Calibrated Music and
+I'm looking forward to being an artist on that label.</p>
 
 <p>Here’s the story behind “Heartbeat”:</p>
 
