@@ -33,35 +33,43 @@
   <div class="row">
     <div class="six columns">
       <h5>News</h5>
+<!--
       <p>Her er solopladens første omtale:<br />
       <a href="http://jazznyt.blogspot.com/2012/01/benjamin-aggerbk-heartbeat-gateway.html">http://jazznyt.blogspot.com/2012/01/benjamin-aggerbk-heartbeat-gateway.html</a></p>
+-->
 
-<p>Hej Alle sammen</p>
+<p>March, 2013</p>
 
-<p>Nu i 11 time af 2011 har jeg faktisk fået fingrene i mit helt nye
-album.  Heartbeat  er indspillet på 1 nat i et studie i Austin,
-Texas. Med min fantastiske Collings guitar i den ene hånd og med en
-stor Tennessee whiskey i den anden, tog jeg i studiet til en lang
-natte session med nogle suveræne producere og indspillede mit første
-solo-album. Et album som er optaget helt igennem live med kun guitar
-og vokal - Intet andet. Alt indspillet i "real time" og derfor kan jeg
-for første gang virkelig invitere med ind i studiet og skabelsen af
-dette album. Det er det mest ærlige og nærværende album jeg nogensinde
-har lavet og jeg glæder mig meget til at dele det med så mange af jer
-som overhovedet muligt.</p>
+<p>Hello Everybody</p>
 
-<p>Første gang i kan få fat i albummet er fredag d.6 januar i Buddhas
-Jazzklub i Hillerød allerede kl.16.30! Hop forbi klaverfabrikken.dk og
-løs mere </p>
+<p>Great News. I have finally found a release date for my next double
+album “Heartbeat”!  The release concert will be at Huset i Magstræde,
+Planeten, Tuesday April 16th at 19.00! AND it will be with my 16
+people orchestra – HUGE! I truly hope you will make it that day and
+also find your time to enjoy the double album.</p>
 
-<p>Dernæst skal I holde øjne og ører åbne for en lille intim
-release-fest lørdag d.11 februar kl.17 et sted i
-København. Titelsangen,  Heartbeat  er forresten skrevet til
-København, så det bliver med sikkerhed og følsom og nærværende
-release-fest!</p>
+<p>Also great is that I'm signed a contract with Callibrated Music and
+i'm looking forward to be an artist on that label.</p>
 
-<p>Godt Nytår og på genhør til et fantastisk nyt musik år i 2012<br />
-Love, Benjamin</p>
+<p>Here’s the story behind “Heartbeat”:</p>
+
+<p>It was a late night session at Face Plant Studios in the middle of
+October 2011.  A big bottle of whiskey was making the rounds as
+creative energy buzzed and intensified, finally forming into the solo
+recordings. I kept listening to that studio solo session while
+we were working on the orchestrated version back in Denmark - I was
+drawn to how fragile and raw the sound was. I decided, then, to make
+this a double album, presenting side-by-side "One Night in an Austin
+Studio" and "Heartbeat Orchestrated", with all their differences and contrasts.
+You'll hear the solo recordings just as we made them, unfiltered,
+untouched by my own worries about perfection. The orchestra versions
+of the songs have been given such depth by Kasper Bai's brilliant
+arrangements and the great collaboration of my Quintet; you can hear
+the passion that everyone poured into this labor of love.  I hope you
+enjoy both albums as much as I enjoyed making them.</p>
+
+<p>Thank you for listening, Benjamin Aggerbæk</p>
+
 
     </div>
     <div class="six columns"><img src="images/covers/heartbeat-cover450.jpg"
