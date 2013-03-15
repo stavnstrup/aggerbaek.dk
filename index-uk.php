@@ -34,41 +34,45 @@
       <div class="row">
         <div class="six columns">
 
-<p>That was it. Now we head further north to New York and Boston. The
-meeting in Austin, Texas' Capital, was of the same caliber as when I
-hit any real big city. I'll get spellbound. I'll get surprised. I get
-scared. AND then I smile. I quickly also get nostalgic because the
-journey is not permanent. The moment is flighty.  Suddenly the ending
-arrives and the journey continues. It's a big part of the journey. The
-End. It is also the beginning of everything.</p>
 
-<p>What happened actually in Austin? I grew & was enriched by Austin!
-Because I met some genuine people. I met the american people behind
-"The House Of Songs", Troy & Nathan. I grew because I met the people
-behind "The Sessions": CJ & Lauren and the wacky and wonderful
-songwriter Danny Malone & filmmaker  woman: Holly Bronko ... I
-co-wrote with some beautiful songwriters and The Sessions made 2 music
-videos of new songs which will be used for my upcoming 2011 album. I
-grew because I found myself among people who make me grow - the same I
-do in New York and I also see very clearly on the distance that I do
-the same in Copenhagen! I surround myself with people who make me
-grow! It is really important to realize that basically it's your own
-choice - to put yourself in the midst of people who make each other
-grow!</p>
 
-<p>Now I have spent a week to compose on in peace and tranquility in
-Boston, with some of the most beautiful winter weather I've ever seen.
-New York awaits with 8 concerts the next 14 days and a fine Danish
-songwriter Jens Jepsen comes over and plays these gigs with me ...
-Yes, this is the trip - another conclusion arrives - and yet a new
-beginning is just in front of me all the time...</p>
 
-<p>Love & Good Karma<br/
-Benjamin Aggerbæk</p>
+<p>March, 2013</p>
+
+<p>Hello Everybody</p>
+
+<p>Great News. I have finally found a release date for my next double
+album “Heartbeat”!  The release concert will be at Huset i Magstræde,
+Planeten, Tuesday April 16th at 19.00! AND it will be with my 16
+people orchestra – HUGE! I truly hope you will make it that day and
+also find your time to enjoy the double album.</p>
+
+<p>Also great is that I'm signed a contract with Callibrated Music and
+i'm looking forward to be an artist on that label.</p>
+
+<p>Here’s the story behind “Heartbeat”:</p>
+
+<p>It was a late night session at Face Plant Studios in the middle of
+October 2011.  A big bottle of whiskey was making the rounds as
+creative energy buzzed and intensified, finally forming into the solo
+recordings. I kept listening to that studio solo session while
+we were working on the orchestrated version back in Denmark - I was
+drawn to how fragile and raw the sound was. I decided, then, to make
+this a double album, presenting side-by-side "One Night in an Austin
+Studio" and "Heartbeat Orchestrated", with all their differences and contrasts.
+You'll hear the solo recordings just as we made them, unfiltered,
+untouched by my own worries about perfection. The orchestra versions
+of the songs have been given such depth by Kasper Bai's brilliant
+arrangements and the great collaboration of my Quintet; you can hear
+the passion that everyone poured into this labor of love.  I hope you
+enjoy both albums as much as I enjoyed making them.</p>
+
+<p>Thank you for listening, Benjamin Aggerbæk</p>
+
 
 
         </div>
-        <div class="six columns"><img src="images/covers/heartbeat-cover450.jpg"
+        <div class="six columns"><img src="images/covers/heartbeat2-cover450.jpg"
              alt="Benjamin Aggerb&aelig;k - Heartbeat cover" class="bigcover right"/></div>
       </div>
     </div>
