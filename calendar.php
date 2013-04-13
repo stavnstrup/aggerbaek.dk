@@ -31,7 +31,7 @@
       <h5>Calendar 2013</h5>
 
       <div class="month">
-        <h6>Marts</h6>
+        <h6>April</h6>
         <ul>
           <li><span class="day">16</span><span class="time">19:00</span>Heartbeat Release Party @ Planeten, Huset i Magstræde</li>
         </ul>
