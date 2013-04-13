@@ -28,10 +28,15 @@
 
   <div class="row">
     <div class="twelve columns">
-      <h5>Calendar 2012</h5>
+      <h5>Calendar 2013</h5>
 
-
-
+      <div class="month">
+        <h6>Marts</h6>
+        <ul>
+          <li><span class="day">16</span><span class="time">19:00</span>Heartbeat Release Party @ Planeten, Huset i Magstræde</li>
+        </ul>
+      </div>
+<!--
       <div class="month">
         <h6>January</h6>
         <ul>
@@ -50,7 +55,8 @@
           <li><span class="day">16</span><span class="time">21:00</span>
           Benjamin Aggerbæk + Søren Baun + Kasper Bai præsenterer moderne vokaljazz @ Vinterjazz Café Retro</li>
         </ul>
-      </div> 
+      </div>
+--> 
     </div>
   </div>
 
