@@ -38,6 +38,12 @@
       <a href="http://jazznyt.blogspot.com/2012/01/benjamin-aggerbk-heartbeat-gateway.html">http://jazznyt.blogspot.com/2012/01/benjamin-aggerbk-heartbeat-gateway.html</a></p>
 -->
 
+<p>April, 2013</p>
+
+<p><a href="audiovideo.php">Her kan i finde videooptagelser fra
+release koncerten</a></p>
+
+
 <p>March, 2013</p>
 
 <p>Hello Everybody</p>

@@ -54,6 +54,44 @@
       <h5>Video</h5>
 
 
+      <h6>Release Concert - April 16, 2013 @ Planeten, Huset</h6>
+
+      <div class="row">
+        <div class="six columns">
+          <div class="flex video">
+            <iframe width="560" height="315" src="http://www.youtube.com/embed/t8Uq5x8WAPM" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+        <div class="six columns">
+          <div class="flex video">
+            <iframe width="560" height="315" src="http://www.youtube.com/embed/sE5lgm7hCuU" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="six columns">
+          <div class="flex video">
+            <iframe width="560" height="315" src="http://www.youtube.com/embed/NobOl7WZue0" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+        <div class="six columns">
+          <div class="flex video">
+            <iframe width="560" height="315" src="http://www.youtube.com/embed/IRftwMNo12I" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="six columns offset-by-three">
+          <div class="flex video">
+            <iframe width="560" height="315" src="http://www.youtube.com/embed/WqVpqukhG7I" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>      
+
+      <hr />
+
       <h6>Heartbeat 2013</h6>
       <div class="row">
         <div class="eight columns centered">
@@ -68,7 +106,7 @@
 
       </div>
 
-
+      <hr />
 
       <h6>The Austin sessions</h6>
       <div class="row">
@@ -90,6 +128,8 @@
 
         </div>
       </div>
+
+      <hr />
 
       <h6>Aggerb&aelig;k in Brunch @ TV2/lorry</h6>
       <div class="row">
