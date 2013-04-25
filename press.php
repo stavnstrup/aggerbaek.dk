@@ -34,6 +34,23 @@
       <h5>Press</h5>
 
       <div class="row">
+        <div class="six columns end">
+          <p><strong>Gaffa - 24-04-2013<br>
+          Ivan Rod:</strong><br />
+          &ldquo;Hvor singer-songwriteren Aggerbæk på det første
+          Heartbeat præsenterede sit materiale i en fuldstændig
+          afskrællet, næsten nøgen udgave – blot med sin egen vokal og
+          guitar – præsenterer han på det nye Heartbeat det selvsamme
+          materiale i en mere effektfuld, næsten filmisk udgave med et
+          virkelig stort orkester med strygere bag sig.&rdquo;</p>
+
+          <p><a href="http://gaffa.dk/anmeldelse/71755">http://gaffa.dk/anmeldelse/71755</a></p>
+        </div>
+      </div>
+
+      <hr />
+
+      <div class="row">
         <div class="six columns">
           <p><a href="pdf/AggerbaekPresse.pdf">Dansk  pressemeddelelse</a></p>
 
