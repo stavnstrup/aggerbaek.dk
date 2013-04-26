@@ -34,16 +34,19 @@
       <h5>Press</h5>
 
       <div class="row">
-        <div class="six columns end">
+        <div class="twelve columns end">
           <p><strong>Gaffa - 24-04-2013<br>
           Ivan Rod:</strong><br />
-          &ldquo;Hvor singer-songwriteren Aggerbæk på det første
-          Heartbeat præsenterede sit materiale i en fuldstændig
-          afskrællet, næsten nøgen udgave – blot med sin egen vokal og
-          guitar – præsenterer han på det nye Heartbeat det selvsamme
-          materiale i en mere effektfuld, næsten filmisk udgave med et
-          virkelig stort orkester med strygere bag sig.&rdquo;</p>
 
+
+          &ldquo;For godt et år siden udsendte Benjamin Aggerbæk sit tredje album i eget navn. Dét hed Heartbeat. Nu foreligger hans fjerde album i eget navn. Og også dét hedder Heartbeat. Er du forundret? Forvirret? Dét er der ingen grund til. Sagen er nemlig den, at de to album rummer det samme materiale, bare i to forskellige udgaver. Hvor singer-songwriteren Aggerbæk på det første Heartbeat præsenterede sit materiale i en fuldstændig afskrællet, næsten nøgen udgave – blot med sin egen vokal og guitar – præsenterer han på det nye Heartbeat det selvsamme materiale i en mere effektfuld, næsten filmisk udgave med et virkelig stort orkester med strygere bag sig.
+
+Danmarks beskedne svar på Jeff Buckley gør det godt på begge album. Så godt, at begge Heartbeats – som findes samlet på en dobbelt-lp – må anbefales. Selv finder jeg dog, at udgaven med den store konstellation repræsenterer et skridt op ad stigen. Og dét fordi, Aggerbæk herpå demonstrerer en sjælden evne til at håndtere det store format. Konceptudviklingen har simpelthen resulteret i et smukt folk-album med en vokalt og instrumentalt fint afbalanceret klang og tyngde.&rdquo;</p>
+
+<!--
+          &ldquo;Danmarks beskedne svar på Jeff Buckley gør det godt på begge album. Så godt, at begge Heartbeats – som findes samlet på en dobbelt-lp – må anbefales. Selv finder jeg dog, at udgaven med den store konstellation repræsenterer et skridt op ad stigen. Og dét fordi, Aggerbæk herpå demonstrerer en sjælden evne til at håndtere det store format. Konceptudviklingen har simpelthen resulteret i et smukt folk-album med en vokalt og instrumentalt fint afbalanceret klang og tyngde.
+
+-->
           <p><a href="http://gaffa.dk/anmeldelse/71755">http://gaffa.dk/anmeldelse/71755</a></p>
         </div>
       </div>
