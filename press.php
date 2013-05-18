@@ -34,6 +34,39 @@
       <h5>Press</h5>
 
       <div class="row">
+
+        <div class="twelve columns end">
+          <p><strong>JazzNyt af Niels Overgård - 16-05-2013</strong><br />
+          Jeg sluttede min anmeldelse af albummet Heartbeat med
+          ordene "Melodimaterialet som han præsenterer her på
+          solopladen får mig til at vente med længsel på den fuldt
+          orkestrerede udgave." Det er over et år siden, at jeg skrev
+          disse ord. Så forventningerne er kun vokset, ikke mindst
+          fordi det forrige album My oh my fra 2010 har fået mange
+          rotationer på hjemmestereoen. Benjamin Aggerbæks Heartbeat
+          fra 2012 var et soloalbum indspillet en nat i et studie i
+          Austin, Texas i selskab med en flaske whisky og en
+          guitar. Nu er det med et fuldt orkestreret set up, hvor
+          Kasper Bai har arrangeret strygere og blæsere så det bliver
+          en helt ny oplevelse.</p>
+
+          <p>Der er N'awlins stemning på nummeret New Orleans, hvor Peter
+          Marott får en hovedrolle med trompeten. Der er swingpjatteri
+          på nummeret I will forget. Der er tilbagelænet jazzpop på
+          Waterfall med Aggerbæk i duet med Sofie Christensen,
+          nattetændt saxofon fra Anders Bast og kromatisk mundharpe
+          fra Alexander Kraglund. Benjamin Aggerbæk åbner pladen med
+          nogle numre i et Jeff Buckleylignende singer-songwriter
+          univers. Fælles for det hele er Aggerbæks vidunderlige
+          stemme, der kan svinge mellem det feminint fine og det
+          inderligt følsomme. Den musikalske ledsagelse er et
+          triumftog. Den er afvekslende og mesterligt skåret. Kasper
+          Bai har en fin fornemmelse for, at bruge de enkelte
+          instrumenter. Der er både luksuriøs crooner-stemning og cool
+          pop.  Heartbeat er et meget anbefalelsesværdigt album!</p>
+
+          <p><a href="http://jazznyt.blogspot.dk/2013/05/aggerbk-heartbeat-calibrated.html">jazznyt.blogspot.dk</a></p>
+        </div>
         <div class="twelve columns end">
           <p><strong>Gaffa - 24-04-2013<br>
           Ivan Rod:</strong><br />

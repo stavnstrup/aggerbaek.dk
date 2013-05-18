@@ -38,6 +38,14 @@
       <a href="http://jazznyt.blogspot.com/2012/01/benjamin-aggerbk-heartbeat-gateway.html">http://jazznyt.blogspot.com/2012/01/benjamin-aggerbk-heartbeat-gateway.html</a></p>
 -->
 
+<p>Maj, 2013</p>
+
+<p><strong><a href="press.php">JazzNyt af Niels Overgård</a></strong><br />
+Heartbeat er et meget anbefalelsesværdigt album!</p>
+
+<p><strong><a href="press.php">Gaffa - Ivan Rod</a></strong><br />
+Danmarks beskedne svar på Jeff Buckley</p>
+
 <p>April, 2013</p>
 
 <p><a href="audiovideo.php">Her kan i finde videooptagelser fra
