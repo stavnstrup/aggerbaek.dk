@@ -48,8 +48,8 @@ Danmarks beskedne svar på Jeff Buckley</p>
 
 <p>April, 2013</p>
 
-<p><a href="audiovideo.php">Her kan i finde videooptagelser fra
-release koncerten</a></p>
+<p><a href="audiovideo.php">Her kan I finde videooptagelser fra
+releasekoncerten</a></p>
 
 
 <p>March, 2013</p>
