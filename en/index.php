@@ -1,5 +1,5 @@
 <? $page_title = "News" ?>
-<?php include("includes/_header.php"); ?>
+<?php include("../includes/_header.php"); ?>
 
   
   <div class="row">
@@ -89,7 +89,7 @@ enjoy both albums as much as I enjoyed making them.</p>
     </div>
   </footer>
 
-<?php include("includes/_footer.php"); ?>
+<?php include("../includes/_footer.php"); ?>
 
 </body>
 </html>

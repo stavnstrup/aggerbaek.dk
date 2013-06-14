@@ -1,5 +1,5 @@
 <? $page_title = "Biography" ?>
-<?php include("includes/_header.php"); ?>
+<?php include("../includes/_header.php"); ?>
 
   <div class="row">
     <div class="twelve columns">
@@ -76,7 +76,7 @@
     </div>
   </footer>
 
-<?php include("includes/_footer.php"); ?>
+<?php include("../includes/_footer.php"); ?>
 
 </body>
 </html>
