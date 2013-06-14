@@ -40,11 +40,13 @@
 
 <p>Maj, 2013</p>
 
+
 <p><strong><a href="press.php">JazzNyt af Niels Overgård</a></strong><br />
-Heartbeat er et meget anbefalelsesværdigt album!</p>
+"Fælles for det hele er Aggerbæks vidunderlige stemme, der kan svinge mellem det feminint fine og det inderligt følsomme. Den musikalske ledsagelse er et triumftog.... Heartbeat er et meget anbefalelsesværdigt album!"
+</p>
 
 <p><strong><a href="press.php">Gaffa - Ivan Rod</a></strong><br />
-Danmarks beskedne svar på Jeff Buckley</p>
+"(Benjamin Aggerbæk) Danmarks beskedne svar på Jeff Buckley gør det godt på begge album. Så godt, at beggeHeartbeats – som findes samlet på en dobbelt-lp – må anbefales."</p>
 
 <p>April, 2013</p>
 
