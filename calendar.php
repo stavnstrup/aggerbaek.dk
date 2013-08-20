@@ -31,6 +31,13 @@
       <h5>Calendar 2013</h5>
 
       <div class="month">
+        <h6>Oktober</h6>
+        <ul>
+          <li><span class="day">10</span><span class="time">19:00</span>Aggerbæk Orchestra @ Buddhas Jazzklub, Hillerød</li>
+        </ul>
+      </div>
+
+      <div class="month">
         <h6>April</h6>
         <ul>
           <li><span class="day">16</span><span class="time">19:00</span>Heartbeat Release Party @ Planeten, Huset i Magstræde</li>
