@@ -30,7 +30,7 @@
     <div class="twelve columns">
       <h5>Press</h5>
 
-      <p><a href="pdf/AggerbaekQuintetPressRelease.pdf">Aggerbaek Quintet press  release in English</a></p>
+      <p><a href="../pdf/AggerbaekQuintetPressRelease.pdf">Aggerbaek Quintet press  release in English</a></p>
 
       <p><strong>Jazz Special - #112 (Dec. 09)<br>
       Henrik Wolsgaard-Iversen:</strong><br>

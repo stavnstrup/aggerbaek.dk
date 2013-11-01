@@ -75,7 +75,7 @@ enjoy both albums as much as I enjoyed making them.</p>
 
 
         </div>
-        <div class="six columns"><img src="images/covers/heartbeat2-cover450.jpg"
+        <div class="six columns"><img src="../images/covers/heartbeat2-cover450.jpg"
              alt="Benjamin Aggerb&aelig;k - Heartbeat cover" class="bigcover right"/></div>
       </div>
     </div>

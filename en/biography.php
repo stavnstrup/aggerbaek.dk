@@ -61,7 +61,7 @@
          Copenhagen.</p>
         </div>
         <div class="six
-          columns"><img src="images/n570772078_1096639_6439.jpg"
+          columns"><img src="../images/n570772078_1096639_6439.jpg"
           width="495" height="373" align="right"
           class="leftspace"></div>
       </div>
