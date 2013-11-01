@@ -28,7 +28,7 @@
 
   <div class="row">
     <div class="twelve columns">
-      <h5>Gallery</h5>
+      <h5>Galleri</h5>
 
       <div class="row">
       <div class="six columns offset-by-three end">

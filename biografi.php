@@ -31,7 +31,7 @@
 
   <div class="row">
     <div class="twelve columns">
-      <h5>Biography</h5>
+      <h5>Biografi</h5>
 
       <h5 class="subtitle">International  spillemand klar med nyt album</h5>
 

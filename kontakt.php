@@ -1,4 +1,4 @@
-<? $page_title = "Contact" ?>
+1<? $page_title = "Kontakt" ?>
 <?php include("includes/_header.php"); ?>
 
   <div class="row">
@@ -28,7 +28,7 @@
 
   <div class="row">
     <div class="twelve columns">
-      <h5>Contact</h5>
+      <h5>Kontakt</h5>
 
       <p><strong>Booking:</strong>  Jakob Baggesen, +45-3028-9410, <script language="javascript" type="text/javascript">eval(document.write(unescape("%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%61%67%67%65%72%62%61%65%6b%6d%75%73%69%63%40%67%6d%61%69%6c%2e%63%6f%6d%22%3e%61%67%67%65%72%62%61%65%6b%6d%75%73%69%63%40%67%6d%61%69%6c%2e%63%6f%6d%3c%2f%61%3e")))</script><noscript>"aggerbaekmusic" efterfulgt af "snabela" og til sidst "gmail punktum com" (Du skal have script aktiveret i din browser for
                         at kunne sende e-mail).

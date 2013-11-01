@@ -10,15 +10,15 @@
           </ul>
           <section>
             <ul class="left">
-              <li><a href="index.php" title="News">news</a></li>
-              <li class="active"><a href="press.php" title="Press">press</a></li>
-              <li><a href="biography.php" title="">biography</a></li>
-              <li><a href="discography.php" title="">discography</a></li>
-              <li><a href="gallery.php" title="">gallery</a></li>
-              <li><a href="lyrics.php" title="">lyrics</a></li>
+              <li><a href="index.php" title="News">nyheder</a></li>
+              <li class="active"><a href="presse.php" title="Press">presse</a></li>
+              <li><a href="biografi.php" title="">biografi</a></li>
+              <li><a href="diskografi.php" title="">diskografi</a></li>
+              <li><a href="galleri.php" title="">galleri</a></li>
+              <li><a href="tekster.php" title="">tekster</a></li>
               <li><a href="audiovideo.php" title="">audio/video</a></li>
-              <li><a href="calendar.php" title="">calendar</a></li>
-              <li><a href="contact.php" title="">contact</a></li>
+              <li><a href="kalender.php" title="">kalender</a></li>
+              <li><a href="kontakt.php" title="">kontakt</a></li>
             </ul>
             <ul class="right">
               <li><a href="press-uk.php" title="">english version</a></li>
@@ -31,7 +31,7 @@
 
   <div class="row">
     <div class="twelve columns">
-      <h5>Press</h5>
+      <h5>Presse</h5>
 
       <div class="row">
 

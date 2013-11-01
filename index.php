@@ -32,7 +32,7 @@
   <section class="main">
   <div class="row">
     <div class="six columns">
-      <h5>News</h5>
+      <h5>Nyheder</h5>
 <!--
       <p>Her er solopladens første omtale:<br />
       <a href="http://jazznyt.blogspot.com/2012/01/benjamin-aggerbk-heartbeat-gateway.html">http://jazznyt.blogspot.com/2012/01/benjamin-aggerbk-heartbeat-gateway.html</a></p>

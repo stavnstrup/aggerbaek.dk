@@ -1,4 +1,4 @@
-<? $page_title = "Lyrics" ?>
+<? $page_title = "Tekster" ?>
 <?php include("includes/_header.php"); ?>
   
   <div class="row">
@@ -29,7 +29,7 @@
 
   <div class="row">
     <div class="twelve columns">
-      <h5>Lyrics</h5>
+      <h5>Tekster</h5>
 
       <div class="albumhead"><span class="artist">Benjamin Aggerb&aelig;k</span> // <span class="title">Heartbeat</span> (2011)</div>
 

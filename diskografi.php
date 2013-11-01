@@ -31,7 +31,7 @@
 
   <div class="row">
     <div class="twelve columns">
-      <h5>Discography</h5>
+      <h5>Diskografi</h5>
 
       <div class="row discography">
         <div class="three columns"><img src="/images/covers/heartbeat2-cover-small.jpg"/></div>
