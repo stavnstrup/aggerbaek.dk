@@ -21,7 +21,7 @@
               <li><a href="kontakt.php" title="">kontakt</a></li>
             </ul>
             <ul class="right">
-              <li><a href="discography-uk.php" title="">english version</a></li>
+              <li><a class="uk" href="en/index.php" title="english version"><img src="images/gb.png"/></a></li>
             </ul>
           </section>
         </nav>
