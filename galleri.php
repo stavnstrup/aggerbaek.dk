@@ -10,15 +10,15 @@
           </ul>
           <section>
             <ul class="left">
-              <li><a href="index.php" title="News">news</a></li>
-              <li><a href="press.php" title="Press">press</a></li>
-              <li><a href="biography.php" title="">biography</a></li>
-              <li><a href="discography.php" title="">discography</a></li>
-              <li class="active"><a href="gallery.php" title="">gallery</a></li>
-              <li><a href="lyrics.php" title="">lyrics</a></li>
+              <li><a href="index.php" title="News">nyheder</a></li>
+              <li><a href="presse.php" title="Press">presse</a></li>
+              <li><a href="biografi.php" title="">biografi</a></li>
+              <li><a href="diskografi.php" title="">diskografi</a></li>
+              <li class="active"><a href="galleri.php" title="">galleri</a></li>
+              <li><a href="tekster.php" title="">tekster</a></li>
               <li><a href="audiovideo.php" title="">audio/video</a></li>
-              <li><a href="calendar.php" title="">calendar</a></li>
-              <li><a href="contact.php" title="">contact</a></li>
+              <li><a href="kalender.php" title="">kalender</a></li>
+              <li><a href="kontakt.php" title="">kontakt</a></li>
             </ul>
           </section>
         </nav>
