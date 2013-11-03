@@ -1,3 +1,12 @@
+  <footer>
+    <div class="row">
+      <div class="twelve columns">
+        <p class="text-right">Website/Design:  Christina Olsson, <a href="http://www.efoqus.dk">E Foqus Danmark A/S</a></p>
+      </div>
+    </div>
+  </footer>
+
+
   <!-- Included JS Files (Uncompressed) -->
   <script src="/javascripts/foundation/jquery.js"></script>
   <script src="/javascripts/foundation/jquery.placeholder.js"></script>
@@ -25,3 +34,7 @@
 
   <!-- Application Javascript, safe to override -->
   <script src="/javascripts/foundation/app.js"></script>
+
+
+
+

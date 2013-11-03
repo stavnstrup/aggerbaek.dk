@@ -71,13 +71,6 @@
     </div>
   </div>
 
-  <footer>
-    <div class="row">
-      <div class="twelve columns">
-        <p class="text-right">Website/Design:  Christina Olsson, <a href="http://www.efoqus.dk">E Foqus Danmark A/S</a></p>
-      </div>
-    </div>
-  </footer>
 
 <?php include("../includes/_footer.php"); ?>
 
