@@ -21,6 +21,9 @@
               <li><a href="calendar.php" title="">calendar</a></li>
               <li><a href="contact.php" title="">contact</a></li>
             </ul>
+            <ul class="right">
+              <li><a class="uk" href="../index.php" title="danish version"><img src="../images/dk.png"/></a></li>
+            </ul>
           </section>
         </nav>
       </div>

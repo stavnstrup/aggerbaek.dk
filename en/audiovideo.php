@@ -1,5 +1,5 @@
 <? $page_title = "Audio and Video" ?>
-<?php include("includes/_header.php"); ?>
+<?php include("../includes/_header.php"); ?>
 
   <div class="row">
     <div class="twelve columns">
@@ -19,6 +19,9 @@
               <li class="active"><a href="audiovideo.php" title="">audio/video</a></li>
               <li><a href="calendar.php" title="">calendar</a></li>
               <li><a href="contact.php" title="">contact</a></li>
+            </ul>
+            <ul class="right">
+              <li><a class="uk" href="../index.php" title="danish version"><img src="../images/dk.png"/></a></li>
             </ul>
           </section>
         </nav>
@@ -157,7 +160,7 @@
     </div>
   </footer>
 
-<?php include("includes/_footer.php"); ?>
+<?php include("../includes/_footer.php"); ?>
 
 </body>
 </html>
