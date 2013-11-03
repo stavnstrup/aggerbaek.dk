@@ -1,0 +1,955 @@
+<? $page_title = "Lyrics" ?>
+<?php include("includes/_header.php"); ?>
+  
+  <div class="row">
+    <div class="twelve columns">
+      <div class="contain-to-grid">
+        <nav class="top-bar" id="menubar">
+          <ul>
+            <li class="toggle-topbar"><a href="#"></a></li>
+          </ul>
+          <section>
+            <ul class="left">
+              <li><a href="index.php" title="News">news</a></li>
+              <li><a href="press.php" title="Press">press</a></li>
+              <li><a href="biography.php" title="">biography</a></li>
+              <li><a href="discography.php" title="">discography</a></li>
+              <li><a href="gallery.php" title="">gallery</a></li>
+              <li class="active"><a href="lyrics.php" title="">lyrics</a></li>
+              <li><a href="audiovideo.php" title="">audio/video</a></li>
+              <li><a href="calendar.php" title="">calendar</a></li>
+              <li><a href="contact.php" title="">contact</a></li>
+            </ul>
+          </section>
+        </nav>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="row">
+    <div class="twelve columns">
+      <h5>Lyrics</h5>
+
+      <div class="albumhead"><span class="artist">Benjamin Aggerb&aelig;k</span> // <span class="title">Heartbeat</span> (2011)</div>
+
+      <div class="row album">
+        <div class="four columns">
+          <div class="song">
+            <h6>A Beautiful Goodbye</h6>
+
+            <p>There were things I did<br>
+            that cannot be undone.<br>
+            There were things I said<br>
+            that cannot be unsaid.<br>
+            But oh I smile,<br>
+            oh yes I smile.<br>
+            Cause I told you that I love ‘till I die,<br>
+            and that this is just<br>
+            a beautiful goodbye</p>
+          </div>
+          <div class="song">
+            <h6>Begin Again</h6>
+
+            <p>Starting over<br>
+            What does it mean?<br>
+            I’m center stage<br>
+            but honey, what’s the scene?<br>
+            I can do this or I can do that.<br>
+            How to begin again?</p>
+
+            <p>I found love<br>
+            or it found me.<br>
+            Hand in hand we lived the daydream<br>
+            But every story has to end<br>
+            When to begin again?</p>
+
+            <p>Everyday another chance<br>
+            Stars align for a new romance<br>
+            But can you trust the stars above?<br>
+            Will they ever lead to love?</p>
+
+            <p>If second chances<br>
+            go on and on<br>
+            And all the stars I kiss<br>
+            They fade into the dawn<br>
+            Then what is left<br>
+            but a lover’s desire?<br>
+            Will I ever be ready to begin again?</p>
+
+            <p>Every day another chance<br>
+            Stars align for a new romance<br>
+            But can you trust the stars above?<br>
+            Will they ever lead to real love?</p>
+
+            <p>“Starting over”<br>
+            but what does it mean?<br>
+            I’m center stage now<br>
+            But honey, what’s the scene?<br>
+            The curtains drawn<br>
+            Bring on the show,<br>
+            Cause’ I’m ready to begin again</p>
+          </div>
+          <div class="song">
+            <h6>Daydream</h6>
+
+            <p>I’ve been thinking about you<br>
+            I’ve been thinking a lot about you<br>
+            I’ve been thinking about you<br>
+            So come on over and let’s make mmm…</p>
+
+            <p>Daydreams of you<br>
+            The way you make my heart beat<br>
+            Beat beat beat …<br>
+            The way you make it stop<br>
+            When you go<br>
+            The way I just want you more and more</p>
+
+            <p>I’ve been dreaming about you<br>
+            I’ve been dreaming a lot about you<br>
+            I’ve been dreaming about you<br>
+            So come on over and let’s make mmm…</p>
+
+            <p>Daydreams of you<br>
+            The way you bite, the way you sing<br>
+            The way you’ve got the blues<br>
+            The way you make me<br>
+            dance among the stars<br>
+            The way you bring me to where you are</p>
+
+            <p>I’ve been hoping to kiss you<br>
+            I’ve been hoping to kiss you a lot<br>
+            I’ve been hoping to kiss you<br>
+            So come on over and let’s make mmm…</p>
+          </div>
+          <div class="song">
+            <h6>Ghost</h6>
+            <h6 class="subheader">(Benjamin Aggerbæk, Jon Sanchez)</h6>
+
+            <p>Frustration, this station<br>
+            won’t let me move along<br>
+            I’m waiting and fading<br>
+            It’s taking far too long<br>
+            A letter with a thousand kisses<br>
+            promises too much<br>
+            And here I’m on a platform with a<br>
+            dream about a ghost</p>
+
+            <p>Every word you wrote<br>
+            felled me like a stroke<br>
+            crushed every dream I had<br>
+            Every broken vow<br>
+            Was a hurtful blow<br>
+            Was it devil I had kissed?<br>
+            I throw my hands up in the air<br>
+            I feel completely lost<br>
+            and here I’m on a platform with a<br>
+            dream about a ghost</p>
+
+            <p>I’m dreaming about a Ghost</p>
+
+            <p>My mind plays tricks on me<br>
+            Could it really be?<br>
+            Did I do something wrong?<br>
+            It’s no mystery<br>
+            she put a spell on me<br>
+            and the blues became my song<br>
+            I curse her and I bless her<br>
+            I’m confused about the past<br>
+            And here I’m on a platform<br>
+            with a dream about a ghost</p>
+
+            <p>I’m dreaming about a ghost</p>
+          </div>
+        </div>
+        <div class="four columns">
+          <div class="song">
+            <h6>Heartbeat</h6>
+
+            <p>I’m awake and I’m here with you<br>
+            You’re so close to me<br>
+            I can hear your heartbeat beat<br>
+            You are so close to me</p>
+
+            <p>One, two, three, four<br>
+            You’re the one that I adore<br>
+            Five, six, seven, eight<br>
+            Oh, I love to count your heartbeat</p>
+
+            <p>Oh, I love your bumpy roads<br>
+            Please show me tonight<br>
+            You are so Rock’n’Roll<br>
+            But you crush me in the morning light</p>
+
+            <p>One, two, three, four<br>
+            You’re the one that I adore<br>
+            Five, six, seven, eight<br>
+            Oh, I love to count your heartbeat</p>
+
+            <p>You show me Heaven, oh yes you do<br>
+            What a perfect view<br>
+            I’m happy on your passenger seat<br>
+            Yes, you give me more than I need</p>
+
+            <p>One, two, three, four<br>
+            You’re the one that I adore<br>
+            Five, six, seven, eight<br>
+            You make my heart beat</p>
+          </div>
+          <div class="song">
+            <h6>I Will Forget</h6>
+
+            <p>I will forget<br>
+            the stormy weather outside<br>
+            I will forget<br>
+            that I haven’t seen the sun for a while<br>
+            I will forget<br>
+            with a thought of you<br>
+            Makes me forget<br>
+            all the reasons to get blue</p>
+
+            <p>The world may tumble down<br>
+            Yet you give me solid ground<br>
+            No, you never let me down</p>
+
+            <p>I will forget<br>
+            that I’ve got no money, honey<br>
+            I will forget<br>
+            that the world’s been letting me down<br>
+            I will forget<br>
+            with a thought of you<br>
+            Makes me forget<br>
+            all the reasons to get blue</p>
+
+            <p>The world may tumble down<br>
+            Yet you give me solid ground<br>
+            No, you never let me down</p>
+
+            <p>I will forget<br>
+            the stormy weather outside<br>
+            I will forget<br>
+            as longs as you stick around</p>
+          </div>
+          <div class="song">
+            <h6>I’m a Fool</h6>
+
+            <p>You told me many times<br>
+            That you have been untrue<br>
+            You told me many times<br>
+            That I should be careless, too<br>
+            You say I’m way too kind<br>
+            That when I’m out of sight<br>
+            I’m out your mind<br>
+            You told me many times I’m a fool<br>
+            A fool for you</p>
+
+            <p>You told me many times<br>
+            That I should find a new lover<br>
+            It’s just a matter of time before<br>
+            You find another<br>
+            But honey, what can I do?<br>
+            If I ain’t your man and you ain’t my woman, too?<br>
+            I’m a fool, a fool for you</p>
+
+            <p>When I choose to go<br>
+            Turn my back and say No<br>
+            When I finally think we’re through<br>
+            You come around and say I love you</p>
+          </div>
+          <div class="song">
+            <h6>New Orleans</h6>
+
+            <p>I packed my old suitcase<br>
+            I’m going down South<br>
+            I wrapped up all the memories<br>
+            of this old town<br>
+            ‘Cause I hate these games<br>
+            And I hate these heartaches that keep us down<br>
+            Down on our knees<br>
+            So I’m begging you please<br>
+            Come down to New Orleans<br>
+            With me</p>
+
+            <p>I miss the old Good Times<br>
+            Where love was enough<br>
+            To get us through the troubled nights<br>
+            With our hearts intact<br>
+            ‘Cause I hate these games<br>
+            And I hate these heartaches that keep us down<br>
+            Down to our knees<br>
+            So I’m begging you please<br>
+            Come down to New Orleans<br>
+            With me, with me</p>
+          </div>
+        </div>
+        <div class="four columns">
+          <div class="song">
+            <h6>Stranger</h6>
+
+            <p>Did you come here with a solution<br>
+            Or did you come here to pretend?<br>
+            Sometimes you’ve got to go back to where you came from<br>
+            Try to mend all the bridges you’ve burnt</p>
+
+            <p>Did you come here for revenge?<br>
+            Or did you come here to war?<br>
+            I can assure you that your soul will slide into<br>
+            The dark dark side of the road</p>
+
+            <p>Look for the beauty in a stranger<br>
+            Look for the beauty from within<br>
+            Look for the beauty in nature<br>
+            Try to love again,<br>
+            We just want you to love again</p>
+
+            <p>Did you come here for redemption?<br>
+            Go go find the one you broke and left behind<br>
+            It’s only getting harder if you’re waiting<br>
+            And while you wait you’ll get so lonesome in your heart</p>
+
+            <p>Love ain’t never gone, it’s just hiding<br>
+            From the angry eye that will not see<br>
+            Honey, we got to do something now ‘cause later<br>
+            We all be gone gone in history</p>
+
+            <p>Look for the beauty in a stranger<br>
+            Look for the beauty from within<br>
+            Look for the beauty in nature<br>
+            Try to love again,<br>
+            We all just want you to love again</p>
+          </div>
+          <div class="song">
+            <h6>Waterfall</h6>
+
+            <p>There’s no covering-up in me<br>
+            No baby, what you’ve got is what you see<br>
+            There might be broken hearts<br>
+            And waterfalls<br>
+            But honey love is all we’ve got</p>
+
+            <p>There’s no asking for my love<br>
+            No baby, it’s never gone, it’s never lost<br>
+            There might be broken hearts<br>
+            And waterfalls,<br>
+            But love is all we’ve got</p>
+
+            <p>So just giving in is like giving<br>
+            To give in to your love is the hardest part of life<br>
+            You’re afraid to fall into the great waterfall<br>
+            But let’s just fall in love</p>
+
+            <p>So just give in, it’s like giving<br>
+            Giving in to your heart is the hardest part of life<br>
+            You’re afraid to fall into the dark waterfalls<br>
+            But let’s just fall<br>
+            fall in love<br>
+            Let’s just fall in love</p>
+          </div>
+          <div class="song">
+            <h6>You’re Not Lost</h6>
+
+            <p>Anyone can see it<br>
+            Anyone but you<br>
+            That you have been misguided<br>
+            by a devil inside of you</p>
+
+            <p>what you’ve got is gold<br>
+            but all you see is dust<br>
+            you’re punching down your ghost<br>
+            it’s a battle that you have lost</p>
+
+            <p>but you can’t see it<br>
+            that you’re not lost<br>
+            you won’t see it<br>
+            ‘cause you hide away your heart</p>
+
+            <p>you let yourself into your devil’s mouth<br>
+            you’re eating up your soul<br>
+            then you don’t really know<br>
+            why you are so cold</p>
+
+            <p>you cant see it<br>
+            that you’re not lost<br>
+            you won’t see it<br>
+            ‘cause you hide away heart<br>
+            so come on step out<br>
+            step out of your cave<br>
+            into the light<br>
+            feel something real<br>
+            to feel something real</p>
+
+            <p>Anyone can see it<br>
+            Anyone but you</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="albumhead"><span class="artist">Aggerb&aelig;k Kvintet</span> // <span class="title">My Oh My</span> (2009)</div>
+     
+      <div class="row album">
+        <div class="four columns">
+          <div class="song">
+            <h6>My Oh My!</h6>
+              
+            <p>My oh My<br> I never thought that I could die<br> For
+            some blue eyes <br> And those lips to touch mine</p>
+              
+            <p>My Oh My<br> I never thought I&rsquo;d fell so hard<br>
+            You break my heart, you break my bones<br> But I
+            don&rsquo;t mind</p>
+
+            <p>My Oh My<br> Life is unpredictable <br> With angels and
+            everyday, Miracles<br> My Oh My<br> Life is so magical<br>
+            When you are in my world</p>
+          </div>
+
+          <div class="song>"
+            <h6>You Don&rsquo;t Know</h6>
+
+            <p>I&rsquo;m traveling away<br> There&rsquo;s nothing
+            here for me to do<br> But I gave you my heart today<br>
+            Yet you don&rsquo;t know what to do</p>
+
+            <p>You don&rsquo;t know<br> How to give your love to
+            me<br> Your hands are shaking<br> My heart collapse<br>
+            But you don&rsquo;t know what to do</p>
+
+            <p>It&rsquo;s got to stop <br>I got to stop it here and
+            now<br> To make it easier for you to get out<br> Yet you
+            don&rsquo;t go, you don&rsquo;t stay<br> You don&rsquo;t
+            know what to do</p>
+
+            <p>Like a shooting star<br> That no one sees<br> No wish,
+            no crash, <br> No hope for me<br> I&rsquo;m burning
+            up <br> I&rsquo;m on my way now<br> This has to stop<br>
+            I&rsquo;m lost anyhow</p>
+
+            <p>I&rsquo;m traveling away<br> There&rsquo;s nothing
+            here for me to do<br> I gave you my heart today<br> But
+            you don&rsquo;t know what to do</p>
+          </div>
+
+          <div class="song>"
+            <h6>St. Peters Blues</h6>
+
+            <p>I forget you, You forget me<br> That the way things
+            should end<br> &lsquo;Cause neither you, nor me<br> Can
+            live in a memory</p>
+
+            <p>Turn away, don&rsquo;t you cry for me<br> You and I,
+            we&rsquo;re history<br> But I&rsquo;m okay, are you
+            okay<br> In this misery</p>
+
+            <p>Everyday I sing along <br> To this blue and moody
+            chanson <br> But my words are just words<br> And my heart
+            feels cursed</p>
+          </div>
+        </div>
+        <div class="four columns">      
+          <div class="song">
+            <h6>When True Love says Goodbye</h6>
+
+            <p>It&rsquo;s not the pain you caused me<br> It&rsquo;s
+            not the way you said goodbye<br> It&rsquo;s more the
+            memory that glows through the dark nights<br> And the
+            question of how we collided and died</p>
+
+            <p>Sometimes life&rsquo;s a dream<br> Some things I
+            can&rsquo;t explain<br> How come I want to go back?<br>
+            When I know it&rsquo;s a fake way to survive<br> When true
+            love says goodbye</p>
+
+            <p>It&rsquo;s not the kiss I remember <br> It&rsquo;s more
+            the feeling of belonging and being one<br> And I now you
+            will ember<br> Until I find a closure to this poem</p>
+
+            <p>Sometimes life&rsquo;s a dream<br> Some things I
+            can&rsquo;t explain<br> How come I want to go back?<br>
+            When I know it&rsquo;s a fake way to survive<br> When true
+            love says goodbye</p>
+          </div>
+
+          <div class="song">
+            <h6>A Spark</h6>
+
+            <p>There is a spark in your eyes<br> And it&rsquo;s been
+            taking me by surprise<br> Every time I look at you I
+            smile</p>
+
+            <p>There was magic in the air<br>
+            All the dark clouds disappeared<br>
+            Every time I can&rsquo;t help myself from smiling</p>
+
+            <p>I&rsquo;ve been gazing at stars<br> That&rsquo;s where
+            you are<br> I have a dream that my love, babe<br> Can
+            reach you that far</p>
+          </div>
+
+          <div class="song">
+            <h6>Lost In Love</h6>
+
+            <p>Love is a mystery<br>
+                            I can be lost and yet I see<br>
+                            A woman in front of me<br>
+                            Saying that she&rsquo;s still in love with me</p>
+
+            <p>Love is a vague memory<br> Lost in American movies<br>
+            I cannot get myself to believe in love<br> That way</p>
+
+            <p>I know that I&rsquo;m <br> Lost in love<br> Yet I know
+            it&rsquo;s not<br> The happiness I once thought <br> That
+            it was</p>
+
+            <p>Love is misery<br> A sickness that comes and goes<br>
+            As it pleases<br> I get so seasick of spinning around <br>
+            And around</p>
+
+            <p>I know that I&rsquo;m <br> Lost in love<br> Yet I know
+            it&rsquo;s not<br> The happiness I once thought <br> That
+            it was</p>
+          </div>
+        </div>    
+
+        <div class="four columns">
+          <div class="song">
+            <h6>Orange Moon</h6>
+
+            <p>Orange moon over the city<br> Lying in the park with
+            you<br> The moon is rising<br> Like our passion<br> No
+            it&rsquo;s never been summertime <br> Before I met you</p>
+
+            <p>I remember your kisses<br> Italian siestas with you<br>
+            And the heat, and your heartbeat<br> So close to me</p>
+
+            <p>I know this won&rsquo;t last forever<br> I know
+            it&rsquo;s just a matter of time<br> But the moment your
+            love hit me like that<br> It&rsquo;s something I come back
+            for again and again</p>
+
+            <p>And I remember your kisses<br> Italian siestas with
+            you<br> And the heat and your heartbeat <br> So close to
+            me &ndash; <br> Yes this is love<br> Maybe
+            momentarily, <br> But let&rsquo;s call it what it is<br>
+            This is love; this is my way of saying<br> I love
+            You, <br> My Arizona Love</p>
+          </div>
+          <div class="song">
+            <h6>We&rsquo;ll Die Alone</h6>
+
+            <p>Something is bringing me back<br> To the room I thought
+            I&rsquo;d just left<br> And I know I had to let you go<br>
+            Let this love go</p>
+
+            <p>Tears are falling from her eyes<br> Fallen out of
+            grace, out of paradise<br> And she knows now <br> She will
+            die alone<br> We&rsquo;ll die alone</p>
+
+            <p>Certain that it is time <br> For us to say goodbye<br>
+            And I&rsquo;m watching you fly away<br> Bye bye,
+            goodbye</p>
+          </div>
+          <div class="song">
+            <h6>In The Dark</h6>
+
+            <p>I was only hoping<br> Someday you&rsquo;d be mine<br>
+            Oh, my patience failing<br> Running out time</p>
+
+            <p>I was just pretending <br> You and I could be more than
+            friends<br> Oh, my hopes are fading<br> Running out
+            hands</p>
+
+            <p>Everything is dark <br> All I want <br> Is to get under
+            your skin<br> Into your heart<br> Won&rsquo;t you find me
+            in the dark?<br>  Under your skin <br> Where the sun is
+            shining</p>
+
+            <p>I was only waiting <br> For the right move to make <br>
+            But I&rsquo;m so scared of failing<br> Loosing you for
+            good</p>
+
+            <p>Everything is dark <br> All I want <br> Is to get under
+            your skin<br> Into your heart<br> Won&rsquo;t you find me
+            in the dark?<br>  Under your skin <br> Where the sun is
+            shining</p></td>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="albumhead"><span class="artist">Aggerb&aelig;k Kvintet</span> // <span class="title">Back In Town</span> (2007)</div>
+     
+      <div class="row album">
+        <div class="four columns">
+          <div class="song">
+            <h6>Angel</h6>
+
+            <p>I&rsquo;d be there for you<br> If you ever come <br>
+            around asking me to,<br> Ain&rsquo;t nothing I <br>
+            wouldn&rsquo;t do<br> For someone like you</p>
+
+            <p>&rsquo;cause you&rsquo;re an angel<br> so gorgeous and
+            fine<br> you&rsquo;re an angel<br> Could you ever be <br>
+            mine?</p>
+
+            <p>I think I saw a smile in your eyes<br> What a perfect
+            golden sunrise, <br> If I could, yes I would, I definitely
+            should,<br> Steal those eyes for good</p>
+
+            <p>&rsquo;cause you&rsquo;re an angel<br> so gorgeous and
+            fine<br> You&rsquo;re an angel<br> Could you ever be
+            mine?</p>
+
+            <p>In a world that we&rsquo;re living in<br> true love is
+            hard to find <br> but it&rsquo;s the truth when I say<br>
+            That all I want<br> All I need is you</p>
+
+            <p>You&rsquo;re an angel<br> So gorgeous and fine<br>
+            You&rsquo;re an angel<br> Could you ever be mine?<br>My
+            angel, mine<br></p>
+          </div>
+          <div class="song">
+            <h6>New York Lover</h6>
+
+            <p>You made me make up my mind,<br> Then I fled right out
+            of town,<br> I said you have to give me time,<br> Need
+            more time<br> Sitting in a yellow cab<br> With a mellow
+            head,<br> You&rsquo;re wasting my time<br> Sweet lover of
+            mine</p>
+
+            <p>Downtown Manhattan<br> Where our love affair
+            happened, <br> The sun never saw us shine, <br> But we
+            sure shined,<br> On the corner of Elizabeth and
+            Spring <br> You could find us kissing<br> Wasting our
+            time<br> Sweet lover of mine</p>
+
+            <p>We met and said goodbye<br> Almost over night<br> So
+            I&rsquo;m out of the state<br> Not united anymore<br>
+            &rsquo;cause we chose to close the door<br> lover of mine,
+            thank you for your time<br> sweet lover of mine<br> New
+            York lover, I&rsquo;m happy you were mine</p>
+          </div>
+          <div class="song">
+            <h6>Hope</h6>
+
+            <p>Funny life goes by and by and by, <br> Say goodbye to
+            one that I love<br> So I cry<br> While I sit here and
+            watch how it&rsquo;s starting <br> To rain outside</p>
+
+            <p>Could we just collide?<br>  For a moment in time<br> I
+            can&rsquo;t cope<br> What is life without dreams and<br>
+            Hope?</p>
+
+            <p>Sure could use your hand right now<br> Feel the warmth
+            from your body now &lsquo;cause I freeze, while I sit here
+            and watch how it&rsquo;s starting to rain, inside my
+            heart,</p>
+
+            <p>Could we just collide, <br> for a moment in time, <br>
+            I can&rsquo;t cope, <br> what is life without dreams and
+            hope?</p>
+          </div>
+          <div class="song">
+            <h6>Back in Town</h6>
+
+            <p>I&rsquo;m not getting drunk on beer or wine, <br> I got
+            something entirely else going on in my mind, I know
+            you&rsquo;re back in town.</p>
+
+            <p>I didn&rsquo;t notice that I need you so much, <br> our
+            sweet kisses and your gentle touch, <br> I know it
+            won&rsquo;t be the same, <br> let&rsquo;s do it again</p>
+
+            <p>come on let&rsquo;s make love, <br> now your back in
+            town</p>
+
+            <p>last time we met were downtown east, <br> Hitting away
+            in bars, <br> then you suddenly showed me your beautiful
+            breasts, <br> I know it won&rsquo;t be the same, <br>
+            let&rsquo;s do it all again</p>
+
+            <p>Come on let&rsquo;s make love, <br> now you&rsquo;re
+            back in town</p>
+          </div>
+          <div class="song">
+            <h6>How Love is Strong</h6>
+
+            <p>There are angels, <br> on every corner, <br> at the
+            crossroads you may find, <br> so let love, <br> be your
+            guide, <br> let faith lead you on your path</p>
+
+            <p>In the silence God tells me, <br> the secrets
+            &lsquo;bout love and hate, <br> please forgive and try to
+            love the one who keeps you holding on. </p>
+
+            <p>Christmas day is near by now, <br> and she begins to
+            cry out, <br> she is free, <br> but she&rsquo;s
+            alone, <br> she forgot how love is strong</p>
+
+            <p>Then suddenly the tears went dry, <br> and she begins
+            to smile, <br> she remembers who she loves, <br> and she
+            sees that he holds on, <br> she remembers who she
+            loves, <br> and she slowly starts to understand, <br> what
+            Christmas means to Man.</p>
+          </div>
+        </div>
+        <div class="four columns">
+          <div class="song">
+            <h6>Kristoffer</h6>
+
+            <p>You ought to know, <br> I can&rsquo;t get you out of my
+            mind, <br> you ought to know, <br> I can&rsquo;t get you
+            out of my life</p>
+
+            <p>I know you&rsquo;d hate me for a sad song, <br> but I
+            know you know I need to do this to move on.</p>
+             
+            <p>So you got a one-way ticket for a long-distant
+            train, <br> I think it&rsquo;s unfair that the ticket was
+            valid that day</p>
+
+            <p>I still got so much I want to tell you, <br> I still
+            love you, <br> I still got so much I want to show
+            you, <br> so I hope you see me somewhere </p>
+
+            <p>You made me smile, <br> you made me stay up a little
+            longer, <br> &lsquo;cause you wanted to share the morning
+            light, <br> you made me cry when you went away, <br> but I
+            remember you stay in my heart forever</p>
+
+            <p>I see your face in the window when I&rsquo;m walking by, <br>
+            You say &lsquo;hey man come on up and get a beer, come on now&rsquo;, </p>
+
+            <p>I can&rsquo;t get you out of my head, <br> I
+            don&rsquo;t mind, <br> I can&rsquo;t get you out of my
+            head, <br> &lsquo;cause I want to remember the good
+            times</p>
+
+            <p>You made me smile, <br> you made me stay up a little
+            longer, <br> &lsquo;cause you wanted to share the morning
+            light, <br> you made me cry when you went away, <br> but I
+            remember you stay in my heart forever</p>
+          </div>
+          <div class="song">
+            <h6>Right or Wrong</h6>
+
+            <p>I know I will be the one<br> who says goodbye<br> and I
+            will be the one<br> who makes you cry<br> but what we have
+            is gone<br> I must be moving on <br> this may be
+            right <br> this may be wrong</p>
+
+            <p>I write these words while listening<br> to your
+            heartbeat<br> Soon the birds will sing my song<br> in the
+            morning breeze<br> I&rsquo;ll be moving on<br> while you
+            will <br> hear my song<br> and you will cry and I
+            understand why</p>
+
+            <p>Now the truth is out <br> regrets are taking
+            control<br> thoughts became these words<br> I really felt
+            the air turn cold<br> This is the feeling at the crack of
+            dawn<br> This may be right, this may be wrong</p>
+
+            <p>Never dreamt to realize<br> that we may die<br> All
+            good things will end <br> I never quite understood
+            the <br> reason why<br> But what we had is dead<br> I must
+            be moving ahead<br> This is the sound of our world<br>
+            Cracking down</p>
+
+            <p>Now the truth is out<br>regrets are taking
+            control<br> thoughts became these words<br> I really felt
+            the air turn cold<br> This is the feeling at the crack of
+            dawn<br> This may be right, this may be wrong</p>
+          </div>
+          <div class="song">
+            <h6>My Bones</h6>
+
+            <p>I feel the pain into my bones, <br> left her now
+            I&rsquo;m on my own, <br> Eyes are heavy but I cannot
+            sleep, <br> promises were hard to keep</p>
+
+            <p>And now you say tomorrow brings, <br> another day
+            another chance, <br> but all feel inside my heart is just
+            the pain, <br> running through my veins, <br> into my
+            bones</p>
+
+            <p>Everything is like a dream, <br> life ain&rsquo;t
+            always what it seems, <br> death is knocking at my door
+            demanding me to suffer more,</p>
+
+            <p>And now you say tomorrow brings, <br> another day
+            another chance, <br> but all feel inside my heart is just
+            the pain, <br> running through my veins, <br> into my
+            bones</p>
+          </div>
+          <div class="song">
+            <h6>No Reason for Singing</h6>
+
+            <p>I really need to tell you this, <br> what I go around
+            thinking about everyday is, <br> how to win your heart how
+            to steal a kiss, <br> I ain&rsquo;t settling for less</p>
+
+            <p>So do you know you got the power over me, <br> and if
+            we were together I wouldn&rsquo;t mind, <br> but
+            it&rsquo;s so damn hard to feel controlled, <br> when you
+            don&rsquo;t know if you&rsquo;re bought or sold, </p>
+
+            <p>It ain&rsquo;t easy to love me, <br> Lots of girls
+            tried so hard, <br> there&rsquo;s one reason why none of
+            them succeeded, <br> I wanted you from the start</p>
+
+            <p>I&rsquo;m so glad you came around this evening, <br> if
+            you ever find her will you please tell her this, <br> I
+            got nowhere to go, <br> no reason for singing, <br> if I
+            can&rsquo;t get your sweet loving, <br> if I can&rsquo;t
+            get your love, </p>
+
+            <p>It ain&rsquo;t easy to love me, <br> Lots of girls
+            tried so hard, <br> there&rsquo;s one reason why none of
+            them succeeded, <br> I wanted you from the start</p>
+          </div>
+          <div class="song">
+            <h6>Not a Dream</h6>
+
+            <p>You probably think, that I lie, <br> when I tell you
+            that I love you &lsquo;till I die</p>
+
+            <p>I&rsquo;d rather drawn, <br> in the big blue sea, <br>
+            than tell you the truth, <br> something died in me</p>
+
+            <p>It&rsquo;s not dream, <br> it&rsquo;s not A bad
+            dream, <br> I&rsquo;ll never come back again</p>
+
+            <p>Between joy and misery everything turned grey,
+            that&rsquo;s not good enough for you it&rsquo;s not good
+            enough for me</ p>
+
+            <p>Found joy momentarily, <br> but in the end, <br> this
+            is reality, <br> we have to set love free,</p>
+
+            <p>It&rsquo;s not dream, <br> it&rsquo;s not a bad
+            dream, <br> I&rsquo;ll never come back again</p>
+
+            <p>You probably think, <br> that I lie, <br> when I tell
+            you that I love you &lsquo;till I die</p>
+          </div>
+        </div>
+        <div class="four columns">
+          <div class="song">
+            <h6>Shelter of Melancholy</h6>
+
+            <p>I will not believe that you were mine, <br> I see my
+            hopes vanish in time, <br> and fears became reality the
+            moment you kissed me, </p>
+
+            <p>So I went to the big NY, <br> to hide there for a
+            while, <br> but I brought you with me, <br> my shelter
+            became melancholy</p>
+
+            <p>All you bring back is bad memories, <br> &lsquo;bout
+            love-games I&rsquo;ve lost and broken believes, but I love
+            you, <br> I still love you</p>
+
+            <p>So I wrote you a letter, <br> telling you that I felt
+            better, <br> but I lied, I spelled wrong, <br> I really
+            meant I&rsquo;m bitter<br> But this big apple tastes so
+            sweet and yet I was still bitter, <br> so I found some
+            distraction, <br> a beautiful lover, <br> she was wise and
+            once explained that love, <br> she said, <br> is always
+            around, <br> but when I asked her how to find it, <br> she
+            replied with no sound</p>
+
+            <p>All you bring back is bad memories, <br> &lsquo;bout
+            love-games I&rsquo;ve lost and broken believes, but I love
+            you, <br> I still love you</p>
+
+            <p>And even though nothing really works anymore, and even
+            though you said you didn&rsquo;t want me no more, <br> I
+            hope one day you open up my door, <br> to love me some
+            more, <br> some more</p>
+
+            <p>So I must forget, <br> all The love and tears that I
+            Spilt, <br> so will end my letters unset and unread, <br>
+            and I will let you wash your hands clean, <br> then
+            convince myself, <br> that you and I, <br> me and you will
+            never be together again</p>
+
+            <p>All you bring back is bad memories, <br> &lsquo;bout
+            love-games I&rsquo;ve lost and broken believes, but I love
+            you, <br> I still love you,</p>
+                            
+            <p>And even though nothing really works anymore, and even
+            though you said you didn&rsquo;t want me no more, <br> I
+            hope one day you open up my door, <br> to love me some
+            more, <br> some more</p>
+          </div>
+          <div class="song">
+            <h6>The Truth</h6>
+
+            <p>It&rsquo;s true, <br> it&rsquo;s true, <br> everything
+            you said about us was true</p>
+
+            <p>I sneaked out the backdoor, <br> the moment the light
+            hit the bedroom floor, <br> it&rsquo;s true, <br>
+            it&rsquo;s true </p>
+
+            <p>I don&rsquo;t love, <br> don&rsquo;t love you, <br>
+            don&rsquo;t love you<br> the way I should do, <br> the way
+            I should do</p>
+
+            <p>But I miss you, <br> still miss you, <br> hours in the
+            night, <br> everything was quite, <br> and everything
+            remained the same, <br> momentarily, <br> me, <br>
+            you, <br> everything,</p>
+
+            <p>But it&rsquo;s true, <br> it&rsquo;s true, <br>
+            it&rsquo;s true that I don&rsquo;t love you, <br> the way
+            I should do, <br> the way I should do.</p>
+          </div>
+          <div class="song">
+            <h6>Come &amp; Stay</h6>
+
+            <p>When I think of love it&rsquo;s always you that I think
+            of, when I think of tears it&rsquo;s always you that I
+            cried for, <br> baby won&rsquo;t you please come back to
+            me and stay, baby there ain&rsquo;t no other way</p>
+
+            <p>Maybe this is how my life begins or maybe this is how
+            it ends without my lovely lady, <br> you are the only one
+            to answer, <br> are you still in love with me?</p>
+          </div>
+          <div class="song">
+            <h6>Picture from a Dream</h6>
+
+            <p>I kissed a bird, <br> then let her go, <br> fly to the
+            sky and now I&rsquo;m blue thinking of you, <br> I know I
+            know, <br> I let you go, <br> I should have told YOU not
+            to leave, <br> and now I&rsquo;m blue</p>
+
+            <p>I know I&rsquo;ve seen your face somewhere before, know
+            you opened up my door, <br> but when I wake it&rsquo;s
+            only just the same thing, <br> a picture from a dream</p>
+
+            <p>I know I see you when I close my eyes, <br> you were
+            sent from the stars, <br> but when I wake it&rsquo;s only
+            just the same thing, <br> a picture from dream</p>
+
+            <p>And when I sleep it&rsquo;s only just the same, <br>
+            want you back again, <br> but death is something we can
+            never escape, <br> not even on our masquerade </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="row">
+      <div class="twelve columns">
+        <p class="text-right">Website/Design:  Christina Olsson, <a href="http://www.efoqus.dk">E Foqus Danmark A/S</a></p>
+      </div>
+    </div>
+  </footer>
+
+<?php include("includes/_footer.php"); ?>
+
+</body>
+</html>
