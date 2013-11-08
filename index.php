@@ -20,9 +20,6 @@
               <li><a href="kalender.php" title="">kalender</a></li>
               <li><a href="kontakt.php" title="">kontakt</a></li>
             </ul>
-            <ul class="right">
-              <li><a class="uk" href="en/index.php" title="english version"><img src="images/gb.png"/></a></li>
-            </ul>
           </section>
         </nav>
       </div>
@@ -89,7 +86,13 @@ enjoy both albums as much as I enjoyed making them.</p>
 
     </div>
     <div class="six columns"><img src="images/covers/heartbeat2-cover450.jpg"
-         alt="Benjamin Aggerb&aelig;k - Heartbeat cover" class="bigcover right"/></div>
+         alt="Benjamin Aggerb&aelig;k - Heartbeat cover" class="bigcover right"/>
+
+      <iframe title="Store Widget" frameborder="0" scrolling="no" width="100%" height="600" src="http://www.cdbaby.com/widgets/store/store.aspx?id=RJVC23HfWTNKWmqBEgT5uA%3d%3d&type=ByCustomer&c1=0x000000&c2=0xE0E0E0&c3=0xCCCCCC&c4=0x666666&c5=0x333333&c6=0xFFFFFF&c7=0xFFFFFF"></iframe>
+
+    </div>
+
+
   </div>
   </section>
 

@@ -34,8 +34,12 @@
 <body>
   <header>
     <div class="row">
-      <div class="twelve columns">
+      <div class="ten columns">
         <img id="logo" src="/images/aggerbaek-logo.png" alt=""/>
+      </div>
+      <div class="two columns">
+        <a class="flag" href="en/index.php" title="Engelsk version"><img
+           src="images/gb.png"/></a>
       </div>
     </div>
     <div class="row">
