@@ -31,7 +31,7 @@
     <div class="twelve columns">
       <h5>Lyrics</h5>
 
-      <div class="albumhead"><span class="artist">Benjamin Aggerb&aelig;k</span> // <span class="title">Heartbeat</span> (2011)</div>
+      <div class="albumhead"><span class="artist">Benjamin Aggerb&aelig;k</span> // <span class="title">Heartbeat</span> (2011) // <span class="title">Heartbeat</span> (2013)</div>
 
       <div class="row album">
         <div class="four columns">
