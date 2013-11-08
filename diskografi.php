@@ -61,7 +61,7 @@
              Anders Fillipsen (grand piano (3), Hammond organ (1), Wurlitzer (5)) //
              Lars Emil Riis (upright piano (3, 9, 10), rhodes (3, 6)) //
              Sofie Christiansen (vocals (6, 7)) //
-             Tim Soensen (electric guitar (5))</p>
+             Tim Sorensen (electric guitar (5))</p>
         </div>
       </div>
 
