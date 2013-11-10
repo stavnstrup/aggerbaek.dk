@@ -55,12 +55,12 @@
 <h5>Aggerbæk Orkester</h5>
 
 <p>Hvornår har man sidst hørt en jazzcrooner live med stort orkester i
-ryggen? Benjamin Aggerbæk er svaret på en moderne jazzcrooner som
+ryggen? Benjamin Aggerbæk er svaret på en moderne jazzcrooner, som
 leverer charmerende swing og klassisk inderlighed.</p>
 
-<p>Siden ”Heartbeat”udgivelsen midt April har flere sange fra plade
-været blandt de mest spillet på P8 og her er nogle uddrag fra
-anmeldelser af Aggerbæk Orkesters seneste 2 plader:</p>
+<p>Siden ”Heartbeat” udgivelsen midt april har flere sange fra pladen
+været blandt de mest spillede på P8jazz. Her er nogle uddrag fra
+anmeldelser af Aggerbæk Orkesters seneste plader:</p>
 
 
 
