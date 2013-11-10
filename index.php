@@ -55,9 +55,8 @@ ryggen? Benjamin Aggerbæk er svaret på en moderne jazzcrooner, som
 leverer charmerende swing og klassisk inderlighed.</p>
 
 <p>Siden ”Heartbeat” udgivelsen midt april har flere sange fra pladen
-været blandt de mest spillede på P8jazz. Her er nogle uddrag fra
+været blandt de mest spillede på P8 Jazz. Her er nogle uddrag fra
 anmeldelser af Aggerbæk Orkesters seneste plader:</p>
-
 
 
 

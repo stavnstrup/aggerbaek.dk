@@ -4,7 +4,10 @@
 
 $rowWidth: 1030px;
 
-// Color Settings
+
+
+
+
 
 
 // Font Settings
@@ -15,6 +18,19 @@ $topBarLinkSize: 15px;
 $headerFontFamily: Verdana, sans-serif;
 $bodyFontFamily: Verdana, sans-serif;
 $bodyFontColor: white; // Was $txtColor;
+
+
+
+// Color Settings
+
+$blockquote-font-color: lighten(#222, 35%);
+// $blockquote-padding: em-calc(9, 20, 0, 19);
+// $blockquote-border: 1px solid #ddd;
+// $blockquote-cite-font-size: em-calc(13);
+// $blockquote-cite-font-color: lighten($header-font-color, 20%);
+// $blockquote-cite-link-color: $blockquote-cite-font-color;
+
+
 
 // Top Bar Settings
 
