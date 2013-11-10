@@ -43,7 +43,7 @@
   <div class="row">
     <div class="twelve columns">
 
-
+<!--
       <div class="row discography">
         <div class="six columns">
           <h5>Audio</h5>
@@ -52,21 +52,11 @@
           </ul>
         </div>
         <div class="six columns">
-<!--
-          <h6>Video</h6>
-          <ul>
-            <li><a href="http://www.youtube.com/watch?v=tGzBkMADMjA">Aggerb&aelig;k in "Lounge" @ TV2/Lorry - 11/27/09</a></li>
-            <li><a href="http://www.youtube.com/watch?v=-IMhQ9efdcE&feature=related">Aggerb&aelig;k in "Brunch" 
-                @ TV2/Lorry - 11/30/07</a></li>
-            <li><a href="http://vimeo.com/18862578">Aggerb&aelig;k video I in Austin - 01/14/11</a></li>
-            <li><a href="http://thesessions.com/benjamin-aggerbaek/blog-i-will-forget/">Aggerb&aelig;k video II in Austin - 01/14/11</a></li>
-          </ul>
--->
         </div>
       </div>
+-->
 
       <h5>Video</h5>
-
 
       <h6>Release Concert - April 16, 2013 @ Planeten, Huset</h6>
 
