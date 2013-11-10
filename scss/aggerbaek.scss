@@ -54,7 +54,24 @@ body {
 #banner {
   min-width: 1000px;
   float: right;
+  display: block;
 }
+
+
+div.social {
+  margin-top: -16px;
+  margin-right: 10px;
+  ul {
+    margin-right: 10px;
+    li {
+      display: inline;
+      padding-left: 20px;
+      font-size: 28px;
+    }
+  }
+}
+
+
 
 
 /* Menu */
