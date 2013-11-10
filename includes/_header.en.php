@@ -32,20 +32,5 @@
   </script>
 </head>
 <body>
-  <header>
-    <div class="row">
-      <div class="ten columns">
-        <img id="logo" src="/images/aggerbaek-logo.png" alt=""/>
-      </div>
-      <div class="two columns">
-        <a class="flag" href="../index.php" title="Danish version"><img
-           src="../images/dk.png"/></a>
-      </div>
-    </div>
-    <div class="row">
-      <div class="twelve columns">
-        <img id="banner" src="/images/aggerbaek.jpg" alt="Aggerb&aelig;k" width="1000" height="251" border="0" href="index.html" />
-      </div>
-    </div>
-  </header>
+
 

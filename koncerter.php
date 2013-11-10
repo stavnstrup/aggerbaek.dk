@@ -47,6 +47,15 @@
       <h5>Kalender 2013</h5>
 
       <div class="month">
+        <h6>November</h6>
+        <ul>
+          <li><span class="day">28</span><span class="time">22:30</span><a href="http://www.drop-inn.dk/">Aggerbæk Orchestra @ Drop-In, København</a></li>
+          <li><span class="day">22</span><span class="time">21:00</span><a href="https://www.facebook.com/events/1381189632101784/?source=1">Reason#1 (Love) Benjamin Aggerbæk @ Operaen, Christiania</a></li>
+        </ul>
+      </div>
+
+
+      <div class="month">
         <h6>Oktober</h6>
         <ul>
           <li><span class="day">10</span><span class="time">19:00</span>Aggerbæk Orchestra @ Buddhas Jazzklub, Hillerød</li>
