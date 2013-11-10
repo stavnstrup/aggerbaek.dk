@@ -1,30 +1,47 @@
 <? $page_title = "Presse" ?>
 <?php include("includes/_header.php"); ?>
 
-  <div class="row">
-    <div class="twelve columns">
-      <div class="contain-to-grid">
-        <nav class="top-bar" id="menubar">
-          <ul>
-            <li class="toggle-topbar"><a href="#"></a></li>
-          </ul>
-          <section>
-            <ul class="left">
-              <li><a href="index.php" title="News">nyheder</a></li>
-              <li class="active"><a href="presse.php" title="Press">presse</a></li>
-              <li><a href="biografi.php" title="">biografi</a></li>
-              <li><a href="diskografi.php" title="">diskografi</a></li>
-              <li><a href="galleri.php" title="">galleri</a></li>
-              <li><a href="tekster.php" title="">tekster</a></li>
-              <li><a href="audiovideo.php" title="">audio/video</a></li>
-              <li><a href="kalender.php" title="">kalender</a></li>
-              <li><a href="kontakt.php" title="">kontakt</a></li>
-            </ul>
-          </section>
-        </nav>
+  <header>
+    <div class="row">
+      <div class="twelve columns">
+        <img id="logo" src="/images/aggerbaek-logo.png" alt=""/>
       </div>
     </div>
-  </div>
+
+    <div class="row">
+      <div class="twelve columns">
+        <div class="contain-to-grid">
+          <nav class="top-bar" id="menubar">
+            <ul>
+              <li class="name"><h1 class="newlogo"><a href="/index.php"><span class="newlogo">AGGERBÆK</span></a></h1></li>
+              <li class="toggle-topbar"><a href="#"></a></li>
+            </ul>
+            <section>
+              <ul class="left">
+                <li><a href="diskografi.php" title="">diskografi</a></li>
+                <li><a href="biografi.php" title="">biografi</a></li>
+                <li class="active"><a href="koncerter.php" title="">koncerter</a></li>
+                <li><a href="medie.php" title="">medie</a></li>
+                <li class="active"><a href="presse.php" title="">presse</a></li>
+                <li><a href="kontakt.php" title="">kontakt</a></li>
+              </ul>
+              <ul class="right">
+                <li><a href="en/index.php" title="Engelsk version"><img
+                class="flag" src="images/gb.png"/></a></li>
+              </ul>
+            </section>
+          </nav>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="twelve columns">
+        <img id="banner" src="/images/aggerbaek.jpg" alt="Aggerb&aelig;k" width="1000" height="251" border="0" href="index.php" />
+      </div>
+    </div>
+  </header>
+
 
   <div class="row">
     <div class="twelve columns">

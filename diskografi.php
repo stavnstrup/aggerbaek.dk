@@ -1,37 +1,53 @@
 <? $page_title = "Diskografi" ?>
 <?php include("includes/_header.php"); ?>
 
-  <div class="row">
-    <div class="twelve columns">
-      <div class="contain-to-grid">
-        <nav class="top-bar" id="menubar">
-          <ul>
-            <li class="toggle-topbar"><a href="#"></a></li>
-          </ul>
-          <section>
-            <ul class="left">
-              <li><a href="index.php" title="News">nyheder</a></li>
-              <li><a href="presse.php" title="Press">presse</a></li>
-              <li><a href="biografi.php" title="">biografi</a></li>
-              <li class="active"><a href="diskografi.php" title="">diskografi</a></li>
-              <li><a href="galleri.php" title="">galleri</a></li>
-              <li><a href="tekster.php" title="">tekster</a></li>
-              <li><a href="audiovideo.php" title="">audio/video</a></li>
-              <li><a href="kalender.php" title="">kalender</a></li>
-              <li><a href="kontakt.php" title="">kontakt</a></li>
-            </ul>
-          </section>
-        </nav>
+  <header>
+    <div class="row">
+      <div class="twelve columns">
+        <img id="logo" src="/images/aggerbaek-logo.png" alt=""/>
       </div>
     </div>
-  </div>
+
+    <div class="row">
+      <div class="twelve columns">
+        <div class="contain-to-grid">
+          <nav class="top-bar" id="menubar">
+            <ul>
+              <li class="name"><h1 class="newlogo"><a href="/index.php"><span class="newlogo">AGGERBÆK</span></a></h1></li>
+              <li class="toggle-topbar"><a href="#"></a></li>
+            </ul>
+            <section>
+              <ul class="left">
+                <li class="active"><a href="diskografi.php" title="">diskografi</a></li>
+                <li><a href="biografi.php" title="">biografi</a></li>
+                <li><a href="koncerter.php" title="">koncerter</a></li>
+                <li><a href="medie.php" title="">medie</a></li>
+                <li><a href="presse.php" title="">presse</a></li>
+                <li><a href="kontakt.php" title="">kontakt</a></li>
+              </ul>
+              <ul class="right">
+                <li><a href="en/index.php" title="Engelsk version"><img
+                class="flag" src="images/gb.png"/></a></li>
+              </ul>
+            </section>
+          </nav>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="twelve columns">
+        <img id="banner" src="/images/aggerbaek.jpg" alt="Aggerb&aelig;k" width="1000" height="251" border="0" href="index.html" />
+      </div>
+    </div>
+  </header>
 
   <div class="row">
     <div class="twelve columns">
       <h5>Diskografi</h5>
 
       <div class="row discography">
-        <div class="three columns"><img src="/images/covers/heartbeat2-cover-small.jpg"/></div>
+        <div class="three columns"><img src="/images/covers/heartbeat2-cover-small.jpg"/><p class="lyrics"><a href="tekster.php#heartbeat">tekster</a></p></div>
         <div class="nine columns">
           <p class="discinfo"><span class="artist">Aggerb&aelig;k Kvintet</span> // <span class="title">Heartbeat</span> (2013)<br>
              C&amp;P Calibrated Music // CALILP002<br>
@@ -64,7 +80,7 @@
 
 
       <div class="row discography">
-        <div class="three columns"><img src="/images/covers/heartbeat-cover-small.jpg"/></div>
+        <div class="three columns"><img src="/images/covers/heartbeat-cover-small.jpg"/><p class="lyrics"><a href="tekster.php#heartbeat">tekster</a></p></div>
         <div class="nine columns">
           <p class="discinfo"><span class="artist">Benjamin Aggerb&aelig;k</span> // <span class="title">Heartbeat</span> (2011)<br>
              Aggerb&aelig;k // aggerbaek 01<br>
@@ -79,7 +95,7 @@
 
 
       <div class="row discography">
-        <div class="three columns"><img src="/images/covers/my-oh-my-cover-small.jpg"/></div>
+        <div class="three columns"><img src="/images/covers/my-oh-my-cover-small.jpg"/><p class="lyrics"><a href="tekster.php#myohmy">tekster</a></p></div>
         <div class="nine columns">
           <p class="discinfo"><span class="artist">Aggerb&aelig;k Kvintet</span> // <span class="title">My Oh My</span> (2009)<br>
              Your   Favourite Jazz // yfjcd 011<br>
@@ -107,7 +123,7 @@
 
 
       <div class="row discography">
-        <div class="three columns"><img src="/images/covers/back-in-town-cover-small.jpg"/></div>
+        <div class="three columns"><img src="/images/covers/back-in-town-cover-small.jpg"/><p class="lyrics"><a href="tekster.php#backintown">tekster</a></p></div>
         <div class="nine columns">
           <p class="discinfo"><span class="artist">Aggerb&aelig;k Kvintet</span> //<span class="title">Back In Town</span> (2007)<br>
              Your Favourite Records // favouritecd 004<br>

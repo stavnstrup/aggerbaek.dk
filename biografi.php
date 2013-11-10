@@ -1,81 +1,80 @@
 <? $page_title = "Biografi" ?>
 <?php include("includes/_header.php"); ?>
 
-  <div class="row">
-    <div class="twelve columns">
-      <div class="contain-to-grid">
-        <nav class="top-bar" id="menubar">
-          <ul>
-            <li class="toggle-topbar"><a href="#"></a></li>
-          </ul>
-          <section>
-            <ul class="left">
-              <li><a href="index.php" title="News">nyheder</a></li>
-              <li><a href="presse.php" title="Press">presse</a></li>
-              <li class="active"><a href="biografi.php" title="">biografi</a></li>
-              <li><a href="diskografi.php" title="">diskografi</a></li>
-              <li><a href="galleri.php" title="">galleri</a></li>
-              <li><a href="tekster.php" title="">tekster</a></li>
-              <li><a href="audiovideo.php" title="">audio/video</a></li>
-              <li><a href="kalender.php" title="">kalender</a></li>
-              <li><a href="kontakt.php" title="">kontakt</a></li>
-            </ul>
-          </section>
-        </nav>
+  <header>
+    <div class="row">
+      <div class="twelve columns">
+        <img id="logo" src="/images/aggerbaek-logo.png" alt=""/>
       </div>
     </div>
-  </div>
+
+    <div class="row">
+      <div class="twelve columns">
+        <div class="contain-to-grid">
+          <nav class="top-bar" id="menubar">
+            <ul>
+              <li class="name"><h1 class="newlogo"><a href="/index.php"><span class="newlogo">AGGERBÆK</span></a></h1></li>
+              <li class="toggle-topbar"><a href="#"></a></li>
+            </ul>
+            <section>
+              <ul class="left">
+                <li><a href="diskografi.php" title="">diskografi</a></li>
+                <li class="active"><a href="biografi.php" title="">biografi</a></li>
+                <li><a href="koncerter.php" title="">koncerter</a></li>
+                <li><a href="medie.php" title="">medie</a></li>
+                <li><a href="presse.php" title="">presse</a></li>
+                <li><a href="kontakt.php" title="">kontakt</a></li>
+              </ul>
+              <ul class="right">
+                <li><a href="en/index.php" title="Engelsk version"><img
+                class="flag" src="images/gb.png"/></a></li>
+              </ul>
+            </section>
+          </nav>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="twelve columns">
+        <img id="banner" src="/images/aggerbaek.jpg" alt="Aggerb&aelig;k" width="1000" height="251" border="0" href="index.php" />
+      </div>
+    </div>
+  </header>
 
   <div class="row">
     <div class="twelve columns">
       <h5>Biografi</h5>
 
-      <h5 class="subtitle">International  spillemand klar med nyt album</h5>
-
       <div class="row">
         <div class="six columns">
-          <p><em>De seneste &aring;r har Benjamin Aggerb&aelig;ks
-          musik bragt ham rundt i store dele af verden &ndash; og lagt
-          grunden for hans 3 ugentlige sangskriver-scener. Nu er
-          Aggerb&aelig;k klar med sin 2. plade &ndash; en plade der i
-          h&oslash;j grad indkapsler spillemandens liv p&aring;
-          farten.</em></p>
-         
-          <p>Siden 2006 har Benjamin Aggerb&aelig;k v&aelig;ret i New
-          York ikke mindre end 7 gange for at give koncerter. I 2008
-          blev det til en l&aelig;ngere tour der ogs&aring; bragte ham
-          til Austin, Odessa og Chicago &ndash; og senest, i 2009, 11
-          koncerter i New York med fuldt band, Benjamin's
-          &rdquo;Aggerb&aelig;k Kvintet&rdquo;.</p>
 
-          <p>L&aelig;gger man hertil de 3 ugentlige sangskriver-scener
-          Benjamin arrangerer i K&oslash;benhavn samt en god portion
-          andre koncerter i ind- og udland, tegner der sig et billede
-          af en mand p&aring; farten.</p>
-         
-          <p>Alligevel er der i sommeren 2009 blevet tid til at
-          indspille en ny plade: &rdquo;My Oh My&rdquo; indeholder
-          sange fra landevejen (bl.a. Sct. Peters Blues fra Rusland,
-          Orange Moon fra Austin), sange til og&nbsp; om kvinder,
-          sange om den sv&aelig;re k&aelig;rlighed.  Benjamins
-          inspirationskilder er s&aring; forskellige som Louis
-          Armstrong, Tom Waits, Led Zeppelin og Bach, H&auml;ndel
-          m.fl.</p>
-         
-          <p>&rdquo;<em>Jeg pr&oslash;ver at understrege mine
-          inspirationskilder tydeligt p&aring; denne plade. Ikke for
-          at plagiere eller s&aelig;tte mig op p&aring; siden af dem
-          &ndash; men for at give et bud p&aring; hvordan
-          inspirationen kan udvikle sig gennem mig og min
-          musikalitet. Min filosofi er at &rdquo;stj&aelig;le fra de
-          bedste og g&oslash;re det til mit
-          eget&rdquo;!</em>&rdquo;</p>
-         
-          <p>I 2008 modtog Benjamin den nordsj&aelig;llandske
-          jazzfestival &rdquo;New Note Festival&rdquo;s &aelig;respris
-          for arbejdet for originalmusikken p&aring; de ugentlige <br>
-          open-mic sangskriver-scener i K&oslash;benhavn og omegn samt
-          debutpladen <br> &rdquo;Back In Town&rdquo;.</p>
+          <p>Benjamin Aggerbæk er en københavnerbaseret komponist,
+          sanger og ildsjæl.</p>
+
+          <p>Hans nu fire albums dækker alt fra det folk’et til det
+          jazz’et – fra en helt nøgen soloudgivelse med kun Aggerbæks
+          skrøbelige vokal og akustisk guitar til stort anlagte
+          orkesterpladder med masser af blæs og stryg. Benjamin
+          Aggerbæk mestrer begge formater og optræder både alene med
+          sin guitar i bedste singersongwriter stil og som moderne
+          jazzcrooner i front for hans 15 mands store Aggerbæk
+          Orchestra, der leverer charmerende swing og klassisk
+          inderlighed.</p>
+
+           <p>Aggerbæk er således en mand med mange projekter ; man
+           kan høre hans musik på radioen, hvor flere sange fra hans
+           seneste album var blandt de mest spillede på P8, møde ham
+           ugentligt på en af hans sangskriverscener eller til et af
+           DMF-Københavns mange initiativer, hvor Benjamin sidder i
+           bestyrelsen. Benjamin er modtager af såvel DMF-købenahvns
+           ildsjælspris 2012 og den nordsjællandske jazzfestival ”New
+           Note Festival”s ærespris for arbejdet for originalmusikken
+           på de ugentlige open-mic sangskriver-scener i København og
+           omegn samt debutpladen ”Back In Town” i 2008.</p>
+
+
+
         </div>
         <div class="six
           columns"><img src="images/n570772078_1096639_6439.jpg"
