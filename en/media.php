@@ -35,11 +35,7 @@
       </div>
     </div>
 
-    <div class="row">
-      <div class="twelve columns">
-        <img id="banner" src="/images/aggerbaek.jpg" alt="Aggerb&aelig;k" width="1000" height="251" border="0" href="index.html" />
-      </div>
-    </div>
+    <?php include("../includes/_banner.php"); ?>
   </header>
 
 
@@ -166,8 +162,47 @@
     </div>
   </div>
 
+  <div class="row">
+    <div class="twelve columns">
+      <h5>Gallery</h5>
 
-<?php include("../includes/_footer.php"); ?>
+      <div class="row">
+        <div class="six columns offset-by-three end">
+
+          <div id="featured">
+            <img src="../images/gallery/n5546874241_535543_5214.jpg" />
+            <img src="../images/gallery/n570772078_1096633_4976.jpg" />
+            <img src="../images/gallery/n570772078_1096634_5191.jpg" />
+            <img src="../images/gallery/n570772078_1096635_5442.jpg" />
+            <img src="../images/gallery/n570772078_1096636_5679.jpg" />
+            <img src="../images/gallery/n570772078_1096637_5927.jpg" />
+            <img src="../images/gallery/n570772078_1096638_6201.jpg" />
+            <img src="../images/gallery/n570772078_1096639_6439.jpg" />
+            <img src="../images/gallery/n570772078_1096640_6700.jpg" />
+            <img src="../images/gallery/n570772078_1096641_6918.jpg" />
+            <img src="../images/gallery/n570772078_1096647_8560.jpg" />
+            <img src="../images/gallery/n570772078_1096648_8841.jpg" />
+            <img src="../images/gallery/n570772078_1096652_9911.jpg" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+                
+
+  <?php include("../includes/_footer.php"); ?>
+
+  <script src="/javascripts/foundation/jquery.foundation.orbit.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $("#featured").orbit({
+            directionalNav: true,
+            bullets: true
+         });
+     });
+  </script>
+
 
 </body>
 </html>

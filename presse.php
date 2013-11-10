@@ -20,7 +20,7 @@
               <ul class="left">
                 <li><a href="diskografi.php" title="">diskografi</a></li>
                 <li><a href="biografi.php" title="">biografi</a></li>
-                <li class="active"><a href="koncerter.php" title="">koncerter</a></li>
+                <li><a href="koncerter.php" title="">koncerter</a></li>
                 <li><a href="medie.php" title="">medie</a></li>
                 <li class="active"><a href="presse.php" title="">presse</a></li>
                 <li><a href="kontakt.php" title="">kontakt</a></li>
@@ -35,11 +35,7 @@
       </div>
     </div>
 
-    <div class="row">
-      <div class="twelve columns">
-        <img id="banner" src="/images/aggerbaek.jpg" alt="Aggerb&aelig;k" width="1000" height="251" border="0" href="index.php" />
-      </div>
-    </div>
+    <?php include("includes/_banner.php"); ?>
   </header>
 
 
