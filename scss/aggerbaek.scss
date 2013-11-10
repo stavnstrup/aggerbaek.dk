@@ -59,14 +59,17 @@ body {
 
 
 div.social {
-  margin-top: -16px;
-  margin-right: 10px;
+  margin-top: -60px;
   ul {
-    margin-right: 10px;
+    margin-right: 80px;
     li {
       display: inline;
       padding-left: 20px;
       font-size: 28px;
+      .itunes {
+        font-size: 70%;
+        padding-left: 10px;
+      }
     }
   }
 }
