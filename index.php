@@ -39,16 +39,15 @@
   </header>
 
 
-  <section class="main">
+  <div class="row">
+    <div class="twelve columns">
+
+   <h5>Aggerbæk Orkester</h5>
+
+
   <div class="row">
     <div class="six columns">
     
-<!--
-      <p>Her er solopladens første omtale:<br />
-      <a href="http://jazznyt.blogspot.com/2012/01/benjamin-aggerbk-heartbeat-gateway.html">http://jazznyt.blogspot.com/2012/01/benjamin-aggerbk-heartbeat-gateway.html</a></p>
--->
-
-<h5>Aggerbæk Orkester</h5>
 
 <p>Hvornår har man sidst hørt en jazzcrooner live med stort orkester i
 ryggen? Benjamin Aggerbæk er svaret på en moderne jazzcrooner, som
@@ -57,7 +56,6 @@ leverer charmerende swing og klassisk inderlighed.</p>
 <p>Siden ”Heartbeat” udgivelsen midt april har flere sange fra pladen
 været blandt de mest spillede på P8 Jazz. Her er nogle uddrag fra
 anmeldelser af Aggerbæk Orkesters seneste plader:</p>
-
 
 
 <blockquote>
@@ -91,19 +89,17 @@ anmeldelser af Aggerbæk Orkesters seneste plader:</p>
   <cite>Politiken - Henrik Palle - 3. december 2009</cite>
 </blockquote>
 
-
-
     </div>
-    <div class="six columns"><img src="images/covers/heartbeat2-cover450.jpg"
+    <div class="six columns">
+       <img src="images/covers/heartbeat2-cover450.jpg"
          alt="Benjamin Aggerb&aelig;k - Heartbeat cover" class="bigcover right"/>
 
       <iframe title="Store Widget" frameborder="0" scrolling="no" width="100%" height="600" src="http://www.cdbaby.com/widgets/store/store.aspx?id=RJVC23HfWTNKWmqBEgT5uA%3d%3d&type=ByCustomer&c1=0x000000&c2=0xE0E0E0&c3=0xCCCCCC&c4=0x666666&c5=0x333333&c6=0xFFFFFF&c7=0xFFFFFF"></iframe>
 
     </div>
-
-
   </div>
-  </section>
+</div>
+</div>
 
 
 <?php include("includes/_footer.php"); ?>

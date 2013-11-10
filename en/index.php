@@ -39,15 +39,14 @@
   </header>
 
   
-
   <div class="row">
     <div class="twelve columns">
-    <h5></h5>
+      <h5>Aggerbæk Orkester</h5>
+
 
       <div class="row">
         <div class="six columns">
 
-          <h5>Aggerbæk Orkester</h5>
 
           <p>When did you last hear a jazz crooner live accompanied by
           a big band? Benjamin Aggerbæk is the answer to a modern jazz
