@@ -49,7 +49,7 @@
 
 
       <div class="row discography">
-        <div class="three columns"><img src="../images/covers/heartbeat2-cover-small.jpg"/></div>
+        <div class="three columns"><img src="../images/covers/heartbeat2-cover-small.jpg"/><p class="lyrics"><a href="lyrics.php#heartbeat">lyrics</a></p></div>
         <div class="nine columns">
           <p class="discinfo"><span class="artist">Aggerb&aelig;k Kvintet</span> // <span class="title">Heartbeat</span> (2013)<br>
              C&amp;P Calibrated Music // CALILP002<br>
@@ -83,7 +83,7 @@
 
 
       <div class="row discography">
-        <div class="three columns"><img src="../images/covers/heartbeat-cover-small.jpg"/></div>
+        <div class="three columns"><img src="../images/covers/heartbeat-cover-small.jpg"/><p class="lyrics"><a href="lyrics.php#heartbeat">lyrics</a></p></div>
         <div class="nine columns">
           <p class="discinfo"><span class="artist">Benjamin Aggerb&aelig;k</span> // <span class="title">Heartbeat</span> (2011)<br>
              Aggerb&aelig;k // aggerbaek 01<br>
@@ -98,7 +98,7 @@
 
 
       <div class="row discography">
-        <div class="three columns"><img src="../images/covers/my-oh-my-cover-small.jpg"/></div>
+        <div class="three columns"><img src="../images/covers/my-oh-my-cover-small.jpg"/><p class="lyrics"><a href="lyrics.php#myohmy">lyrics</a></p></div>
         <div class="nine columns">
           <p class="discinfo"><span class="artist">Aggerb&aelig;k Kvintet</span> // <span class="title">My Oh My</span> (2009)<br>
              Your   Favourite Jazz // yfjcd 011<br>
@@ -126,7 +126,7 @@
 
 
       <div class="row discography">
-        <div class="three columns"><img src="../images/covers/back-in-town-cover-small.jpg"/></div>
+        <div class="three columns"><img src="../images/covers/back-in-town-cover-small.jpg"/><p class="lyrics"><a href="lyrics.php#backintown">lyrics</a></p></div>
         <div class="nine columns">
           <p class="discinfo"><span class="artist">Aggerb&aelig;k Kvintet</span> //<span class="title">Back In Town</span> (2007)<br>
              Your Favourite Records // favouritecd 004<br>
