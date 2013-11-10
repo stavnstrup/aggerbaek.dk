@@ -4,7 +4,7 @@
         <div class="social">
           <ul>
             <li><a href="https://www.facebook.com/pages/Aggerb%C3%A6k/16548534356"><i class="fa fa-facebook-square"></i></a></li>
-            <li><i class="fa fa-youtube-square"></i></li>
+            <li><a href="http://www.youtube.com/user/BenjaminAggerbaek"><i class="fa fa-youtube-square"></i></a></li>
             <li><i class="fa fa-apple"></i><span class="itunes">iTunes</span></li>
           </ul>
         </div>
