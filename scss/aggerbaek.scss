@@ -3,11 +3,22 @@
 
 /* General */
 
+a>img {
+  padding-right: 0;
+}
+
 .flag {
    padding-top: 10px;
    padding-left: 30px;
 //   display: none;
 }
+
+
+/* No right padding on flag li */
+.top-bar ul.right > li:last-child a:not(.button) {
+    padding-right: 0;
+}
+
 
 
 a {
@@ -60,8 +71,7 @@ body {
 
 
 div.social {
-//  display: none;
-  background-color: hsla(5, 25%, 17%, 0.63);
+  background-color: hsla(5, 25%, 17%, 0.7);
   margin-top: -58px;
   float: right;
   ul {
@@ -74,7 +84,6 @@ div.social {
       .itunes {
         font-size: 70%;
         padding-left: 10px;
-        vertical-align: middle;
       }
     }
   }

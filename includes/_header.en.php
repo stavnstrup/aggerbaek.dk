@@ -15,6 +15,7 @@
   <meta name="author" content="Christina Olsson, Webdesigner, E Foqus Danmark A/S">
 
   <!-- Included CSS Files -->
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="/css/aggerbaek.css">
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
