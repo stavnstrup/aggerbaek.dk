@@ -69,8 +69,26 @@ body {
   display: block;
 }
 
-
 div.social {
+  background-color: hsla(5, 25%, 17%, 0.7);
+  margin-top: -70px;
+  float: right;
+  dl {
+    margin-right: 70px;
+    margin-bottom: 0;
+    dd {
+      padding-left: 20px;
+      font-size: 24px;
+      .itunes {
+        font-size: 70%;
+        padding-left: 10px;
+      }
+    }
+  }
+}
+
+
+div.socialX {
   background-color: hsla(5, 25%, 17%, 0.7);
   margin-top: -58px;
   float: right;
