@@ -206,13 +206,14 @@ body>header {
         display: inline-block;
     }
 
-    span.day {
-        width: 4%;
+    .day {
+        width: 2em;
     }
 
-    span.time {
-        width: 6%;
+    .time {
+        width: 4em;
     }
+
 }
 
 
