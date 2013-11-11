@@ -60,17 +60,21 @@ body {
 
 
 div.social {
-  display: none;
-  margin-top: -60px;
+//  display: none;
+  background-color: hsla(5, 25%, 17%, 0.63);
+  margin-top: -58px;
+  float: right;
   ul {
-    margin-right: 80px;
+    margin-right: 70px;
+    margin-bottom: 0;
     li {
       display: inline;
       padding-left: 20px;
-      font-size: 28px;
+      font-size: 24px;
       .itunes {
         font-size: 70%;
         padding-left: 10px;
+        vertical-align: middle;
       }
     }
   }
