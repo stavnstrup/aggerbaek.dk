@@ -187,7 +187,7 @@
      $(window).load(function() {
          $("#featured").orbit({
             directionalNav: true,
-            bullets: true
+            bullets: false
          });
      });
   </script>
