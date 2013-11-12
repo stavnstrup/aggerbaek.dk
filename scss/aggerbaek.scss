@@ -20,7 +20,6 @@ a>img {
 }
 
 
-
 a {
     color: white;
 }
@@ -47,8 +46,15 @@ body {
     background-color: #000500;
 }
 
+
+blockquote p, blockquote cite {
+   color: hsl(0, 0%, 74%);
+}
+
+
 /* Logo */
 
+/*
 #logo {
     background-color: #000500;
     padding-top: 40px;
@@ -56,7 +62,7 @@ body {
     font-weight: bold;
     display: none;
 }
-
+*/
 
 .newlogo {
   letter-spacing: 2px;
@@ -88,7 +94,6 @@ div.social {
 
 
 
-
 /* Menu */
 
 body>header {
@@ -107,23 +112,21 @@ body>header {
 }
 
 
-/* No left padding on first li */
+// No left padding on first li 
 .top-bar ul > li:first-child a:not(.button) {
     padding: 0 $topBarHeight / 2 0 0;
 }
 
 
-/* Larger padding */
+// Larger padding
 .top-bar ul > li a:not(.button) {
     padding: 0 $topBarHeight / 2;
 }
 
 
-.main {
-    margin: 50px 0;
-}
-
-
+// .main {
+//     margin: 50px 0;
+// }
 
 
 /* Lyrics */
@@ -210,10 +213,8 @@ body>header {
 }
 
 
-/* Additional links
+// Additional links
+//  http://www.kasperbai.dk/
+//  Rasmus Glendorf
 
-  http://www.kasperbai.dk/
-  Rasmus Glendorf
-
-*/
 
