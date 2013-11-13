@@ -48,10 +48,10 @@
                         at kunne sende e-mail).
                      </noscript></p>
       <p><strong>New York Booking:</strong>  Francess-Ann: +1 (201) 963 1487</p>
-      <p><strong>Label</strong>: Gateway Music, <a href="http://gateway.dmf.dk">gateway.dmf.dk</a>. Calibrated Music, <a href="http://https://www.facebook.com/CalibratedMusic">https://www.facebook.com/CalibratedMusic</a> </p>
+      <p><strong>Label</strong>: <a href="http://gateway.dmf.dk">Gateway Music</a> and <a href="http://https://www.facebook.com/CalibratedMusic">Calibrated Music</a></p>
       <p><strong>Website:</strong> <a href="http://www.aggerbaek.dk">www.aggerbaek.dk</a> </p>
-<!--       <p><strong>Listen to Music:</strong>  </p> -->
-      <p><strong>Download  music:</strong> <a href="http://aggerbaek.bandcamp.com">http://aggerbaek.bandcamp.com</a> - <a href="http://www.cdbaby.com/Search/YWdnZXJiw6Zr/0">cdbaby.com</a> - <a href="https://itunes.apple.com/us/artist/aggerbaek/id371584649">itunes/aggerbaek</a> </p>
+<!--      <p><strong>Listen to Music:</strong>  </p> -->
+      <p><strong>Download  music:</strong> <a href="http://aggerbaek.bandcamp.com">aggerbaek.bandcamp.com</a> - <a href="http://www.cdbaby.com/Search/YWdnZXJiw6Zr/0">cdbaby.com</a> - <a href="https://itunes.apple.com/us/artist/aggerbaek/id371584649">itunes/aggerbaek</a> </p>
     </div>
   </div>
 
