@@ -3,7 +3,7 @@
     <div class="twelve columns">
       <h5>Tekster</h5>
 
-      <div class="albumhead"><a name="heartbeat"/><span class="artist">Benjamin Aggerb&aelig;k</span> // <span class="title">Heartbeat</span> (2011) // <span class="title">Heartbeat</span> (2013)</div>
+      <div class="albumhead"><a name="heartbeat"></a><span class="artist">Benjamin Aggerb&aelig;k</span> // <span class="title">Heartbeat</span> (2011) // <span class="title">Heartbeat</span> (2013)</div>
 
       <div class="row album">
         <div class="four columns">
@@ -356,7 +356,7 @@
         </div>
       </div>
 
-      <div class="albumhead"><a name="myohmy"/><span class="artist">Aggerb&aelig;k Kvintet</span> // <span class="title">My Oh My</span> (2009)</div>
+      <div class="albumhead"><a name="myohmy"></a><span class="artist">Aggerb&aelig;k Kvintet</span> // <span class="title">My Oh My</span> (2009)</div>
      
       <div class="row album">
         <div class="four columns">
@@ -548,7 +548,7 @@
       </div>
 
 
-      <div class="albumhead"><a name="backintown"/><span class="artist">Aggerb&aelig;k Kvintet</span> // <span class="title">Back In Town</span> (2007)</div>
+      <div class="albumhead"><a name="backintown"></a><span class="artist">Aggerb&aelig;k Kvintet</span> // <span class="title">Back In Town</span> (2007)</div>
      
       <div class="row album">
         <div class="four columns">
