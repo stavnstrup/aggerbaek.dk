@@ -123,7 +123,7 @@
       <div class="row discography">
         <div class="three columns"><img src="../images/covers/back-in-town-cover-small.jpg"/><p class="lyrics"><a href="lyrics.php#backintown">lyrics</a></p></div>
         <div class="nine columns">
-          <p class="discinfo"><span class="artist">Aggerb&aelig;k Kvintet</span> //<span class="title">Back In Town</span> (2007)<br>
+          <p class="discinfo"><span class="artist">Aggerb&aelig;k Kvintet</span> // <span class="title">Back In Town</span> (2007)<br>
              Your Favourite Records // favouritecd 004<br>
              <a href="http://www.yfr.dk/jazz">www.yfr.dk/jazz</a> // <a href="mailto:jazz@yfr.dk">jazz@yfr.dk</a></p>
           <p class="trackinfo"><span class="head">Tracklist:</span><br>
