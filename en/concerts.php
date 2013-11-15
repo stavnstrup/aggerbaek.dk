@@ -1,4 +1,4 @@
-<? $page_title = "Calendar" ?>
+<? $page_title = "Concerts" ?>
 <?php include("../includes/_header.en.php"); ?>
 
   <header>
@@ -40,7 +40,7 @@
 
   <div class="row">
     <div class="twelve columns">
-      <h5>Calendar 2013</h5>
+      <h5>Concerts 2013</h5>
 
       <div class="month">
         <h6>November</h6>
