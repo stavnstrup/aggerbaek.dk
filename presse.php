@@ -1,4 +1,4 @@
-<? $page_title = "Presse" ?>
+<?php $page_title = "Presse" ?>
 <?php include("includes/_header.php"); ?>
 
   <header>

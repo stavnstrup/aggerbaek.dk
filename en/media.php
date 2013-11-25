@@ -1,4 +1,4 @@
-<? $page_title = "Audio and Video" ?>
+<?php $page_title = "Audio and Video" ?>
 <?php include("../includes/_header.en.php"); ?>
 
   <header>

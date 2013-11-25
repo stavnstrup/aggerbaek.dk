@@ -1,4 +1,4 @@
-<? $page_title = "Nyheder" ?>
+<?php $page_title = "Nyheder" ?>
 <?php include("includes/_header.php"); ?>
 
   <header>

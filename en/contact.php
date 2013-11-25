@@ -1,4 +1,4 @@
-<? $page_title = "Contact" ?>
+<?php $page_title = "Contact" ?>
 <?php include("../includes/_header.en.php"); ?>
 
   <header>

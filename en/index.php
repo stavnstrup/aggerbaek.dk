@@ -1,4 +1,4 @@
-<? $page_title = "aggerbaek.dk" ?>
+<?php $page_title = "aggerbaek.dk" ?>
 <?php include("../includes/_header.en.php"); ?>
 
   <header>

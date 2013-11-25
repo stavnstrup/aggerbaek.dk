@@ -1,4 +1,4 @@
-<? $page_title = "Lyrics" ?>
+<?php $page_title = "Lyrics" ?>
 <?php include("../includes/_header.en.php"); ?>
   
 

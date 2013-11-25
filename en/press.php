@@ -1,4 +1,4 @@
-<? $page_title = "Press" ?>
+<?php $page_title = "Press" ?>
 <?php include("../includes/_header.en.php"); ?>
 
   <header>

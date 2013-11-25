@@ -1,4 +1,4 @@
-<? $page_title = "Tekster" ?>
+<?php $page_title = "Tekster" ?>
 <?php include("includes/_header.php"); ?>
   
 

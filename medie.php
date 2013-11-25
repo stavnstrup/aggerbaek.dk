@@ -1,4 +1,4 @@
-<? $page_title = "Media" ?>
+<?php $page_title = "Media" ?>
 <?php include("includes/_header.php"); ?>
   <header>
     <div class="row">

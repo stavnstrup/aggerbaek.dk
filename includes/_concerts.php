@@ -1,4 +1,3 @@
-      <h5>Koncerter 2013</h5>
 
       <div class="month">
         <h6>November</h6>

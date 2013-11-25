@@ -1,4 +1,4 @@
-<? $page_title = "Biografi" ?>
+<?php $page_title = "Biografi" ?>
 <?php include("includes/_header.php"); ?>
 
   <header>
