@@ -47,17 +47,14 @@
       <div class="row">
         <div class="six columns">
 
-
           <p>When did you last hear a jazz crooner live accompanied by
           a big band? Benjamin Aggerbæk is the answer to a modern jazz
-          crooner with charming swing and classic intensity.</p>
+          crooner performing charming swing and classical fervour.</p>
 
           <p>Since the release of ”Heartbeat” in mid-April, several
-          songs from the album are among the most frequently played on
-          the Danish Broadcasting Corporation’s jazz channel, P8
-          Jazz. Below you find extracts from reviews of the latest
-          albums by Aggerbæk Orchestra.</p>
-
+          songs from the album are among the most aired on Danish
+          Radio’s jazz channel, P8 Jazz. Below you find extracts from
+          reviews of the latest albums by Aggerbæk Orchestra.</p>
 
 <blockquote>
   <p>Fælles for det hele er Aggerbæks vidunderlige stemme... Den
