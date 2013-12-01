@@ -45,32 +45,29 @@
 
       <div class="row">
         <div class="six columns">
-          <p>In recent years, Benjamin Aggerb&aelig;k's music has
-          brought him around many parts of the world and back again to
-          his native Copenhagen.&nbsp; Now he is ready with his second
-          album, which is, in many ways, the portrait of a musician's
-          life on the road.</p>
+          <p>Benjamin Aggerbæk is a composer, singer, and passionate
+          innovator resident in Copenhagen.</p>
 
-          <p>Since 2006 Benjamin Aggerb&aelig;k toured in New York
-          City no less than 7 times, with 11 straight shows in
-          2009.&nbsp; In 2008 Benjamin also toured Austin, Odessa and
-          Chicago.&nbsp; Add to that the three weekly
-          songwriter-open-stages Benjamin organizes in Copenhagen, all
-          the other concerts at home and abroad, and the you begin to
-          get the picture of Benjamin's life as a man on the move.</p>
+          <p>His four albums cover genres from folk music to jazz;
+          from a pure solo with Aggerbæk’s vibrant voice and acoustic
+          guitar to albums based on big bands with huge wind and
+          string sections. Benjamin Aggerbæk is a master of both
+          genres; he performs alone as a genuine singer/songwriter as
+          well as a modern jazz crooner in front of his 15-piece
+          orchestra Aggerbæk Orchestra in an exciting and very
+          personal mixture of charming swing and classical
+          fervour.</p>
 
-          <p>Despite this hectic schedule, there was enough time in
-          the summer of 2009 to record a new album: &quot;My Oh
-          My&quot;.&nbsp; Travel the world with Benjamin as he takes
-          you from the blues in St Petersburg in Russia to moonlit
-          nights in Austin, Texas, with cheerful songs of sweet love
-          to dark ballads of broken hearts.</p>
-
-         <p>In 2008, Benjamin received the North Zealand jazz festival
-         &quot;New Note&quot; Festival's honorary award for original
-         music on his&nbsp; debut album &quot;Back In Town&quot;, and
-         for his work promoting the singer/songwriter scene in
-         Copenhagen.</p>
+          <p>Aggerbæk has many ongoing projects: several songs from
+          his latest album are among the most aired on Danish Radio’s
+          jazz channel, and you can meet him once a week on one of his
+          songwriter-open-stages or at one of DMF’s (Danish Musicians
+          Union) many enterprises. In 2012, Benjamin received the DMF
+          ‘Passion Award’ for innovation and in 2008, the North
+          Zealand jazz festival "New Note" Festival's honorary award
+          for original music on his debut album "Back In Town", and
+          for his work promoting the singer/songwriter scene in
+          Copenhagen.</p>
         </div>
         <div class="six
           columns"><img src="../images/n570772078_1096639_6439.jpg"
