@@ -41,7 +41,7 @@
   
   <div class="row">
     <div class="twelve columns">
-      <h5>Aggerbæk Orkester</h5>
+      <h5>Aggerbæk Orchestra</h5>
 
 
       <div class="row">
