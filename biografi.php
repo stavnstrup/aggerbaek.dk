@@ -59,7 +59,7 @@
           inderlighed.</p>
 
           <p>Aggerbæk er således en mand med mange projekter; man kan
-          høre hans musik på radioen, hvor flere sange fra hans
+          høre hans musik i radioen, hvor flere sange fra hans
           seneste album er blandt de mest spillede på P8 Jazz, møde
           ham ugentligt på en af hans sangskriverscener eller til et
           af DMF-Københavns mange initiativer, hvor Benjamin sidder i
