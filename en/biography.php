@@ -50,9 +50,9 @@
 
           <p>His four albums cover genres from folk music to jazz;
           from a pure solo with Aggerbæk’s vibrant voice and acoustic
-          guitar to albums based on big bands with huge wind and
+          guitar to albums based on big bands with full wind and
           string sections. Benjamin Aggerbæk is a master of both
-          genres; he performs alone as a genuine singer/songwriter as
+          roles: he performs alone as a genuine singer/songwriter as
           well as a modern jazz crooner in front of his 15-piece
           orchestra Aggerbæk Orchestra in an exciting and very
           personal mixture of charming swing and classical
