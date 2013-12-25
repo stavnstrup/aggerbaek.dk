@@ -91,10 +91,11 @@
 
 
         </div>
-        <div class="six columns"><img src="../images/covers/heartbeat2-cover450.jpg"
+        <div class="six columns">      <iframe title="Store Widget" frameborder="0" scrolling="no" width="100%" height="600" src="http://www.cdbaby.com/widgets/store/store.aspx?id=RJVC23HfWTNKWmqBEgT5uA%3d%3d&type=ByCustomer&c1=0x000000&c2=0xE0E0E0&c3=0xCCCCCC&c4=0x666666&c5=0x333333&c6=0xFFFFFF&c7=0xFFFFFF"></iframe>
+
+        <img src="../images/covers/heartbeat2-cover450.jpg"
              alt="Benjamin Aggerb&aelig;k - Heartbeat cover" class="bigcover right"/>
 
-      <iframe title="Store Widget" frameborder="0" scrolling="no" width="100%" height="600" src="http://www.cdbaby.com/widgets/store/store.aspx?id=RJVC23HfWTNKWmqBEgT5uA%3d%3d&type=ByCustomer&c1=0x000000&c2=0xE0E0E0&c3=0xCCCCCC&c4=0x666666&c5=0x333333&c6=0xFFFFFF&c7=0xFFFFFF"></iframe>
 
 
         </div>
