@@ -5,13 +5,6 @@
 
 
       <div class="month">
-        <h6>Marts</h6>
-        <ul>
-          <li><span class="day">27</span><span class="time">21:00</span><a href="http://www.drop-inn.dk/">Aggerbæk Orchestra @ Drop-In, København</a></li>
-        </ul>
-      </div>
-
-      <div class="month">
         <h6>January</h6>
         <ul>
           <li><span class="day">30</span><span class="time">19:30</span><a href="http://www.borups.dk/news.aspx">Aggerbæk Orchestra @ Borups Højskole, København</a></li>
@@ -19,10 +12,30 @@
       </div>
 
 
+      <div class="month">
+        <h6>Marts</h6>
+        <ul>
+          <li><span class="day">27</span><span class="time">21:00</span><a href="http://www.drop-inn.dk/">Aggerbæk Orchestra @ Drop-In, København</a></li>
+        </ul>
+      </div>
+
 
 
     <h5><?php echo "$page_title"; ?> 2013</h5>
 
+      <div class="month">
+        <h6>April</h6>
+        <ul>
+          <li><span class="day">16</span><span class="time">19:00</span>Heartbeat Release Party @ Planeten, Huset i Magstræde</li>
+        </ul>
+      </div>
+
+      <div class="month">
+        <h6>Oktober</h6>
+        <ul>
+          <li><span class="day">10</span><span class="time">19:00</span><a href="http://www.klaverfabrikkenlive.dk/arrangementer/vis/78/aggerbaek-orchestra/">Aggerbæk Orchestra @ Buddhas Jazzklub, Hillerød</a></li>
+        </ul>
+      </div>
 
       <div class="month">
         <h6>November</h6>
@@ -33,19 +46,6 @@
       </div>
 
 
-      <div class="month">
-        <h6>Oktober</h6>
-        <ul>
-          <li><span class="day">10</span><span class="time">19:00</span><a href="http://www.klaverfabrikkenlive.dk/arrangementer/vis/78/aggerbaek-orchestra/">Aggerbæk Orchestra @ Buddhas Jazzklub, Hillerød</a></li>
-        </ul>
-      </div>
-
-      <div class="month">
-        <h6>April</h6>
-        <ul>
-          <li><span class="day">16</span><span class="time">19:00</span>Heartbeat Release Party @ Planeten, Huset i Magstræde</li>
-        </ul>
-      </div>
 <!--
 
       <div class="month">
