@@ -66,7 +66,7 @@
 
 <blockquote>
   <p>[Benjamin Aggerbæk] Danmarks beskedne svar på Jeff Buckley … begge Heartbeats – som findes samlet på en dobbelt-lp – må anbefales.</p>
-  <cite>Gaffa - Ivan Rod - maj 2013</cite> 
+  <cite>Gaffa - Ivan Rod - maj 2013</cite> 
 </blockquote>
 
 
