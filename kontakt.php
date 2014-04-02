@@ -43,7 +43,7 @@
     <div class="twelve columns">
       <h5>Kontakt</h5>
 
-      <p><strong>Booking:</strong> Benjamin Aggerbæk, +45-3141-3990, <script language="javascript" type="text/javascript">eval(document.write(unescape("%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%61%67%67%65%72%62%61%65%6b%6d%75%73%69%63%40%67%6d%61%69%6c%2e%63%6f%6d%22%3e%61%67%67%65%72%62%61%65%6b%6d%75%73%69%63%40%67%6d%61%69%6c%2e%63%6f%6d%3c%2f%61%3e")))</script><noscript>"aggerbaekmusic" efterfulgt af "snabela" og til sidst "gmail punktum com" (Du skal have script aktiveret i din browser for
+      <p><strong>Booking:</strong> Benjamin Aggerbæk, +45-3143-3990, <script language="javascript" type="text/javascript">eval(document.write(unescape("%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%61%67%67%65%72%62%61%65%6b%6d%75%73%69%63%40%67%6d%61%69%6c%2e%63%6f%6d%22%3e%61%67%67%65%72%62%61%65%6b%6d%75%73%69%63%40%67%6d%61%69%6c%2e%63%6f%6d%3c%2f%61%3e")))</script><noscript>"aggerbaekmusic" efterfulgt af "snabela" og til sidst "gmail punktum com" (Du skal have script aktiveret i din browser for
                         at kunne sende e-mail).
                      </noscript> / <script language="javascript" type="text/javascript">eval(document.write(unescape("%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%62%6f%6f%6b%69%6e%67%40%61%67%67%65%72%62%61%65%6b%2e%64%6b%22%3e%62%6f%6f%6b%69%6e%67%40%61%67%67%65%72%62%61%65%6b%2e%64%6b%3c%2f%61%3e")))</script><noscript>"booking" efterfulgt af "snabela" og til sidst "aggerbaek punktum dk" (Du skal have script aktiveret i din browser for
                         at kunne sende e-mail).
