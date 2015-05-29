@@ -91,11 +91,18 @@ anmeldelser af Aggerbæk Orkesters seneste plader:</p>
 
     </div>
     <div class="six columns">
+<iframe name="full" style="width:100%;height:520px;border:0px;" src="http://widget.cdbaby.com/5fe7c0a2-a040-4b5a-9045-1627d2e9e611/full/light/opaque"></iframe>
+<!-- old cdbaby     
       <iframe title="Store Widget" frameborder="0" scrolling="no" width="100%" height="600" src="http://www.cdbaby.com/widgets/store/store.aspx?id=RJVC23HfWTNKWmqBEgT5uA%3d%3d&type=ByCustomer&c1=0x000000&c2=0xE0E0E0&c3=0xCCCCCC&c4=0x666666&c5=0x333333&c6=0xFFFFFF&c7=0xFFFFFF"></iframe>
-
+-->
        <p />
        <img src="images/covers/heartbeat2-cover450.jpg"
          alt="Benjamin Aggerb&aelig;k - Heartbeat cover" class="bigcover right"/>
+
+
+<!--
+
+-->
 
 
     </div>
