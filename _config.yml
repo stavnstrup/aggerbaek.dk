@@ -1,0 +1,7 @@
+name: ""
+google:
+
+
+exclude:
+  - bower_components/
+  - en/

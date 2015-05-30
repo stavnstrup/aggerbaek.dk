@@ -1,0 +1,57 @@
+---
+title: Koncerter
+layout: default
+---
+
+  <header>
+    <div class="row">
+      <div class="twelve columns">
+        <img id="logo" src="/images/aggerbaek-logo.png" alt=""/>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="twelve columns">
+        <div class="contain-to-grid">
+          <nav class="top-bar" id="menubar">
+            <ul>
+              <li class="name"><h1 class="newlogo"><a href="/index.html"><span class="newlogo">AGGERBÆK</span></a></h1></li>
+              <li class="toggle-topbar"><a href="#"></a></li>
+            </ul>
+            <section>
+              <ul class="left">
+                <li><a href="diskografi.html" title="">diskografi</a></li>
+                <li><a href="biografi.html" title="">biografi</a></li>
+                <li class="active"><a href="koncerter.html" title="">koncerter</a></li>
+                <li><a href="medie.html" title="">medie</a></li>
+                <li><a href="presse.html" title="">presse</a></li>
+                <li><a href="kontakt.html" title="">kontakt</a></li>
+              </ul>
+              <ul class="right">
+                <li><a href="en/index.html" title="Engelsk version"><img
+                class="flag" src="images/gb.png"/></a></li>
+              </ul>
+            </section>
+          </nav>
+        </div>
+      </div>
+    </div>
+
+    {% include banner.html %}
+  </header>
+
+  <div class="row">
+    <div class="twelve columns">
+
+    <h5>{{ page.title }} 2014</h5>
+
+    {% include concerts.html %}
+
+    </div>
+  </div>
+
+
+{% include footer.html %}
+
+
+

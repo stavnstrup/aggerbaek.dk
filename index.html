@@ -1,5 +1,8 @@
-<?php $page_title = "Nyheder" ?>
-<?php include("includes/_header.php"); ?>
+---
+title: Nyheder
+layout: default
+---
+
 
   <header>
     <div class="row">
@@ -18,15 +21,15 @@
             </ul>
             <section>
               <ul class="left">
-                <li><a href="diskografi.php" title="">diskografi</a></li>
-                <li><a href="biografi.php" title="">biografi</a></li>
-                <li><a href="koncerter.php" title="">koncerter</a></li>
-                <li><a href="medie.php" title="">medie</a></li>
-                <li><a href="presse.php" title="">presse</a></li>
-                <li><a href="kontakt.php" title="">kontakt</a></li>
+                <li><a href="diskografi.html" title="">diskografi</a></li>
+                <li><a href="biografi.html" title="">biografi</a></li>
+                <li><a href="koncerter.html" title="">koncerter</a></li>
+                <li><a href="medie.html" title="">medie</a></li>
+                <li><a href="presse.html" title="">presse</a></li>
+                <li><a href="kontakt.html" title="">kontakt</a></li>
               </ul>
               <ul class="right">
-                <li><a href="en/index.php" title="Engelsk version"><img
+                <li><a href="en/index.html" title="Engelsk version"><img
                 class="flag" src="images/gb.png"/></a></li>
               </ul>
             </section>
@@ -35,7 +38,7 @@
       </div>
     </div>
 
-    <?php include("includes/_banner.php"); ?>
+    {% include banner.html %}
   </header>
 
 
@@ -111,8 +114,7 @@ anmeldelser af Aggerbæk Orkesters seneste plader:</p>
 </div>
 
 
-<?php include("includes/_footer.php"); ?>
+{% include footer.html %}
 
-</body>
-</html>
+
 
