@@ -1,6 +1,10 @@
-<?php $page_title = "Concerts" ?>
-<?php include("../includes/_header.en.php"); ?>
-
+---
+title: Lyrics
+layout: default
+lang: en
+---
+  
+<!--
   <header>
     <div class="row">
       <div class="twelve columns">
@@ -20,7 +24,7 @@
               <ul class="left">
                 <li><a href="discography.php" title="">discography</a></li>
                 <li><a href="biography.php" title="">biography</a></li>
-                <li class="active"><a href="concerts.php" title="">concerts</a></li>
+                <li><a href="concerts.php" title="">concerts</a></li>
                 <li><a href="media.php" title="">media</a></li>
                 <li><a href="press.php" title="">press</a></li>
                 <li><a href="contact.php" title="">contact</a></li>
@@ -37,19 +41,11 @@
 
     <?php include("../includes/_banner.php"); ?>
   </header>
+-->
 
-  <div class="row">
-    <div class="twelve columns">
-
-    <h5><?php echo "$page_title"; ?> 2014</h5>
-
-<?php include("../includes/_concerts.php"); ?>
-
-    </div>
-  </div>
+{% include lyrics.html %]
 
 
-<?php include("../includes/_footer.php"); ?>
+{% include footer.html %}
 
-</body>
-</html>
+
