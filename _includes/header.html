@@ -1,0 +1,35 @@
+  <header>
+    <div class="row">
+      <div class="twelve columns">
+	<img id="logo" src="/images/aggerbaek-logo.png" alt="Logo">
+      </div>
+    </div>
+    <!-- Menu -->
+    <div class="row">
+      <div class="twelve columns">
+	<div class="contain-to-grid">
+	  <nav class="top-bar" id="menubar">
+	    <ul>
+              <li class="name"><h1 class="newlogo"><a href="/index.html"><span class="newlogo">AGGERBÆK</span></a></h1></li>
+              <li class="toggle-topbar"><a href="#"></a></li>
+            </ul>
+            <section>
+	      {% include menu.html %}
+	      <ul class="right">
+		<li>
+		{% if page.lang == 'da' %}
+		<a href="en/index.html" title="Engelsk version"><img
+		  class="flag" src="images/gb.png"></a></li>
+		{% else %}
+    		<a href="/index.html" title="Danish version"><img
+		  class="flag" src="images/dk.png"></a></li>
+		{% endif %}
+		</li>	
+	      </ul>
+	    </section>
+	  </nav>
+	</div>
+      </div>
+    </div>
+    {% include banner.html %}
+  </header>
