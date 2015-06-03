@@ -1,7 +1,13 @@
-name: ""
+name: Aggerbæk.dk
+
 google:
 
+lang: da
 
-exclude:
-  - bower_components/
+baseurl: ""
+
+markdown: redcarpet
+
+exclude: ["bower_components", "includes", "scss", "config.rb",
+          "fbtest.html", "README.md"]
 
