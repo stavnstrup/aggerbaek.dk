@@ -1,42 +1,8 @@
-<?php $page_title = "Nyheder" ?>
-<?php include("includes/_header.php"); ?>
-
-  <header>
-    <div class="row">
-      <div class="twelve columns">
-        <img id="logo" src="/images/aggerbaek-logo.png" alt=""/>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="twelve columns">
-        <div class="contain-to-grid">
-          <nav class="top-bar" id="menubar">
-            <ul>
-              <li class="name"><h1 class="newlogo"><a href="/"><span class="newlogo">AGGERBÆK</span></a></h1></li>
-              <li class="toggle-topbar"><a href="#"></a></li>
-            </ul>
-            <section>
-              <ul class="left">
-                <li><a href="diskografi.php" title="">diskografi</a></li>
-                <li><a href="biografi.php" title="">biografi</a></li>
-                <li><a href="koncerter.php" title="">koncerter</a></li>
-                <li><a href="medie.php" title="">medie</a></li>
-                <li><a href="presse.php" title="">presse</a></li>
-                <li><a href="kontakt.php" title="">kontakt</a></li>
-              </ul>
-              <ul class="right">
-                <li><a href="en/index.php" title="Engelsk version"><img
-                class="flag" src="images/gb.png"/></a></li>
-              </ul>
-            </section>
-          </nav>
-        </div>
-      </div>
-    </div>
-
-    <?php include("includes/_banner.php"); ?>
-  </header>
+---
+title: Nyheder
+layout: default
+lang: da
+---
 
 
   <div class="row">
@@ -90,13 +56,13 @@ anmeldelser af Aggerbæk Orkesters seneste plader:</p>
 </blockquote>
 
     </div>
-    <div class="eight columns">
-<iframe name="full" style="width:100%;height:520px;border:0px;" src="http://widget.cdbaby.com/5fe7c0a2-a040-4b5a-9045-1627d2e9e611/full/light/opaque"></iframe>
+    <div class="six columns">
+      <iframe name="full" style="width:100%;height:520px;border:0px;" src="http://widget.cdbaby.com/5fe7c0a2-a040-4b5a-9045-1627d2e9e611/full/light/opaque"></iframe>
 <!-- old cdbaby     
       <iframe title="Store Widget" frameborder="0" scrolling="no" width="100%" height="600" src="http://www.cdbaby.com/widgets/store/store.aspx?id=RJVC23HfWTNKWmqBEgT5uA%3d%3d&type=ByCustomer&c1=0x000000&c2=0xE0E0E0&c3=0xCCCCCC&c4=0x666666&c5=0x333333&c6=0xFFFFFF&c7=0xFFFFFF"></iframe>
 -->
-       <p />
-       <img src="images/covers/heartbeat2-cover450.jpg"
+      <p />
+      <img src="images/covers/heartbeat2-cover450.jpg"
          alt="Benjamin Aggerb&aelig;k - Heartbeat cover" class="bigcover right"/>
 
 
@@ -111,8 +77,7 @@ anmeldelser af Aggerbæk Orkesters seneste plader:</p>
 </div>
 
 
-<?php include("includes/_footer.php"); ?>
+{% include footer.html %}
 
-</body>
-</html>
+
 
