@@ -1,0 +1,1 @@
+RedirectMatch 303 (.*)\.php$ .html
