@@ -46,5 +46,7 @@ tracklist:
     duration: 1:01
 crew:
   - name: Benjamin Aggerbæk
-    instrumentation: vokal, akk. guitar
+    instrument:
+      da: vokal, akk. guitar
+      en: vokal, akk. guitar
 ---

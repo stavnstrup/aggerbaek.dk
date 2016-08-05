@@ -43,34 +43,64 @@ tracklist:
     duration: 7:14
 crew:
   - name: Benjamin Aggerbæk
-    instrumentation: vocal, acoustic guitar
+    instrument:
+      da: vocal, acoustic guitar
+      en: vocal, acoustic guitar
   - name: Alexander Kraglund
-    instrumentation: violin, harmonica
+    instrument:
+      da: violin, harmonica
+      en: violin, harmonica
   - name: Kasper Bai
-    instrumentation: guitar, horn and stringarrangement
+    instrument:
+      da: guitar, horn and stringarrangement
+      en: guitar, horn and stringarrangement
   - name: Martin Krogh
-    instrumentation: double bass
+    instrument:
+      da: double bass
+      en: double bass
   - name: Rasmus Glendorf
-    instrumentation: drums
+    instrument:
+      da: drums
+      en: drums
 guests:
   - name: Anders Bast
-    instrumentation: saxofoner, flute, clarinet
+    instrument:
+      da: saxofoner, flute, clarinet
+      en: saxofoner, flute, clarinet
   - name: Ole Visby
-    instrumentation: clarinet, bass clarinet, baritone sax
+    instrument:
+      da: clarinet, bass clarinet, baritone sax
+      en: clarinet, bass clarinet, baritone sax
   - name: Thomas Caudery
-    instrumentation: trumpet, flugelhorn
+    instrument:
+      da: trumpet, flugelhorn
+      en: trumpet, flugelhorn
   - name: Gustav Rasmussen
-    instrumentation: trombone
+    instrument:
+      da: trombone
+      en: trombone
   - name: Jakob Johansen
-    instrumentation: trombone, euphonium
+    instrument:
+      da: trombone, euphonium
+      en: trombone, euphonium
   - name: Morten Møller
-    instrumentation: viola
+    instrument:
+      da: viola
+      en: viola
   - name: Adam McKenzie
-    instrumentation: cello
+    instrument:
+      da: cello
+      en: cello
   - name: Anders Fillipsen
-    instrumentation: piano
+    instrument:
+      da: piano
+      en: piano
   - name: Miss My
-    instrumentation: vocal
+    instrument:
+      da: vocal
+      en: vocal
   - name: Tira Skamby
-    instrumentation: Percussion
+    instrument:
+      da: Percussion
+      en: Percussion
 ---

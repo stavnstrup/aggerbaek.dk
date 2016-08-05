@@ -46,34 +46,64 @@ tracklist:
     duration: 1:53
 crew:
   - name: Benjamin Aggerbæk
-    instrumentation: vokal, accoustic guitars, electric guitar (5), grand piano (1), harmonium (4), handclaps
+    instrument:
+      da: vokal, accoustic guitars, electric guitar (5), grand piano (1), harmonium (4), handclaps
+      en: vokal, accoustic guitars, electric guitar (5), grand piano (1), harmonium (4), handclaps
   - name: Kasper Bai
-    instrumentation: accoustic guitars (2, 6), electric guitars, electric baritone guitar, Wurlitzer (1), handclaps)
+    instrument:
+      da: accoustic guitars (2, 6), electric guitars, electric baritone guitar, Wurlitzer (1), handclaps)
+      en: accoustic guitars (2, 6), electric guitars, electric baritone guitar, Wurlitzer (1), handclaps)
   - name: Martin Krogh
-    instrumentation: double bass, electric bass
+    instrument:
+      da: double bass, electric bass
+      en: double bass, electric bass
   - name: Rasmus Glendorf
-    instrumentation: drums, percussion drum machine, vibraphone, handclaps
+    instrument:
+      da: drums, percussion drum machine, vibraphone, handclaps
+      en: drums, percussion drum machine, vibraphone, handclaps
   - name: Alexander Kraglund
-    instrumentation: violin and viola chromatic harmonica
+    instrument:
+      da: violin and viola chromatic harmonica
+      en: violin and viola chromatic harmonica
 guests:
   - name: Cecillie Hyldgaard
-    instrumentation: cello
+    instrument:
+      da: cello
+      en: cello
   - name: Ole Visby
-    instrumentation: clarinet, bass clarinet, baritone sax
+    instrument:
+      da: clarinet, bass clarinet, baritone sax
+      en: clarinet, bass clarinet, baritone sax
   - name: Anders Bast
-    instrumentation: tenor sax, flute
+    instrument:
+      da: tenor sax, flute
+      en: tenor sax, flute
   - name: Peter Marott
-    instrumentation: trumpet, flugelhorn
+    instrument:
+      da: trumpet, flugelhorn
+      en: trumpet, flugelhorn
   - name: Gustav Rasmussen
-    instrumentation: trombone (1, 9), flugabone (1, 11)
+    instrument:
+      da: trombone (1, 9), flugabone (1, 11)
+      en: trombone (1, 9), flugabone (1, 11)
   - name: Jakob Johansen
-    instrumentation: trombone (1, 6, 7, 10)
+    instrument:
+      da: trombone (1, 6, 7, 10)
+      en: trombone (1, 6, 7, 10)
   - name: Anders Fillipsen
-    instrumentation: grand piano (3), Hammond organ (1), Wurlitzer (5)
+    instrument:
+      da: grand piano (3), Hammond organ (1), Wurlitzer (5)
+      en: grand piano (3), Hammond organ (1), Wurlitzer (5)
   - name: Lars Emil Riis
-    instrumentation: upright piano (3, 9, 10), rhodes (3, 6)
+    instrument:
+      da: upright piano (3, 9, 10), rhodes (3, 6)
+      en: upright piano (3, 9, 10), rhodes (3, 6)
   - name: Sofie Christiansen
-    instrumentation: vocals (6, 7)
+    instrument:
+      da: vocals (6, 7)
+      en: vocals (6, 7)
   - name: Tim Sorensen
-    instrumentation: electric guitar (5)
+    instrument:
+      da: electric guitar (5)
+      en: electric guitar (5)
 ---

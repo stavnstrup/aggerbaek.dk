@@ -55,13 +55,23 @@ tracklist:
     duration: 4:30
 crew:
   - name: Benjamin Aggerbæk
-    instrumentation: vokal og guitar
+    instrument:
+      da: vokal og guitar
+      en: vokal og guitar
   - name: Martin Mattuck Krogh
-    instrumentation: Kontrabas
+    instrument:
+      da: Kontrabas
+      en: Kontrabas
   - name: Rasmus Glendorf
-    instrumentation: trommer
+    instrument:
+      da: trommer
+      en: trommer
   - name: Kasper Bai
-    instrumentation: lead guitar
+    instrument:
+      da: lead guitar
+      en: lead guitar
   - name: Alexander Kraglund
-    instrumentation: Violin
+    instrument:
+      da: Violin
+      en: Violin
 ---      
