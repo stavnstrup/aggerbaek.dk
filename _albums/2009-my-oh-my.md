@@ -1,14 +1,15 @@
 ---
 artist: Aggerbæk Kvintet
-title: My Oh My
+album: My Oh My
 year: 2009
+lyrics-fragid: myohmy
 cover:
   small: /images/covers/my-oh-my-cover-small.jpg
 label:
   name: Your   Favourite Jazz
   id: yfjcd 011
-  mail: jazz@yfr.dk
-  web: http://www.yfr.dk/jazz"
+  web: http://www.yfr.dk/jazz
+  email: jazz@yfr.dk
 tracklist:
   - number: 1
     title: When True Love Says Goodbye
@@ -42,34 +43,34 @@ tracklist:
     duration: 7:14
 crew:
   - name: Benjamin Aggerbæk
-    instrument: vocal, acoustic guitar
+    instrumentation: vocal, acoustic guitar
   - name: Alexander Kraglund
-    instrument: violin, harmonica
+    instrumentation: violin, harmonica
   - name: Kasper Bai
-    instrument: guitar, horn and stringarrangement
+    instrumentation: guitar, horn and stringarrangement
   - name: Martin Krogh
-    instrument: double bass
+    instrumentation: double bass
   - name: Rasmus Glendorf
-    instrument: drums
+    instrumentation: drums
 guests:
   - name: Anders Bast
-    instrument: saxofoner, flute, clarinet
+    instrumentation: saxofoner, flute, clarinet
   - name: Ole Visby
-    instrument: clarinet, bass clarinet, baritone sax
+    instrumentation: clarinet, bass clarinet, baritone sax
   - name: Thomas Caudery
-    instrument: trumpet, flugelhorn
+    instrumentation: trumpet, flugelhorn
   - name: Gustav Rasmussen
-    instrument: trombone
+    instrumentation: trombone
   - name: Jakob Johansen
-    instrument: trombone, euphonium
+    instrumentation: trombone, euphonium
   - name: Morten Møller
-    instrument: viola
+    instrumentation: viola
   - name: Adam McKenzie
-    instrument: cello
+    instrumentation: cello
   - name: Anders Fillipsen
-    instrument: piano
+    instrumentation: piano
   - name: Miss My
-    instrument: vocal
+    instrumentation: vocal
   - name: Tira Skamby
-    instrument: Percussion
+    instrumentation: Percussion
 ---

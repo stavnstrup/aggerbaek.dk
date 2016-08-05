@@ -1,11 +1,15 @@
 ---
 artist: Aggerbæk Kvintet
-title: Heartbeat
+album: Heartbeat
 year: 2013
+cover:
+  small: /images/covers/heartbeat2-cover-small.jpg
+lyrics-fragid: heartbeat
 label:
   name: C&P Calibrated Music
   id: CALILP002
   web: http://www.calibrated.org/
+  web-title: Calibrated Music
 tracklist:
   - number: 1
     title: Begin Again

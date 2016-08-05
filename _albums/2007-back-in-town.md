@@ -1,12 +1,15 @@
 ---
 artist: Aggerbæk Kvintet
-title: Back In Town
+album: Back In Town
 year: 2007
+lyrics-fragid: backintown
 cover:
   small: /images/covers/back-in-town-cover-small.jpg
 label:
   name: Your Favourite Records
   id: favouritecd 004
+  web: www.yfr.dk/jazz
+  email: jazz@yfr.dk
 tracklist:
   - number: 1
     title: The Truth
@@ -52,13 +55,13 @@ tracklist:
     duration: 4:30
 crew:
   - name: Benjamin Aggerbæk
-    instrument: vokal og guitar
+    instrumentation: vokal og guitar
   - name: Martin Mattuck Krogh
-    instrument: Kontrabas
+    instrumentation: Kontrabas
   - name: Rasmus Glendorf
-    instrument: trommer
+    instrumentation: trommer
   - name: Kasper Bai
-    instrument: lead guitar
+    instrumentation: lead guitar
   - name: Alexander Kraglund
-    instrument: Violin
+    instrumentation: Violin
 ---      

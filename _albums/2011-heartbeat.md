@@ -1,11 +1,15 @@
 ---
 artist: Benjamin Aggerbæk
-title: Heartbeat
+album: Heartbeat
 year: 2011
+lyrics-fragid: heartbeat
+cover:
+  small: /images/covers/heartbeat-cover-small.jpg
 label:
-  - name: Aggerbæk
-    id: aggerbaek 01
-    web: http://www.gateway.dmf.dk/
+  name: Aggerbæk
+  id: aggerbaek 01
+  web: http://www.gateway.dmf.dk/
+  web-title: Gateway Music
 tracklist:
   - number: 1
     title: Begin Again
@@ -43,3 +47,4 @@ tracklist:
 crew:
   - name: Benjamin Aggerbæk
     instrumentation: vokal, akk. guitar
+---
