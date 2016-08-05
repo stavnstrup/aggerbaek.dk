@@ -1,5 +1,5 @@
 ---
-title: Contakt
+title: Contact
 layout: page
 lang: en
 ---
@@ -15,12 +15,3 @@ lang: en
 **Website:** [www.aggerbaek.dk](http://www.aggerbaek.dk)
 
 **Download  music:** [aggerbaek.bandcamp.com](http://aggerbaek.bandcamp.com) - [cdbaby.com](http://www.cdbaby.com/Search/YWdnZXJiw6Zr/0) - [itunes/aggerbaek](https://itunes.apple.com/us/artist/aggerbaek/id371584649)
-
-
-
-
-
-
-
-
-
