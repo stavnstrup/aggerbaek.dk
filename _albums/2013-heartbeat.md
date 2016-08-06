@@ -47,23 +47,23 @@ tracklist:
 crew:
   - name: Benjamin Aggerbæk
     instrument:
-      da: vokal, accoustic guitars, electric guitar (5), grand piano (1), harmonium (4), handclaps
-      en: vokal, accoustic guitars, electric guitar (5), grand piano (1), harmonium (4), handclaps
+      da: vokal, akustik guitar, electrisk guitar (5), flygel (1), harmonium (4), handclaps
+      en: vocal, accoustic guitars, electric guitar (5), grand piano (1), harmonium (4), handclaps
   - name: Kasper Bai
     instrument:
-      da: accoustic guitars (2, 6), electric guitars, electric baritone guitar, Wurlitzer (1), handclaps)
+      da: akustisk guitar (2, 6), elektrisk guitar, electrisk baritone guitar, Wurlitzer (1), handclaps)
       en: accoustic guitars (2, 6), electric guitars, electric baritone guitar, Wurlitzer (1), handclaps)
   - name: Martin Krogh
     instrument:
-      da: double bass, electric bass
+      da: kontrabas, electrisk basguitar
       en: double bass, electric bass
   - name: Rasmus Glendorf
     instrument:
-      da: drums, percussion drum machine, vibraphone, handclaps
+      da: trommer, percussion tromme maskine, vibrafon, handclaps
       en: drums, percussion drum machine, vibraphone, handclaps
   - name: Alexander Kraglund
     instrument:
-      da: violin and viola chromatic harmonica
+      da: violin og viola kromatisk harmonika
       en: violin and viola chromatic harmonica
 guests:
   - name: Cecillie Hyldgaard
@@ -72,15 +72,15 @@ guests:
       en: cello
   - name: Ole Visby
     instrument:
-      da: clarinet, bass clarinet, baritone sax
+      da: klarinet, basklarinet, bariton sax
       en: clarinet, bass clarinet, baritone sax
   - name: Anders Bast
     instrument:
-      da: tenor sax, flute
+      da: tenor sax, fløjte
       en: tenor sax, flute
   - name: Peter Marott
     instrument:
-      da: trumpet, flugelhorn
+      da: trompet, flugelhorn
       en: trumpet, flugelhorn
   - name: Gustav Rasmussen
     instrument:
@@ -92,7 +92,7 @@ guests:
       en: trombone (1, 6, 7, 10)
   - name: Anders Fillipsen
     instrument:
-      da: grand piano (3), Hammond organ (1), Wurlitzer (5)
+      da: flygel (3), Hammond organ (1), Wurlitzer (5)
       en: grand piano (3), Hammond organ (1), Wurlitzer (5)
   - name: Lars Emil Riis
     instrument:
@@ -100,10 +100,10 @@ guests:
       en: upright piano (3, 9, 10), rhodes (3, 6)
   - name: Sofie Christiansen
     instrument:
-      da: vocals (6, 7)
+      da: vokal (6, 7)
       en: vocals (6, 7)
   - name: Tim Sorensen
     instrument:
-      da: electric guitar (5)
+      da: electrisk guitar (5)
       en: electric guitar (5)
 ---

@@ -48,5 +48,5 @@ crew:
   - name: Benjamin Aggerbæk
     instrument:
       da: vokal, akk. guitar
-      en: vokal, akk. guitar
+      en: vocal, acc. guitar
 ---

@@ -44,36 +44,36 @@ tracklist:
 crew:
   - name: Benjamin Aggerbæk
     instrument:
-      da: vocal, acoustic guitar
+      da: vokal, akustisk guitar
       en: vocal, acoustic guitar
   - name: Alexander Kraglund
     instrument:
-      da: violin, harmonica
+      da: violin, harmonika
       en: violin, harmonica
   - name: Kasper Bai
     instrument:
-      da: guitar, horn and stringarrangement
+      da: guitar, horn og strygearrangement
       en: guitar, horn and stringarrangement
   - name: Martin Krogh
     instrument:
-      da: double bass
+      da: kontrabas
       en: double bass
   - name: Rasmus Glendorf
     instrument:
-      da: drums
+      da: trommer
       en: drums
 guests:
   - name: Anders Bast
     instrument:
-      da: saxofoner, flute, clarinet
+      da: saxofoner, fløjte, klarinet
       en: saxofoner, flute, clarinet
   - name: Ole Visby
     instrument:
-      da: clarinet, bass clarinet, baritone sax
+      da: klarinet, bas klarinet, baritone sax
       en: clarinet, bass clarinet, baritone sax
   - name: Thomas Caudery
     instrument:
-      da: trumpet, flugelhorn
+      da: trompet, flugelhorn
       en: trumpet, flugelhorn
   - name: Gustav Rasmussen
     instrument:
@@ -85,7 +85,7 @@ guests:
       en: trombone, euphonium
   - name: Morten Møller
     instrument:
-      da: viola
+      da: bratsch
       en: viola
   - name: Adam McKenzie
     instrument:
@@ -93,11 +93,11 @@ guests:
       en: cello
   - name: Anders Fillipsen
     instrument:
-      da: piano
+      da: klaver
       en: piano
   - name: Miss My
     instrument:
-      da: vocal
+      da: vokal
       en: vocal
   - name: Tira Skamby
     instrument:

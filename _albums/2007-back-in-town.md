@@ -57,7 +57,7 @@ crew:
   - name: Benjamin Aggerbæk
     instrument:
       da: vokal og guitar
-      en: vokal og guitar
+      en: vocal and guitar
   - name: Martin Mattuck Krogh
     instrument:
       da: Kontrabas
@@ -65,7 +65,7 @@ crew:
   - name: Rasmus Glendorf
     instrument:
       da: trommer
-      en: trommer
+      en: drums
   - name: Kasper Bai
     instrument:
       da: lead guitar
