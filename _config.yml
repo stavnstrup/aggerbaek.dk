@@ -7,7 +7,7 @@ lang: da
 baseurl: ""
 
 exclude: ["bower_components", "includes", "scss", "config.rb",
-          "fbtest.html", "README.md", "Gemfile.*"]
+          "fbtest.html", "README.md", "Gemfile.*", "Vagrantfile"]
 
 collections:
   albums:
