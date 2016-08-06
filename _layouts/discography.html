@@ -1,0 +1,45 @@
+---
+layout: page
+---
+
+<h5>{{page.title}}</h5>
+
+{% for album in site.albums reversed %}
+{% capture thelyrics%}{% if page.lang == "da" %}tekster{% else %}lyrics{% endif %}{%endcapture %}
+<div class="row discography">
+  <div class="three columns"><img src="{{ album.cover.small }}"/><p class="lyrics"><a href="{{ thelyrics }}.html#{{ album.lyrics-fragid }}">{{ thelyrics }}</a></p></div>
+  <div class="nine columns">
+    <p class="discinfo">
+      <span class="artist">{{ album.artist }}</span> //
+      <span class="title">{{ album.album }}</span> ({{ album.year}}) <br />
+      {{ album.label.name }} // {{ album.label.id }}
+      {% if album.label.web %}
+        <br />
+        {% capture thetitle %}
+          {% if album.label.web-title %}
+            {{ album.label.web-title }}
+          {% else %}
+            {{ album.label.web }}
+          {% endif %}
+        {% endcapture %}
+        <a href="{{ album.label.web }}">{{ thetitle }}</a>
+      {% endif %}
+      {% if album.label.web and album.label.email %} // {% endif %}
+      {% if album.label.email %}
+      <a href="mailto:{{ album.label.email }}">{{ album.label.email }}</a>
+      {% endif %}
+    </p>
+    <p class="trackinfo"><span class="head">Tracklist:</span><br />
+    {% for track in album.tracklist %}{{ track.title }}{% unless forloop.last %} // {% endunless%}{% endfor %}
+    </p>
+
+    <p class="members"><span class="head">{{ album.artist }}</span><br />
+      {% for member in album.crew %}{{ member.name }} ({{ member.instrument[page.lang] }}){% unless forloop.last %} // {% endunless%}{% endfor %}
+      {% if album.guests %}
+      <strong><em>{% if page.lang == "da" %}med{% else %}with{% endif %}</em></strong><br>
+      {% for guest in album.guests %}{{ guest.name }} ({{ guest.instrument[page.lang] }}){% unless forloop.last %} // {% endunless%}{% endfor %}
+      {% endif %}
+    </p>
+  </div>
+</div>
+{% endfor %}

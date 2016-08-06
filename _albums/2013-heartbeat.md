@@ -1,0 +1,109 @@
+---
+artist: Aggerbæk Kvintet
+album: Heartbeat
+year: 2013
+cover:
+  small: /images/covers/heartbeat2-cover-small.jpg
+lyrics-fragid: heartbeat
+label:
+  name: C&P Calibrated Music
+  id: CALILP002
+  web: http://www.calibrated.org/
+  web-title: Calibrated Music
+tracklist:
+  - number: 1
+    title: Begin Again
+    duration: 6:25
+  - number: 2
+    title: A Fool
+    duration: 3:00
+  - number: 3
+    title: Heartbeat
+    duration: 3:36
+  - number: 4
+    title: Stranger
+    duration: 5:26
+  - number: 5
+    title: You're Not Lost
+    duration: 4:26
+  - number: 6
+    title: Waterfall
+    duration: 4:08
+  - number: 7
+    title: Daydream
+    duration: 2:51
+  - number: 8
+    title: Ghost
+    duration: 2:53
+  - number: 9
+    title: I Will Forget
+    duration: 2:18
+  - number: 10
+    title: New Orleans
+    duration: 4:39
+  - number: 11
+    title: A Beatiful Goodbye
+    duration: 1:53
+crew:
+  - name: Benjamin Aggerbæk
+    instrument:
+      da: vokal, akustik guitar, electrisk guitar (5), flygel (1), harmonium (4), handclaps
+      en: vocal, accoustic guitars, electric guitar (5), grand piano (1), harmonium (4), handclaps
+  - name: Kasper Bai
+    instrument:
+      da: akustisk guitar (2, 6), elektrisk guitar, electrisk baritone guitar, Wurlitzer (1), handclaps)
+      en: accoustic guitars (2, 6), electric guitars, electric baritone guitar, Wurlitzer (1), handclaps)
+  - name: Martin Krogh
+    instrument:
+      da: kontrabas, electrisk basguitar
+      en: double bass, electric bass
+  - name: Rasmus Glendorf
+    instrument:
+      da: trommer, percussion tromme maskine, vibrafon, handclaps
+      en: drums, percussion drum machine, vibraphone, handclaps
+  - name: Alexander Kraglund
+    instrument:
+      da: violin og viola kromatisk harmonika
+      en: violin and viola chromatic harmonica
+guests:
+  - name: Cecillie Hyldgaard
+    instrument:
+      da: cello
+      en: cello
+  - name: Ole Visby
+    instrument:
+      da: klarinet, basklarinet, bariton sax
+      en: clarinet, bass clarinet, baritone sax
+  - name: Anders Bast
+    instrument:
+      da: tenor sax, fløjte
+      en: tenor sax, flute
+  - name: Peter Marott
+    instrument:
+      da: trompet, flugelhorn
+      en: trumpet, flugelhorn
+  - name: Gustav Rasmussen
+    instrument:
+      da: trombone (1, 9), flugabone (1, 11)
+      en: trombone (1, 9), flugabone (1, 11)
+  - name: Jakob Johansen
+    instrument:
+      da: trombone (1, 6, 7, 10)
+      en: trombone (1, 6, 7, 10)
+  - name: Anders Fillipsen
+    instrument:
+      da: flygel (3), Hammond organ (1), Wurlitzer (5)
+      en: grand piano (3), Hammond organ (1), Wurlitzer (5)
+  - name: Lars Emil Riis
+    instrument:
+      da: upright piano (3, 9, 10), rhodes (3, 6)
+      en: upright piano (3, 9, 10), rhodes (3, 6)
+  - name: Sofie Christiansen
+    instrument:
+      da: vokal (6, 7)
+      en: vocals (6, 7)
+  - name: Tim Sorensen
+    instrument:
+      da: electrisk guitar (5)
+      en: electric guitar (5)
+---

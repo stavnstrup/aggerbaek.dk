@@ -1,13 +1,14 @@
 name: Aggerbæk.dk
 
-google:
+markdown: kramdown
 
 lang: da
 
 baseurl: ""
 
-markdown: redcarpet
-
 exclude: ["bower_components", "includes", "scss", "config.rb",
-          "fbtest.html", "README.md"]
+          "fbtest.html", "README.md", "Gemfile.*", "Vagrantfile"]
 
+collections:
+  albums:
+    output: false
