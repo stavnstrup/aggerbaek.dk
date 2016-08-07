@@ -6,7 +6,7 @@ lang: da
 
 baseurl: ""
 
-exclude: ["bower_components", "includes", "scss", "config.rb",
+exclude: ["bower_components", "includes", "node_modules", "package.json", "gulpfile.js", "scss", "config.rb",
           "fbtest.html", "README.md", "Gemfile.*", "Vagrantfile"]
 
 collections:
