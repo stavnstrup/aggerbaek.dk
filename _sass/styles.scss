@@ -1,0 +1,124 @@
+@charset 'utf-8';
+
+@import 'vendor/bourbon/bourbon';
+@import 'base/base';
+@import 'vendor/neat/neat';
+
+
+body {
+  background-color: #000500;
+  color: #fff;
+}
+
+header {
+  width: 100%;
+}
+
+.newlogo {
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1030px;
+  padding: 0 15px;
+
+}
+
+nav .main-menu li {
+  display: inline;
+  padding-right: 10px;
+}
+
+
+
+.right1 {
+  float: right;
+}
+
+.sub-nav {
+  display: block;
+  overflow: hidden;
+  width: auto;
+}
+
+
+.home {
+  @include outer-container();
+
+  .home-messages {
+    @include span-columns(6);
+    @include shift(-12);
+  }
+
+  .cdbaby {
+    @include span-columns(6);
+    @include shift(6);
+   }
+}
+
+
+
+.social {
+  background-color: hsla(5, 25%, 17%, 0.7);
+  margin-top: -70px;
+  float: right;
+  dl {
+    margin: 0 70px 0 0;
+    dd {
+      padding-left: 20px;
+      font-size: 24px;
+      .itunes {
+        font-size: 70%;
+        padding-left: 10px;
+      }
+    }
+  }
+}
+
+
+/* Discography */
+
+.discography {
+    @include outer-container();
+    padding-top: 10px;
+    padding-bottom: 40px;
+    li {
+        list-style-type: none;
+    }
+    span.head {
+        font-style: italic;
+    }
+}
+
+.cover {
+  @include span-columns(3);
+}
+
+.albuminfo {
+  @include span-columns(9);
+}
+
+.discinfo {
+    .artist, .title {
+        font-weight: bold;
+    }
+}
+
+
+/* Lyrics */
+
+.albumhead {
+    margin-top: 40px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid white;
+    margin-bottom: 20px;
+    .artist, .title {
+        font-weight: bold;
+    }
+}
+
+.song {
+    margin-bottom: 40px;
+}

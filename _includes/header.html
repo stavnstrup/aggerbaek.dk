@@ -1,38 +1,24 @@
-  <header>
-    <div class="row">
-      <div class="twelve columns">
-<!--	
-	<p>Page.url: {{page.url}}</p>
--->
-	<img id="logo" src="/images/aggerbaek-logo.png" alt="Logo">
-      </div>
+<header>
+  <!-- top navigation bar -->
+  <div class="container">
+    <div class="header-logo">
+	      <h1 class="newlogo"><a href="/index.html"><span class="newlogo">AGGERBÆK</span></a></h1>
     </div>
-    <!-- Menu -->
-    <div class="row">
-      <div class="twelve columns">
-	<div class="contain-to-grid">
-	  <nav class="top-bar" id="menubar">
-	    <ul>
-              <li class="name"><h1 class="newlogo"><a href="/index.html"><span class="newlogo">AGGERBÆK</span></a></h1></li>
-              <li class="toggle-topbar"><a href="#"></a></li>
-            </ul>
-            <section>
+   	<nav>
 	      {% include menu.html %}
-	      <ul class="right">
-		<li>
+	  </nav>
 		{% if page.lang == 'da' %}
 		<a href="en/index.html" title="Engelsk version"><img
-		  class="flag" src="/images/gb.png"></a></li>
+		   class="flag" src="/images/gb.png"></a></li>
 		{% else %}
-    		<a href="/index.html" title="Danish version"><img
-		  class="flag" src="/images/dk.png"></a></li>
+    <a href="/index.html" title="Danish version"><img
+		   class="flag" src="/images/dk.png"></a></li>
 		{% endif %}
-		</li>	
-	      </ul>
-	    </section>
-	  </nav>
+
 	</div>
-      </div>
-    </div>
+
+  <!-- hero image -->
+  <div class="container">
     {% include banner.html %}
-  </header>
+  </div>
+</header>
