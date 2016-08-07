@@ -3,8 +3,9 @@ var gulp        = require('gulp');
 var browserSync = require('browser-sync');
 var sass        = require('gulp-sass');
 var prefix      = require('gulp-autoprefixer');
+var cssnano     = require('gulp-cssnano');
 var concat      = require('gulp-concat');
-var cp          = require('child_process');
+var uglify      = require('gulp-uglify');var cp          = require('child_process');
 
 var messages = {
   jekyllDev: 'Running: $ jekyll build for dev',
@@ -30,6 +31,7 @@ gulp.task('browser-sync', ['sass', 'scripts', 'jekyll-dev'], function() {
     port: 1234
   });
 });
+
 
 // Compile files from _scss folder into _site/css folder (for live injecting)
 gulp.task('sass', function () {
@@ -59,6 +61,33 @@ gulp.task('watch', function () {
   gulp.watch(['_js/**/*.js'], ['scripts'])
   gulp.watch(['index.*', '_layouts/*.html', '_posts', '_includes/*.html', '_drafts/*', '**/*.md', '**/*.html'], ['jekyll-rebuild']);
 });
+
+// Build the Jekyll Site in production mode
+gulp.task('jekyll-prod', function (done) {
+  browserSync.notify(messages.jekyllProd);
+  return cp.spawn('jekyll', ['build'], {stdio: 'inherit'})
+  .on('close', done);
+});
+
+// Build the Jekyll Site in production mode
+gulp.task('jekyll-prod', function (done) {
+  browserSync.notify(messages.jekyllProd);
+  return cp.spawn('jekyll', ['build'], {stdio: 'inherit'})
+  .on('close', done);
+});
+
+// Identical Javascript compilation task to development mode, with an additional minification step thrown in using uglify
+gulp.task('scripts-prod', function() {
+  return gulp.src(['_js/lib/*.js'])
+  .pipe(concat('scripts.js'))
+  .pipe(uglify())
+  .pipe(gulp.dest('_site/js'))
+  .pipe(gulp.dest('js'));;
+});
+
+// Build task, run using gulp build to compile Sass and Javascript ready for deployment.
+gulp.task('build', ['scripts-prod', 'sass-prod', 'jekyll-prod']);
+
 
 // Default task, running just gulp will compile the sass, compile the Jekyll site, launch BrowserSync & watch files.
 gulp.task('default', ['browser-sync', 'watch']);
