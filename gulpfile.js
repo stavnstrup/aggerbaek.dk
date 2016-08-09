@@ -28,7 +28,7 @@ gulp.task('jekyll-rebuild', ['jekyll-dev'], function () {
 gulp.task('browser-sync', ['sass', 'scripts', 'jekyll-dev'], function() {
   browserSync.init({
     server: "_site",
-    port: 1234
+    port: 3000
   });
 });
 
