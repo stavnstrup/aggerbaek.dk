@@ -6,8 +6,6 @@
 {% assign menu = site.data.menu-en %}
 {% endif %}
 
-
-
 <ul class="main-menu left">
 {% for p in menu  %}
   <li {% if p.url == page.url %}class="active"{% endif %}><a href="{{p.url}}" title="">{{p.title}}</a></li>

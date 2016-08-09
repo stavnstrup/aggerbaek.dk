@@ -1,20 +1,28 @@
 <header>
   <!-- top navigation bar -->
   <div class="container">
-    <div class="header-logo">
-	      <h1 class="newlogo"><a href="/index.html"><span class="newlogo">AGGERBÆK</span></a></h1>
-    </div>
-   	<nav>
-	      {% include menu.html %}
-	  </nav>
-		{% if page.lang == 'da' %}
-		<a href="en/index.html" title="Engelsk version"><img
-		   class="flag" src="/images/gb.png"></a></li>
-		{% else %}
-    <a href="/index.html" title="Danish version"><img
-		   class="flag" src="/images/dk.png"></a></li>
-		{% endif %}
-
+    <nav class="top-menu">
+      <ul class="left">
+        <li class="name">
+	        <h1 class="newlogo"><a href="/index.html"><span class="newlogo">AGGERBÆK</span></a></h1>
+        </li>
+        <li class="toggle-toolbar"></li>
+      </ul>
+      <section>
+   	    {% include menu.html %}
+	      <ul class="right">
+          <li class="nav-toolbar">
+  		    {% if page.lang == 'da' %}
+	  	      <a href="en/index.html" title="Engelsk version"><img
+		           class="flag" src="/images/gb.png"></a>
+          {% else %}
+            <a href="/index.html" title="Danish version"><img
+		          class="flag" src="/images/dk.png"></a>
+		      {% endif %}
+          </li>
+        </ul>
+      </section>
+    </nav>
 	</div>
 
   <!-- hero image -->
