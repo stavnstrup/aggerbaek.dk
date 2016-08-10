@@ -1,11 +1,16 @@
-// Source: https://www.chenhuijing.com/blog/gulp-jekyll-github/
-var gulp        = require('gulp');
-var browserSync = require('browser-sync');
-var sass        = require('gulp-sass');
-var prefix      = require('gulp-autoprefixer');
-var cssnano     = require('gulp-cssnano');
-var concat      = require('gulp-concat');
-var uglify      = require('gulp-uglify');var cp          = require('child_process');
+var jekyllprod = { JEKYLL_ENV: "production" };
+var gulp         = require('gulp'),
+    sass         = require('gulp-ruby-sass'),
+    autoprefixer = require('gulp-autoprefixer'),
+    cssnano      = require('gulp-cssnano'),
+    concat       = require('gulp-concat'),
+    uglify       = require('gulp-uglify'),
+    imagemin     = require('gulp-imagemin'),
+    rename       = require('gulp-rename'),
+    cache        = require('gulp-cache'),
+    cp           = require('child_process'),
+    browserSync  = require('browser-sync');
+
 
 var messages = {
   jekyllDev: 'Running: $ jekyll build for dev',
@@ -25,7 +30,7 @@ gulp.task('jekyll-rebuild', ['jekyll-dev'], function () {
 });
 
 // Wait for jekyll-dev task to complete, then launch the Server
-gulp.task('browser-sync', ['sass', 'scripts', 'jekyll-dev'], function() {
+gulp.task('browser-sync', ['styles', 'scripts', 'jekyll-dev'], function() {
   browserSync.init({
     server: "_site",
     port: 3000
@@ -33,17 +38,13 @@ gulp.task('browser-sync', ['sass', 'scripts', 'jekyll-dev'], function() {
 });
 
 
-// Compile files from _scss folder into _site/css folder (for live injecting)
-gulp.task('sass', function () {
-  return gulp.src('_sass/styles.scss')
-  .pipe(sass({
-    includePaths: ['scss'],
-    onError: browserSync.notify
-  }))
-  .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
-  .pipe(gulp.dest('_site/css'))
-  .pipe(browserSync.reload({stream:true}))
-  .pipe(gulp.dest('css'));
+// Compile files from assets/_sass folder into _site/assets/css folder (for live injecting)
+gulp.task('styles1', function () {
+  return sass('assets/_sass/styles.scss', { style: 'expanded', onError: browserSync.notify})
+    .pipe(autoprefixer(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
+    .pipe(gulp.dest('_site/assets/css')) // Used for direct injection
+    .pipe(browserSync.reload({stream:true}))
+    .pipe(gulp.dest('assets/css')); // Jekyll can grab it from here
 });
 
 // Compile files from _js/lib folder into both _site/js folder (for live injecting) and site folder (for future Jekyll builds)
@@ -57,23 +58,34 @@ gulp.task('scripts', function() {
 
 // Watch scss files for changes & recompile. Watch html/md files, run jekyll & reload BrowserSync
 gulp.task('watch', function () {
-  gulp.watch(['_sass/**/*.scss','_sass/*.scss'], ['sass']);
+  gulp.watch(['assets/_sass/**/*.scss' ], ['styles']);
   gulp.watch(['_js/**/*.js'], ['scripts'])
-  gulp.watch(['index.*', '_layouts/*.html', '_posts', '_includes/*.html', '_drafts/*', '**/*.md', '**/*.html'], ['jekyll-rebuild']);
+  gulp.watch(['index.*', '_layouts/*.html', '_posts/*', '_includes/*.html', '_drafts/*', '**/*.md', '**/*.html'], ['jekyll-rebuild']);
 });
 
 // Build the Jekyll Site in production mode
 gulp.task('jekyll-prod', function (done) {
   browserSync.notify(messages.jekyllProd);
-  return cp.spawn('jekyll', ['build'], {stdio: 'inherit'})
+  return cp.spawn('bundle', ['exec', 'jekyll', 'build'], {stdio: 'inherit'})
   .on('close', done);
+});
+
+
+gulp.task('styles', function () {
+  return sass('assets/_sass/styles.scss', { style: 'expanded', onError: browserSync.notify})
+    .pipe(autoprefixer(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
+    .pipe(gulp.dest('_site/assets/css')) // Used for direct injection
+    .pipe(browserSync.reload({stream:true}))
+    .pipe(rename({suffix: '.min'}))
+    .pipe(cssnano())
+    .pipe(gulp.dest('assets/css')); // Jekyll can grab it from here
 });
 
 
 gulp.task('sass-prod', function () {
   return gulp.src('_sass/styles.scss')
   .pipe(sass({
-    includePaths: ['scss'],
+    includePaths: ['_sass'],
     onError: browserSync.notify
   }))
   .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))

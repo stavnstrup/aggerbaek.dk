@@ -1,13 +1,16 @@
-name: Aggerbæk.dk
+name: Aggerbaek.dk
 
 markdown: kramdown
 
 lang: da
 
-baseurl: /aggerbaek.dk
+baseurl: ""
+
+
+aaaurl: https://stavnstrup.github.io
 
 exclude: ["README.md", "node_modules", "package.json", "gulpfile.js", "scss",
-          "Gemfile", "Genfile.lock", "Vagrantfile"]
+          "Gemfile", "Gemfile.lock", "Vagrantfile"]
 
 collections:
   albums:

@@ -1,7 +1,5 @@
+// This is the main style file for aggerbaek.dk
 @charset 'utf-8';
-
-
-// $font-stack-system: 'Open Sans', Verdana, sans-serif;
 
 @import 'vendor/bourbon/bourbon';
 @import 'base/base';
@@ -11,6 +9,7 @@
 
 body {
   background-color: #000500;
+//  background-color: pink;
   color: #fff;
 }
 
@@ -21,7 +20,7 @@ header {
 }
 
 .top-menu {
-  padding: 0px 0 0px;
+  padding: 0;
 }
 
 a {
@@ -43,8 +42,8 @@ a {
   font-size: 26px;
   font-weight: bold;
   letter-spacing: 2px;
-  margin-right: 11px;
   margin-bottom: 7px;
+  margin-right: 11px;
 }
 
 .container {
@@ -87,6 +86,23 @@ a {
   float: right;
 }
 
+
+blockquote {
+
+  border-left: 1px solid #ddd;
+  margin: 0 0 17px;
+  padding: 9px 20px 0 19px;
+}
+
+blockquote,
+blockquote p {
+  color: #6f6f6f;
+  line-height: 1.5;
+}
+
+
+
+
 .sub-nav {
   display: block;
   overflow: hidden;
@@ -99,6 +115,8 @@ a {
   }
 }
 
+
+// templates
 
 .home {
   @include outer-container();
