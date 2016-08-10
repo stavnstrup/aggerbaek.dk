@@ -137,15 +137,17 @@ a {
 /* Discography */
 
 .discography {
-    @include outer-container();
-    padding-top: 10px;
-    padding-bottom: 40px;
-    li {
-        list-style-type: none;
-    }
-    span.head {
-        font-style: italic;
-    }
+  @include outer-container;
+  padding-bottom: 40px;
+  padding-top: 10px;
+
+  li {
+    list-style-type: none;
+  }
+
+  span.head {
+    font-style: italic;
+  }
 }
 
 .cover {
@@ -157,9 +159,10 @@ a {
 }
 
 .discinfo {
-    .artist, .title {
-        font-weight: bold;
-    }
+  .artist,
+  .title {
+    font-weight: bold;
+  }
 }
 
 
@@ -171,18 +174,20 @@ a {
   @include span-columns(4);
 }
 
-/* Lyrics */
+// Lyrics
 
 .albumhead {
-    margin-top: 40px;
-    padding-bottom: 20px;
-    border-bottom: 2px solid white;
-    margin-bottom: 20px;
-    .artist, .title {
-        font-weight: bold;
-    }
+  border-bottom: 2px solid white;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  padding-bottom: 20px;
+
+  .artist,
+  .title {
+    font-weight: bold;
+  }
 }
 
 .song {
-    margin-bottom: 40px;
+  margin-bottom: 40px;
 }
