@@ -69,11 +69,17 @@ gulp.task('jekyll-prod', function (done) {
   .on('close', done);
 });
 
-// Build the Jekyll Site in production mode
-gulp.task('jekyll-prod', function (done) {
-  browserSync.notify(messages.jekyllProd);
-  return cp.spawn('jekyll', ['build'], {stdio: 'inherit'})
-  .on('close', done);
+
+gulp.task('sass-prod', function () {
+  return gulp.src('_sass/styles.scss')
+  .pipe(sass({
+    includePaths: ['scss'],
+    onError: browserSync.notify
+  }))
+  .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
+  .pipe(cssnano())
+  .pipe(gulp.dest('_site/css'))
+  .pipe(gulp.dest('css'));
 });
 
 // Identical Javascript compilation task to development mode, with an additional minification step thrown in using uglify

@@ -4,7 +4,7 @@ markdown: kramdown
 
 lang: da
 
-baseurl: "aggerbaek.dk"
+baseurl: /aggerbaek.dk
 
 exclude: ["README.md", "node_modules", "package.json", "gulpfile.js", "scss",
           "Gemfile", "Genfile.lock", "Vagrantfile"]

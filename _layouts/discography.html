@@ -7,7 +7,7 @@ layout: page
 {% for album in site.albums reversed %}
 {% capture thelyrics%}{% if page.lang == "da" %}tekster{% else %}lyrics{% endif %}{%endcapture %}
 <div class="discography">
-  <div class="cover"><img src="{{ album.cover.small }}"/><p class="lyrics"><a href="{{ thelyrics }}.html#{{ album.lyrics-fragid }}">{{ thelyrics }}</a></p></div>
+  <div class="cover"><img src="{{ site.baseurl }}{{ album.cover.small }}"/><p class="lyrics"><a href="{{ thelyrics }}.html#{{ album.lyrics-fragid }}">{{ thelyrics }}</a></p></div>
   <div class="albuminfo">
     <p class="discinfo">
       <span class="artist">{{ album.artist }}</span> //

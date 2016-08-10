@@ -4,7 +4,7 @@
     <nav class="top-menu">
       <ul class="left">
         <li class="name">
-	        <h1 class="newlogo"><a href="/index.html"><span class="newlogo">AGGERBÆK</span></a></h1>
+	        <h1 class="newlogo"><a href="{{ site.baseurl }}/index.html"><span class="newlogo">AGGERBÆK</span></a></h1>
         </li>
         <li class="toggle-toolbar"></li>
       </ul>
@@ -13,11 +13,11 @@
 	      <ul class="right">
           <li class="nav-toolbar">
   		    {% if page.lang == 'da' %}
-	  	      <a href="en/index.html" title="Engelsk version"><img
-		           class="flag" src="/images/gb.png"></a>
+	  	      <a href="{{ site.baseurl }}/en/index.html" title="Engelsk version"><img
+		           class="flag" src="{{ site.baseurl }}/images/gb.png"></a>
           {% else %}
-            <a href="/index.html" title="Danish version"><img
-		          class="flag" src="/images/dk.png"></a>
+            <a href="{{ site.baseurl }}/index.html" title="Danish version"><img
+		          class="flag" src="{{ site.baseurl }}/images/dk.png"></a>
 		      {% endif %}
           </li>
         </ul>
