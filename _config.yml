@@ -6,8 +6,8 @@ lang: da
 
 baseurl: ""
 
-exclude: ["bower_components", "includes", "node_modules", "package.json", "gulpfile.js", "scss", "config.rb",
-          "fbtest.html", "README.md", "Gemfile.*", "Vagrantfile"]
+exclude: ["README.md", "node_modules", "package.json", "gulpfile.js", "scss",
+          "Gemfile", "Genfile.lock", "Vagrantfile"]
 
 collections:
   albums:
