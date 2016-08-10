@@ -163,6 +163,14 @@ a {
 }
 
 
+.album-lyrics {
+  @include outer-container;
+}
+
+.lyrics-set {
+  @include span-columns(4);
+}
+
 /* Lyrics */
 
 .albumhead {
