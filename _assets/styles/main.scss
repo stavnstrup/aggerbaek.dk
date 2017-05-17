@@ -188,19 +188,17 @@ blockquote p {
   }
 }
 
-.biography {
+.biography,
+.presscontainer {
   @include outer-container;
 }
 
-.bioinfo {
+.bioinfo,
+.bioimage,
+.pressinfo,
+.pressimage {
   @include span-columns(6);
 }
-
-.bioimage {
-  @include span-columns(6);
-
-}
-
 
 
 .album-lyrics {
