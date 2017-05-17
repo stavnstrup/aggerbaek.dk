@@ -4,7 +4,7 @@ album: My Oh My
 year: 2009
 lyrics-fragid: myohmy
 cover:
-  small: /images/covers/my-oh-my-cover-small.jpg
+  small: /assets/images/covers/my-oh-my-cover-small.jpg
 label:
   name: Your   Favourite Jazz
   id: yfjcd 011

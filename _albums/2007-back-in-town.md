@@ -4,7 +4,7 @@ album: Back In Town
 year: 2007
 lyrics-fragid: backintown
 cover:
-  small: /images/covers/back-in-town-cover-small.jpg
+  small: /assets/images/covers/back-in-town-cover-small.jpg
 label:
   name: Your Favourite Records
   id: favouritecd 004

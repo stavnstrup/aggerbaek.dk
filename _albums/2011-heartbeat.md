@@ -4,7 +4,7 @@ album: Heartbeat
 year: 2011
 lyrics-fragid: heartbeat
 cover:
-  small: /images/covers/heartbeat-cover-small.jpg
+  small: /assets/images/covers/heartbeat-cover-small.jpg
 label:
   name: Aggerbæk
   id: aggerbaek 01

@@ -3,7 +3,7 @@ artist: Aggerbæk Kvintet
 album: Heartbeat
 year: 2013
 cover:
-  small: /images/covers/heartbeat2-cover-small.jpg
+  small: /assets/images/covers/heartbeat2-cover-small.jpg
 lyrics-fragid: heartbeat
 label:
   name: C&P Calibrated Music

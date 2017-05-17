@@ -20,7 +20,7 @@ paths.styleGuideDir    = 'styleguide';
 paths.postFolderName   = '_posts';
 paths.draftFolderName  = '_drafts';
 paths.fontFolderName   = 'fonts';
-paths.imageFolderName  = 'img';
+paths.imageFolderName  = 'images';
 paths.scriptFolderName = 'js';
 paths.stylesFolderName = 'styles';
 
