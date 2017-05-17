@@ -188,6 +188,20 @@ blockquote p {
   }
 }
 
+.biography {
+  @include outer-container;
+}
+
+.bioinfo {
+  @include span-columns(6);
+}
+
+.bioimage {
+  @include span-columns(6);
+
+}
+
+
 
 .album-lyrics {
   @include outer-container;
