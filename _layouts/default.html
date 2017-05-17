@@ -1,16 +1,13 @@
 <!DOCTYPE html>
-<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="{% if page.lang != '' %}{{page.lang}}{% else %}{{site.lang}}{% endif %}"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"  lang="{% if page.lang != '' %}{{page.lang}}{% else %}{{site.lang}}{% endif %}"> <!--<![endif]-->
+<html class="no-js"  lang="{% if page.lang != '' %}{{page.lang}}{% else %}{{site.lang}}{% endif %}">
 <head>
-  <meta charset="UTF-8">
-
-  <!-- Set the viewport width to device width for mobile -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
   <title>Aggerbæk{% if page.title %} - {{ page.title }}{% endif %}</title>
   <meta name="description" content="Aggerbæk 'My Oh My' - New Album out now.">
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <meta name="keywords" content="aggerbæk, jazz, my oh my, when true love says goodbye, you don't know, a spark, we'll die alone, in the dark, be together apart, st. peter's blues, orange moon, lost in love">
 <!--
  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
@@ -41,6 +38,9 @@
   {% endif %}
 </head>
 <body>
+  <!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+  <![endif]-->
   {{ content }}
 </body>
 </html>
