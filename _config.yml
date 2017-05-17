@@ -1,17 +1,25 @@
-name: Aggerbaek.dk
 
-markdown: kramdown
-
-lang: da
+title: Aggerbaek.dk
 
 baseurl: ""
+
+# Language
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax-highlighter: rouge
+
+lang: da
 
 
 aaaurl: https://stavnstrup.github.io
 
-exclude: ["README.md", "node_modules", "package.json", "gulpfile.js", "scss",
-          "Gemfile", "Gemfile.lock", "Vagrantfile"]
+exclude: ["vendor", "_assets", "Gemfile", "Gemfile.lock", "README.md", "node_modules", "package.json", "gulpfile.js",
+          "scss", "Vagrantfile"]
 
 collections:
   albums:
     output: false
+
+# Gems:
