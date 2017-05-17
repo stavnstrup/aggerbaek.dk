@@ -6,17 +6,26 @@
 @import 'scss/vendor/neat/neat';
 
 
+// Colors
+
+$white: #fff;
+$xxx: #000500;
+$lightbrown: hsla(5, 25%, 17%, .7);
 
 body {
-  background-color: #000500;
+  background-color: $xxx;
 //  background-color: pink;
-  color: #fff;
+  color: $white;
 }
 
 header {
-  padding-top: 20px;
   padding-bottom: 25px;
+  padding-top: 20px;
   width: 100%;
+}
+
+h5 {
+  font-size: 15px;
 }
 
 .top-menu {
@@ -24,7 +33,7 @@ header {
 }
 
 a {
-    color: white;
+    color: $white;
 }
 
 .header-logo {
@@ -34,7 +43,6 @@ a {
   // @include span-columns(3);
   // @include omega;
 }
-
 
 
 .newlogo {
@@ -88,7 +96,6 @@ a {
 
 
 blockquote {
-
   border-left: 1px solid #ddd;
   margin: 0 0 17px;
   padding: 9px 20px 0 19px;
@@ -99,8 +106,6 @@ blockquote p {
   color: #6f6f6f;
   line-height: 1.5;
 }
-
-
 
 
 .sub-nav {
@@ -133,16 +138,16 @@ blockquote p {
 }
 
 
-
 .social {
-  background-color: hsla(5, 25%, 17%, 0.7);
-  margin-top: -70px;
+  background-color: $lightbrown;
   float: right;
+  margin-top: -70px;
+  position: relative;
   dl {
     margin: 0 70px 0 0;
     dd {
-      padding-left: 20px;
       font-size: 24px;
+      padding-left: 20px;
       .itunes {
         font-size: 70%;
         padding-left: 10px;
