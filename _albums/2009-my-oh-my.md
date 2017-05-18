@@ -8,7 +8,7 @@ cover:
 label:
   name: Your   Favourite Jazz
   id: yfjcd 011
-  web: http://www.yfr.dk/jazz
+  web: http://www.yfr.dk/
   email: jazz@yfr.dk
 tracklist:
   - number: 1

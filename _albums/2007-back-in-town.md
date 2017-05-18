@@ -8,7 +8,7 @@ cover:
 label:
   name: Your Favourite Records
   id: favouritecd 004
-  web: www.yfr.dk/jazz
+  web: http://www.yfr.dk/
   email: jazz@yfr.dk
 tracklist:
   - number: 1

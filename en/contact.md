@@ -6,7 +6,7 @@ lang: en
 
 ##### Kontakt
 
-**Booking:** Benjamin Aggerbæk, +45-3143-3990, [benjaminaggerbeck@gmail.com](benjaminaggerbeck@gmail.com)
+**Booking:** Benjamin Aggerbæk, +45-3143-3990, [benjaminaggerbeck@gmail.com](mailto:benjaminaggerbeck@gmail.com)
 
 **New York Booking:**  Francess-Ann: +1 (201) 963 1487
 
