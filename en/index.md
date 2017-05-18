@@ -18,19 +18,15 @@ extracts from reviews of the latest albums by Aggerbæk Orchestra.
 >
 > &mdash; *JazzNyt af Niels Overgård - maj 2013*
 
-
 > [Benjamin Aggerbæk] Danmarks beskedne svar på Jeff Buckley … begge Heartbeats – som findes samlet på en dobbelt-lp – må anbefales.
 >
 > &mdash; *Gaffa - Ivan Rod - maj 2013*
-
-
 
 > Det sker alt for sjældent at danske sangere laver original ny
 > jazzmusik. Men det er ikke kun fordi at Aggerbæk er en sjælden fisk,
 > at han har lavet en af årets bedste plader.
 >
 > &mdash; *JazzNyt af Niels Overgård - dec. 2009*
-
 
 > Aggerbæks vokal besidder en stor inderlighed, og stemmen spiller
 > fint op til den meget billeddannende musikalske baggrund, der giver

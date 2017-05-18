@@ -4,8 +4,6 @@ layout: biography
 lang: da
 ---
 
-
-
 Benjamin Aggerbæk er en københavnerbaseret komponist, sanger og ildsjæl.
 
 Hans nu 4 albums dækker alt fra det folk’ede til det jazz’ede – fra en helt
