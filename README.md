@@ -1,5 +1,7 @@
 # aggerbaek.dk
 
+[![Linux Build Status](https://travis-ci.org/stavnstrup/aggerbaek.svg?branch=master)](https://travis-ci.org/stavnstrup/aggerbaek)
+
 Homepage for the singer-songwriter Benjamin Aggerbæk
 
    http://aggerbaek.dk
