@@ -12,10 +12,15 @@ $white: #fff;
 $xxx: #000500;
 $lightbrown: hsla(5, 25%, 17%, .7);
 
+
 body {
   background-color: $xxx;
 //  background-color: pink;
   color: $white;
+}
+
+p {
+  margin-bottom: 17px;
 }
 
 header {
@@ -81,6 +86,7 @@ a {
   display: inline;
   float: right;
   padding-top: 4px;
+
   img {
     display: inline;
   }
@@ -103,7 +109,7 @@ blockquote {
 
 blockquote,
 blockquote p {
-  color: #6f6f6f;
+  color: #bdbdbd;
   line-height: 1.5;
 }
 
@@ -196,7 +202,8 @@ blockquote p {
 .bioinfo,
 .bioimage,
 .pressinfo,
-.pressimage {
+.pressimage,
+.media4x3 {
   @include span-columns(6);
 }
 
@@ -225,4 +232,11 @@ blockquote p {
 
 .song {
   margin-bottom: 40px;
+}
+
+
+// media
+
+.gridcontainer {
+  @include outer-container;
 }
