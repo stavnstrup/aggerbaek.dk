@@ -1,11 +1,12 @@
 # Git ignore file for the aggerbaek.dk project
 *~
-_site
-.sass-cache
 .DS_Store
-.jekyll-metadata
 node_modules
-assets
-vendor
-.bundle
-.vagrant
+
+
+# auto-generated tag files
+tags
+
+# Hugo output
+public/
+resources/
