@@ -1,0 +1,5 @@
+baseURL = "https://aggerbaek.dk"
+languageCode = "da-dk"
+title = "Aggerbæk"
+
+timeZone = "Europe/Copenhagen"
