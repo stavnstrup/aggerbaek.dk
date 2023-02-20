@@ -3,3 +3,28 @@ languageCode = "da-dk"
 title = "Aggerbæk"
 
 timeZone = "Europe/Copenhagen"
+
+disableKinds = [ 'taxonomy', 'term' ]
+
+# Language settings
+contentDir = "content/da"
+defaultContentLanguage = "da"
+defaultContentLanguageInSubdir = false
+
+disableLanguages = ["en"]
+
+
+[languages]
+[languages.da]
+languageName = "Dansk"
+# Weight used for sorting.
+weight = 1
+languagedirection = "ltr"
+
+
+[languages.en]
+languageName = "English"
+# Weight used for sorting.
+weight = 2
+contentDir = "content/en"
+languagedirection = "ltr"
