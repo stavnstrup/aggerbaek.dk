@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.language }}">
+<html lang="{{ .Lang }}">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -9,21 +9,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <meta name="keywords" content="aggerbæk, jazz, my oh my, when true love says goodbye, you don't know, a spark, we'll die alone, in the dark, be together apart, st. peter's blues, orange moon, lost in love">
-<!--
- <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
--->
   <!-- Included CSS Files -->
   <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
 <!--
   <link rel="stylesheet" href="/css/aggerbaek.css">
 -->
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-  {% if jekyll.environment == "production" %}
-  <link rel="stylesheet" href="{{ site.base_url }}/assets/css/styles.min.css">
-  {% else %}
-  <link rel="stylesheet" href="{{ site.base_url }}/assets/styles/main.css">
-  {% endif %}
-  {% if jekyll.environment == "production "%}
+  {{- if hugo.IsProduction -}}
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/styles.min.css">
+  {{- else }}
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css">
+  {{ end }}
+  {{ if hugo.IsProduction }}
   <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-39202916-1']);
@@ -35,12 +32,12 @@
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
   </script>
-  {% endif %}
+  {{ end }}
 </head>
 <body>
   <!--[if lt IE 8]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
   <![endif]-->
-  {{ .Content }}
+  {{ block "main" . }}{{ end }}
 </body>
 </html>
