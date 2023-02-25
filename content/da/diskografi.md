@@ -1,5 +1,7 @@
 ---
 title: Diskografi
 layout: discography
-lang: da
+menu:
+  main:
+    weight: 20
 ---

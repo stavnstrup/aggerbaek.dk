@@ -1,7 +1,9 @@
 ---
 title: Biografi
 layout: biography
-lang: da
+menu:
+  main:
+    weight: 30
 ---
 
 Benjamin Aggerbæk er en københavnerbaseret komponist, sanger og ildsjæl.
