@@ -9,12 +9,12 @@
         <li class="toggle-toolbar"></li>
       </ul>
       <section>
-   	    {% include menu.html %}
+   	    {{/* {% include menu.html %} */}}
 	      <ul class="right">
           <li class="nav-toolbar">
   		    {{ if eq .Lang "da" }}
 	  	      <a href="{{ .Site.BaseURL }}/en/index.html" title="Engelsk version"><img
-		           class="flag" src="{{ site.baseurl }}/assets/images/gb.png" alt="UK version"></a>
+		           class="flag" src="{{ .Site.BaseURL }}/assets/images/gb.png" alt="UK version"></a>
           {{ else }}
             <a href="{{ .Site.BaseURL }}/index.html" title="Danish version"><img
 		          class="flag" src="{{ .Site.BaseURL }}/assets/images/dk.png" alt="DK version"></a>
