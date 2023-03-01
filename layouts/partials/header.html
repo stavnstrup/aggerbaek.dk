@@ -10,6 +10,16 @@
       </ul>
       <section>
    	    {{/* {% include menu.html %} */}}
+        {{ $p := . }}
+        <ul class="main-menu left">
+          {{ with site.Menus.main }}
+          {{ range . }}
+            {{ $active := ($p.IsMenuCurrent "main" .) }}
+            <li {{ if $active }}class="active"{{ end }}><a href="{{ site.BaseURL }}{{ .URL }}" title="">{{.Title}}</a></li>
+          {{ end }}
+          {{ end }}
+        </ul>
+
 	      <ul class="right">
           <li class="nav-toolbar">
   		    {{ if eq .Lang "da" }}
