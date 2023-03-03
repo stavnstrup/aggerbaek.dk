@@ -2,6 +2,9 @@
 title: Kontakt
 layout: page
 lang: da
+menu:
+  main:
+    weight: 60
 ---
 
 ##### Kontakt
