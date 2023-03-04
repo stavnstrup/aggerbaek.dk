@@ -4,7 +4,7 @@
     <nav class="top-menu">
       <ul class="left">
         <li class="name">
-	        <h1 class="newlogo"><a href="{{ .Site.BaseURL }}/index.html"><span class="newlogo">AGGERBÆK</span></a></h1>
+	        <h1 class="newlogo"><a href="/index.html"><span class="newlogo">AGGERBÆK</span></a></h1>
         </li>
         <li class="toggle-toolbar"></li>
       </ul>
@@ -14,7 +14,7 @@
           {{ with site.Menus.main }}
           {{ range . }}
             {{ $active := ($p.IsMenuCurrent "main" .) }}
-            <li {{ if $active }}class="active"{{ end }}><a href="{{ site.BaseURL }}{{ .URL }}" title="">{{.Title | lower }}</a></li>
+            <li {{ if $active }}class="active"{{ end }}><a href="{{ site.BaseURL }}{{ .URL }}" title="">{{.Title | lower }}</a>Z</li>
           {{ end }}
           {{ end }}
         </ul>
@@ -22,11 +22,11 @@
 	      <ul class="right">
           <li class="nav-toolbar">
   		    {{ if eq .Lang "da" }}
-	  	      <a href="{{ .Site.BaseURL }}/en/" title="Engelsk version"><img
-		           class="flag" src="{{ .Site.BaseURL }}/images/gb.png" alt="UK version"></a>
+	  	      <a href="/en/" title="Engelsk version"><img
+		           class="flag" src="/images/gb.png" alt="UK version"></a>
           {{ else }}
-            <a href="{{ .Site.BaseURL }}/index.html" title="Danish version"><img
-		          class="flag" src="{{ .Site.BaseURL }}/images/dk.png" alt="DK version"></a>
+            <a href="/" title="Danish version"><img
+		          class="flag" src="/images/dk.png" alt="DK version"></a>
 		      {{ end }}
           </li>
         </ul>
