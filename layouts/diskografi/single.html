@@ -1,12 +1,12 @@
----
-layout: page
----
+{{ define "main" }}
 
 <h5>{{page.title}}</h5>
 
 {{ $thelyrics := cond (eq .lang "da") "tekster" "lyrics" }}
 
-{{ range site.Data.albums  }}
+{{ printf "%#v" .Site.Data.albums }}
+
+{{ range site.Data.albums }}
 <div class="discography">
   <div class="cover"><img src="/images/covers/{{ .params.cover.small }}" alt="{{ .params.album }}"/><p class="lyrics"><a href="{{ $thelyrics }}.html#{{ .params.lyricsfragid }}">{{ $thelyrics }}</a></p></div>
   <div class="albuminfo">
@@ -31,17 +31,22 @@ layout: page
     </p>
 
     <p class="members"><span class="head">{{ .params.artist }}</span><br />
-      {{ range .params.crew }}
-        {{ .name }} ({{ .instrument[page.lang] }})
-        {% unless forloop.last %} // {% endunless%}
+      {{ $crewSize := (len .params.crew) }}
+      {{ range $index, $element := .params.crew }}
+        {{ .name }} ({{ index .instrument page.lang }})
+        {{ if lt (add $index 1 ) $crewSize }} // {{ end }}
       {{ end }}
-      {% if .params.guests %}
+      {{ if .params.guests }}
       <strong><em>{{ if eq .params.lang "da" }}med{{ else }}with{{ end }}</em></strong><br>
-      {{ range .params.guests }}
-        {{ .name }} ({{ .instrument[page.lang] }})
-        {% unless forloop.last %} // {% endunless%}{% endfor %}
+      {{ $guestsSize := (len .params.guests) }}
+      {{ range $index, $element := .params.guests }}
+        {{ .name }} ({{ index .instrument page.lang }})
+        {{ if lt (add $index 1 ) $guestsSize }} // {{ end }}
+      {{ end }}
       {{ end }}
     </p>
   </div>
 </div>
+{{ end }}
+
 {{ end }}
