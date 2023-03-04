@@ -1,6 +1,7 @@
 ---
 title: Biografi
 layout: biography
+
 menu:
   main:
     weight: 20

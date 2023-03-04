@@ -1,0 +1,47 @@
+---
+layout: page
+---
+
+<h5>{{page.title}}</h5>
+
+{{ $thelyrics := cond (eq .lang "da") "tekster" "lyrics" }}
+
+{{ range site.Data.albums  }}
+<div class="discography">
+  <div class="cover"><img src="/images/covers/{{ .params.cover.small }}" alt="{{ .params.album }}"/><p class="lyrics"><a href="{{ $thelyrics }}.html#{{ .params.lyricsfragid }}">{{ $thelyrics }}</a></p></div>
+  <div class="albuminfo">
+    <p class="discinfo">
+      <span class="artist">{{ .artist }}</span> //
+      <span class="title">{{ .album }}</span> ({{ .year}}) <br />
+      {{ .label.name }} // {{ .label.id }}
+      {{ if .label.web }}
+        <br />
+        {{ $thetitle := cond .params.label.webtitle .params.label.webtitle .params.label.web }}
+        <a href="{{ .params.label.web }}">{{ $thetitle }}</a>
+      {{ end }}
+      {{ if and .params.label.web .params.label.email }} // {{ end }}
+      {{ if .label.email }}
+      <a href="mailto:{{ .label.email }}">{{ .label.email }}</a>
+      {{ end }}
+    </p>
+    <p class="trackinfo"><span class="head">Tracklist:</span><br />
+    {{ range .params.tracklist }}
+      {{ .track.title }}{% unless forloop.last %} // {% endunless%}
+    {{ end }}
+    </p>
+
+    <p class="members"><span class="head">{{ .params.artist }}</span><br />
+      {{ range .params.crew }}
+        {{ .name }} ({{ .instrument[page.lang] }})
+        {% unless forloop.last %} // {% endunless%}
+      {{ end }}
+      {% if .params.guests %}
+      <strong><em>{{ if eq .params.lang "da" }}med{{ else }}with{{ end }}</em></strong><br>
+      {{ range .params.guests }}
+        {{ .name }} ({{ .instrument[page.lang] }})
+        {% unless forloop.last %} // {% endunless%}{% endfor %}
+      {{ end }}
+    </p>
+  </div>
+</div>
+{{ end }}

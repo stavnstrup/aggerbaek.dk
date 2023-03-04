@@ -14,7 +14,7 @@
           {{ with site.Menus.main }}
           {{ range . }}
             {{ $active := ($p.IsMenuCurrent "main" .) }}
-            <li {{ if $active }}class="active"{{ end }}><a href="{{ site.BaseURL }}{{ .URL }}" title="">{{.Title | lower }}</a>Z</li>
+            <li {{ if $active }}class="active"{{ end }}><a href="{{ site.BaseURL }}{{ .URL }}" title="">{{.Title | lower }}</a></li>
           {{ end }}
           {{ end }}
         </ul>

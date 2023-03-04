@@ -4,12 +4,12 @@ album: Heartbeat
 year: 2013
 cover:
   small: /assets/images/covers/heartbeat2-cover-small.jpg
-lyrics-fragid: heartbeat
+lyricsfragid: heartbeat
 label:
   name: C&P Calibrated Music
   id: CALILP002
   web: http://www.calibrated.org/
-  web-title: Calibrated Music
+  webtitle: Calibrated Music
 tracklist:
   - number: 1
     title: Begin Again

@@ -2,6 +2,7 @@
 title: Contact
 layout: page
 lang: en
+
 menu:
   main:
     weight: 60

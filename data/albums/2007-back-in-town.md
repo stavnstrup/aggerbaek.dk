@@ -2,7 +2,7 @@
 artist: Aggerbæk Kvintet
 album: Back In Town
 year: 2007
-lyrics-fragid: backintown
+lyricsfragid: backintown
 cover:
   small: /assets/images/covers/back-in-town-cover-small.jpg
 label:

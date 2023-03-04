@@ -2,7 +2,7 @@
 artist: Aggerbæk Kvintet
 album: My Oh My
 year: 2009
-lyrics-fragid: myohmy
+lyricsfragid: myohmy
 cover:
   small: /assets/images/covers/my-oh-my-cover-small.jpg
 label:
