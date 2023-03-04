@@ -1,6 +1,6 @@
 ---
 title: Biography
-layout: biography
+layout: biography 
 menu:
   main:
     weight: 20
