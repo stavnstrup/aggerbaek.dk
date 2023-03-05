@@ -11,7 +11,7 @@ contentDir = "content/da"
 defaultContentLanguage = "da"
 defaultContentLanguageInSubdir = false
 
-disableLanguages = ["en"]
+disableLanguages = [""]
 
 [languages]
 [languages.da]

@@ -7,7 +7,7 @@
 
 {{ range (sort .Site.Data.albums "year" "desc") }}
 <div class="discography">
-  <div class="cover"><img src="{{ .cover.small }}" alt="{{ .album }}"/><p class="lyrics"><a href="{{ $thelyrics }}.html#{{ .lyricsfragid }}">{{ $thelyrics }}</a></p></div>
+  <div class="cover"><img src="{{ .cover.small }}" alt="{{ .album }}"/><p class="lyrics"><a href="/tekster/index.html#{{ .lyricsfragid }}">{{ $thelyrics }}</a></p></div>
   <div class="albuminfo">
     <p class="discinfo">
       <span class="artist">{{ .artist }}</span> //

@@ -1,6 +1,6 @@
 ---
 title: Biography
-layout: biography
+type: biografi
 
 menu:
   main:
