@@ -1,6 +1,6 @@
 ---
 title: Diskografi
-layout: discography
+type: diskografi
 
 menu:
   main:

@@ -1,10 +1,9 @@
----
 artist: Aggerbæk Kvintet
 album: Back In Town
 year: 2007
 lyricsfragid: backintown
 cover:
-  small: /assets/images/covers/back-in-town-cover-small.jpg
+  small: /images/covers/back-in-town-cover-small.jpg
 label:
   name: Your Favourite Records
   id: favouritecd 004
@@ -74,4 +73,3 @@ crew:
     instrument:
       da: Violin
       en: Violin
----

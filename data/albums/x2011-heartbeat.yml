@@ -1,10 +1,9 @@
----
 artist: Benjamin Aggerbæk
 album: Heartbeat
 year: 2011
 lyricsfragid: heartbeat
 cover:
-  small: /assets/images/covers/heartbeat-cover-small.jpg
+  small: /images/covers/heartbeat-cover-small.jpg
 label:
   name: Aggerbæk
   id: aggerbaek 01
@@ -49,4 +48,3 @@ crew:
     instrument:
       da: vokal, akk. guitar
       en: vocal, acc. guitar
----

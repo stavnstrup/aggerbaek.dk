@@ -1,14 +1,13 @@
 {{ define "main" }}
 
-<h5>{{page.title}}</h5>
+<h5>{{.Title}}</h5>
 
-{{ $thelyrics := cond (eq .lang "da") "tekster" "lyrics" }}
+{{ $thelyrics := cond (eq (string .Language) "da") "tekster" "lyrics" }}
 
-{{ printf "%#v" .Site.Data.albums }}
 
-{{ range site.Data.albums }}
+{{ range (sort .Site.Data.albums "year" "desc") }}
 <div class="discography">
-  <div class="cover"><img src="/images/covers/{{ .params.cover.small }}" alt="{{ .params.album }}"/><p class="lyrics"><a href="{{ $thelyrics }}.html#{{ .params.lyricsfragid }}">{{ $thelyrics }}</a></p></div>
+  <div class="cover"><img src="{{ .cover.small }}" alt="{{ .album }}"/><p class="lyrics"><a href="{{ $thelyrics }}.html#{{ .lyricsfragid }}">{{ $thelyrics }}</a></p></div>
   <div class="albuminfo">
     <p class="discinfo">
       <span class="artist">{{ .artist }}</span> //
@@ -16,31 +15,32 @@
       {{ .label.name }} // {{ .label.id }}
       {{ if .label.web }}
         <br />
-        {{ $thetitle := cond .params.label.webtitle .params.label.webtitle .params.label.web }}
-        <a href="{{ .params.label.web }}">{{ $thetitle }}</a>
+        {{ $thetitle := cond (ne .label.webtitle "") .label.webtitle .label.web }}
+        <a href="{{ .label.web }}">{{ $thetitle }}</a>
       {{ end }}
-      {{ if and .params.label.web .params.label.email }} // {{ end }}
+      {{ if and .label.web .label.email }} // {{ end }}
       {{ if .label.email }}
       <a href="mailto:{{ .label.email }}">{{ .label.email }}</a>
       {{ end }}
     </p>
     <p class="trackinfo"><span class="head">Tracklist:</span><br />
-    {{ range .params.tracklist }}
-      {{ .track.title }}{% unless forloop.last %} // {% endunless%}
+    {{ $trackSize := (len .tracklist)}}
+    {{ range $index,$element := .tracklist }}
+      {{ .title }}{{ if lt (add $index 1 ) $trackSize }} // {{ end }}
     {{ end }}
     </p>
 
-    <p class="members"><span class="head">{{ .params.artist }}</span><br />
-      {{ $crewSize := (len .params.crew) }}
-      {{ range $index, $element := .params.crew }}
-        {{ .name }} ({{ index .instrument page.lang }})
+    <p class="members"><span class="head">{{ .artist }}</span><br />
+      {{ $crewSize := (len .crew) }}
+      {{ range $index, $element := .crew }}
+        {{ .name }} ({{ index .instrument (string page.Language) }})
         {{ if lt (add $index 1 ) $crewSize }} // {{ end }}
       {{ end }}
-      {{ if .params.guests }}
-      <strong><em>{{ if eq .params.lang "da" }}med{{ else }}with{{ end }}</em></strong><br>
-      {{ $guestsSize := (len .params.guests) }}
-      {{ range $index, $element := .params.guests }}
-        {{ .name }} ({{ index .instrument page.lang }})
+      {{ if .guests }}
+      <strong><em>{{ if eq .lang "da" }}med{{ else }}with{{ end }}</em></strong><br>
+      {{ $guestsSize := (len .guests) }}
+      {{ range $index, $element := .guests }}
+        {{ .name }} ({{ index .instrument (string page.Language) }})
         {{ if lt (add $index 1 ) $guestsSize }} // {{ end }}
       {{ end }}
       {{ end }}

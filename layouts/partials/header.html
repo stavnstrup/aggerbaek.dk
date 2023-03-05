@@ -9,14 +9,14 @@
         <li class="toggle-toolbar"></li>
       </ul>
       <section>
-        {{ $p := . }}
+        {{- $p := . }}
         <ul class="main-menu left">
-          {{ with site.Menus.main }}
-          {{ range . }}
-            {{ $active := ($p.IsMenuCurrent "main" .) }}
-            <li {{ if $active }}class="active"{{ end }}><a href="{{ site.BaseURL }}{{ .URL }}" title="">{{.Title | lower }}</a></li>
-          {{ end }}
-          {{ end }}
+          {{- with site.Menus.main }}
+          {{- range . }}
+            {{- $active := ($p.IsMenuCurrent "main" .) -}}
+            <li {{ if $active }}class="active"{{ end }}><a href="{{ .URL }}" title="">{{.Title | lower }}</a></li>
+          {{ end -}}
+          {{ end}}
         </ul>
 
 	      <ul class="right">
