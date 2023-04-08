@@ -1,5 +1,5 @@
 ---
-title: News
+title: Aggerbæk Orchestra
 layout: home
 lang: en
 ---
